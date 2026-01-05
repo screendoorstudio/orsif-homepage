@@ -20,6 +20,9 @@ This is the **ORSIF Homepage Redesign** - a conversion-optimized landing page fo
 - [x] Extracted expert quotes from SIRP Symposium transcripts
 - [x] Deployed to Vercel via GitHub integration
 - [x] Auto-deploy on push configured
+- [x] Updated nav logo to full white ORSIF logo (replacing shield + text)
+- [x] Updated hero logo to horizontal white version with tagline
+- [x] Split hero headline onto two lines for better visual impact
 
 ### Pending (Future Sessions):
 - [ ] Team review and feedback incorporation
@@ -45,9 +48,10 @@ ORSIF-website/
 ├── images/
 │   ├── hero-bg.jpg             # Hero background (cath lab team)
 │   ├── favicon.png             # ORSIF shield favicon
-│   ├── orsif_logo_tagline_color.png  # Hero logo
+│   ├── orsif_full_logo_white.png     # Nav logo (full wordmark)
+│   ├── orsif_logo_tagline_horizontal_white.png  # Hero logo (with tagline)
 │   ├── orsif_logo_white.png    # Footer logo
-│   ├── orsif_shield_mark_white.png   # Nav logo
+│   ├── orsif_shield_mark_white.png   # Shield mark only
 │   ├── orsif_shield_mark_color.png
 │   └── icons/                  # SVG icons for sections
 │       ├── Education.svg
@@ -67,6 +71,11 @@ ORSIF-website/
 │   ├── 9.26_3_gs_session_3_*.vtt   # SIRP Session 3: Ergonomics
 │   ├── 9.26_4_gs_session_4_*.vtt   # SIRP Session 4: Team protection
 │   └── 9.27_1_gs_session_5_*.vtt   # SIRP Session 5: Women in practice
+├── ORSIF-logos-for-web/        # Official ORSIF logo files (not tracked in git)
+│   ├── *_full_logo_white.png       # Full wordmark, white
+│   ├── *_full_logo_full color.png  # Full wordmark, color
+│   ├── *_with tagline_*.png        # Versions with tagline
+│   └── orsif_shield_mark_*.png     # Shield mark only
 └── image-bank/                 # Source images (not tracked in git)
     └── _Images-icons/          # Original photos, icons, logos
 ```
@@ -204,7 +213,7 @@ This homepage links to existing ORSIF properties:
 ### Image Sources
 - Hero and photos: `image-bank/_Images-icons/` (not tracked in git)
 - SVG icons: `image-bank/_Images-icons/_icons/_Healthcare_Advocacy_Icons_SVG/`
-- Logos: `../ORSIF-logos-for-web/`
+- Logos: `ORSIF-logos-for-web/` (local copy, not tracked in git)
 
 ---
 
