@@ -235,13 +235,9 @@ ul {
 }
 
 .nav-logo-img {
-    height: 40px;
+    height: 36px;
     width: auto;
-}
-
-.nav-logo-text {
-    font-size: 1.5rem;
-    font-weight: 700;
+    max-width: 280px;
 }
 
 .nav-links {
@@ -351,9 +347,8 @@ ul {
 }
 
 .hero-logo {
-    max-width: 320px;
+    max-width: 400px;
     margin: 0 auto 2rem;
-    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));
 }
 
 .hero-headline {
@@ -1066,6 +1061,11 @@ ul {
     }
 
     /* Navigation */
+    .nav-logo-img {
+        height: 28px;
+        max-width: 200px;
+    }
+
     .mobile-menu-btn {
         display: flex;
     }
@@ -1177,7 +1177,7 @@ ul {
 
 @media (max-width: 480px) {
     .hero-logo {
-        max-width: 240px;
+        max-width: 300px;
     }
 
     .hero-headline {
