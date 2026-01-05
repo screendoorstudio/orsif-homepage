@@ -4,7 +4,7 @@ Conversion-optimized landing page for ORSIF (Organization for Occupational Radia
 
 ## Live Site
 
-**Preview URL:** (will be added after deployment)
+**Live URL:** https://orsif-homepage.vercel.app
 
 ## Overview
 
