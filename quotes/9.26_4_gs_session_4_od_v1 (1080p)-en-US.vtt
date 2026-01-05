@@ -1,0 +1,7077 @@
+WEBVTT
+
+fbb32631-990b-4205-bacc-040eff7cc6c8-0
+00:00:00.040 --> 00:00:02.323
+Hi,
+my name is Bailey Richardson and today
+
+fbb32631-990b-4205-bacc-040eff7cc6c8-1
+00:00:02.323 --> 00:00:06.520
+I'm going to be talking about protecting
+the team and what techs need to know.
+
+df5cb2f1-87b0-4a4d-8d95-0a741a075aac-0
+00:00:07.920 --> 00:00:09.360
+These are my disclosures.
+
+6a9b6898-7406-4318-8915-8518822224b4-0
+00:00:11.840 --> 00:00:15.459
+So our objectives for the talk today are
+that after the talk,
+
+6a9b6898-7406-4318-8915-8518822224b4-1
+00:00:15.459 --> 00:00:19.778
+you're going to be able to explain 3 core
+principles of radiation safety,
+
+6a9b6898-7406-4318-8915-8518822224b4-2
+00:00:19.778 --> 00:00:22.347
+apply 3 techniques to cut fluoroscopy
+time,
+
+6a9b6898-7406-4318-8915-8518822224b4-3
+00:00:22.347 --> 00:00:27.075
+and describe an optimal room set up for
+overall radiation safety for the for the
+
+6a9b6898-7406-4318-8915-8518822224b4-4
+00:00:27.075 --> 00:00:28.360
+Cath lab and IR teams.
+
+da1f7287-0378-4e31-b9cd-615ab51bd499-0
+00:00:31.960 --> 00:00:33.640
+So starting out, why does it matter?
+
+b4214b3f-d45b-45b6-830f-90fc2295c804-0
+00:00:34.280 --> 00:00:37.840
+Radiation exposure leads to a lifelong
+risk.
+
+aeea489c-5ec5-4aa9-b067-e06e655a38ce-0
+00:00:37.920 --> 00:00:40.280
+It's dose dependent and it's cumulative.
+
+b3a14631-ca3e-4491-8238-e15fe1e9c415-0
+00:00:40.560 --> 00:00:43.260
+Every time that we are exposed to
+radiation,
+
+b3a14631-ca3e-4491-8238-e15fe1e9c415-1
+00:00:43.260 --> 00:00:47.280
+it increases our risk of long term side
+effects and complications.
+
+62049691-2ae5-4771-8bab-ea489e2c3197-0
+00:00:47.600 --> 00:00:52.747
+And being in Cath labs and IR labs where
+we're using radiation day in and day out,
+
+62049691-2ae5-4771-8bab-ea489e2c3197-1
+00:00:52.747 --> 00:00:56.840
+we're at some of the highest risk of any
+healthcare professional.
+
+81f36239-50fb-4c09-907a-37be9fe519e5-0
+00:00:57.520 --> 00:01:01.918
+And so that's why it's very important and
+we're getting a lot more attention to
+
+81f36239-50fb-4c09-907a-37be9fe519e5-1
+00:01:01.918 --> 00:01:06.316
+this as as the years have gone on and
+creating more technologies to help combat
+
+81f36239-50fb-4c09-907a-37be9fe519e5-2
+00:01:06.316 --> 00:01:09.560
+this so that we can improve our longevity
+in the Cath lab.
+
+f5a86747-cd8c-46b6-a8ab-fd51af47714c-0
+00:01:11.000 --> 00:01:14.840
+Kind of a background story of me,
+a Cath lab nurse for over 10 years.
+
+4d40f050-cdca-423d-8297-9c64e18ea360-0
+00:01:14.840 --> 00:01:19.386
+And I remember when I first started in
+the lab didn't really understand the
+
+4d40f050-cdca-423d-8297-9c64e18ea360-1
+00:01:19.386 --> 00:01:21.480
+importance of, of radiation safety.
+
+7728273a-d4a1-4282-a23c-f6a456b4e270-0
+00:01:21.480 --> 00:01:26.718
+Like we had a little bit of a laissez
+faire kind of culture about it of, yeah,
+
+7728273a-d4a1-4282-a23c-f6a456b4e270-1
+00:01:26.718 --> 00:01:31.094
+it's there, it's important,
+protect yourself, whatever, you know,
+
+7728273a-d4a1-4282-a23c-f6a456b4e270-2
+00:01:31.094 --> 00:01:33.880
+because we don't see it, we don't feel it.
+
+ca744b81-600a-4ed1-ba29-090459245a58-0
+00:01:33.880 --> 00:01:39.960
+So it's very easy to go about your day
+and and just kind of ignore it.
+
+e1a53ea8-ebfc-4bc9-9558-64633d4955bd-0
+00:01:40.120 --> 00:01:45.160
+And so hopefully some of the lessons I've
+learned along the way I can spread to you
+
+e1a53ea8-ebfc-4bc9-9558-64633d4955bd-1
+00:01:45.160 --> 00:01:50.200
+to help promote more safety and awareness
+as far as radiation and what we can do to
+
+e1a53ea8-ebfc-4bc9-9558-64633d4955bd-2
+00:01:50.200 --> 00:01:52.240
+protect ourselves in the Cath lab.
+
+b17a4ec4-a16d-44b4-8b02-015a4c1a1b1a-0
+00:01:57.240 --> 00:02:02.360
+So ultimately why it matters is because
+it leads to long term complications.
+
+fedf2ad1-98af-471f-926d-f138b0759531-0
+00:02:03.000 --> 00:02:06.640
+We're at increased risk for cataracts and
+eye problems.
+
+efdd263b-2686-4bf8-94df-266aa3d406d0-0
+00:02:08.040 --> 00:02:11.960
+We typically see the physicians as having
+the biggest risk.
+
+be0fa90d-beb6-451e-81d7-f2ec773e554a-0
+00:02:11.960 --> 00:02:16.014
+They're closest to the to the radiation
+and the source of it,
+
+be0fa90d-beb6-451e-81d7-f2ec773e554a-1
+00:02:16.014 --> 00:02:19.480
+but that doesn't leave us not exposed to
+it as well.
+
+8ec62e62-6146-4ce5-ad15-2f40e1badc82-0
+00:02:19.480 --> 00:02:24.342
+So in studies we've seen that
+approximately 21% of nurses and techs
+
+8ec62e62-6146-4ce5-ad15-2f40e1badc82-1
+00:02:24.342 --> 00:02:29.919
+have radiation related lens changes in a
+pacifications that lead to cataracts
+
+8ec62e62-6146-4ce5-ad15-2f40e1badc82-2
+00:02:29.919 --> 00:02:30.920
+later in life.
+
+55944382-a56f-4c8a-bfd2-022b43f39b1a-0
+00:02:31.960 --> 00:02:36.925
+And so some of the studies have shown
+like we can't really put a dose on it of
+
+55944382-a56f-4c8a-bfd2-022b43f39b1a-1
+00:02:36.925 --> 00:02:39.880
+what dose exposure really increases that
+risk.
+
+24a85fb0-a452-46c1-97f5-841a20a73f06-0
+00:02:39.880 --> 00:02:41.960
+It doesn't really have a lower threshold.
+
+686ff186-a511-4b36-9884-c4d51a4e610a-0
+00:02:42.320 --> 00:02:46.999
+And so that's why we need to be very
+diligent and very important to protecting
+
+686ff186-a511-4b36-9884-c4d51a4e610a-1
+00:02:46.999 --> 00:02:50.080
+our eyes because the incidence increases
+as we age.
+
+b0a48efe-5024-4ed2-ac6b-a2d0f0c6334d-0
+00:02:50.800 --> 00:02:53.646
+Of course,
+that that's just a natural occurrence of
+
+b0a48efe-5024-4ed2-ac6b-a2d0f0c6334d-1
+00:02:53.646 --> 00:02:58.025
+aging, but when we add radiation to it,
+it increases that exponentially as well
+
+b0a48efe-5024-4ed2-ac6b-a2d0f0c6334d-2
+00:02:58.025 --> 00:02:59.120
+as our years worked.
+
+627b8dd5-74d8-4b72-99ea-f80245dd2411-0
+00:02:59.200 --> 00:03:01.960
+You know,
+Catholic people are a different breed.
+
+ea47f527-f318-4055-a5ae-8014003dc99e-0
+00:03:01.960 --> 00:03:06.874
+Some people are Cath lab for life and we
+want to be able to work as long as we can,
+
+ea47f527-f318-4055-a5ae-8014003dc99e-1
+00:03:06.874 --> 00:03:09.800
+but not, you know,
+sacrifice our bodies to do so.
+
+6973a09e-4458-481b-be48-f67e9846e15d-0
+00:03:10.480 --> 00:03:15.273
+So one thing that has been shown is that
+once we use protective equipment to help
+
+6973a09e-4458-481b-be48-f67e9846e15d-1
+00:03:15.273 --> 00:03:18.080
+protectorize,
+that does decrease the incidence.
+
+8d2c74ec-190d-41b5-8cea-1982a5520f17-0
+00:03:18.080 --> 00:03:22.160
+And so that's why it's important to to
+use the protective equipment that we have.
+
+dc483dde-444f-4dc8-9c20-0116847ffa3d-0
+00:03:23.360 --> 00:03:25.240
+Second is thyroid issues.
+
+a67a0bd0-1c35-4ad1-9ca7-613ec4b7d068-0
+00:03:26.400 --> 00:03:31.029
+We have an increased incidence of thyroid
+nodules about 23%,
+
+a67a0bd0-1c35-4ad1-9ca7-613ec4b7d068-1
+00:03:31.029 --> 00:03:37.252
+which sometimes you know may not really
+lead to anything that we we feel symptoms
+
+a67a0bd0-1c35-4ad1-9ca7-613ec4b7d068-2
+00:03:37.252 --> 00:03:37.480
+of.
+
+ae53dab3-1998-4079-b83e-0b3a75678f4b-0
+00:03:37.480 --> 00:03:40.317
+We could have a subclinical
+hypothyroidism,
+
+ae53dab3-1998-4079-b83e-0b3a75678f4b-1
+00:03:40.317 --> 00:03:45.153
+but long term that increases your risk
+for thyroid cancer and the need for
+
+ae53dab3-1998-4079-b83e-0b3a75678f4b-2
+00:03:45.153 --> 00:03:50.312
+radiation, chemo or even a thyroidectomy,
+which can affect you later in life or
+
+ae53dab3-1998-4079-b83e-0b3a75678f4b-3
+00:03:50.312 --> 00:03:52.440
+even even as a as a young person.
+
+33b889a9-8fd1-4de6-8bda-f78b34e94d62-0
+00:03:52.720 --> 00:03:57.245
+We're increasing our our risk for that
+and it could ultimately take us out of
+
+33b889a9-8fd1-4de6-8bda-f78b34e94d62-1
+00:03:57.245 --> 00:03:58.000
+the Cath lab.
+
+e49e0c56-bb1f-446a-8142-7b3d3115e440-0
+00:03:59.280 --> 00:04:04.256
+And another issue that it seems like a
+little bit more insidious or that we
+
+e49e0c56-bb1f-446a-8142-7b3d3115e440-1
+00:04:04.256 --> 00:04:07.267
+don't really, you know,
+reflect on radiation,
+
+e49e0c56-bb1f-446a-8142-7b3d3115e440-2
+00:04:07.267 --> 00:04:11.720
+but it's the orthopedic strain because we
+are wearing lead all day.
+
+4d649278-f1c4-4da6-9672-582e826c89d0-0
+00:04:11.720 --> 00:04:16.778
+We're wearing heavy stuff that is not
+very good for our body mechanics and
+
+4d649278-f1c4-4da6-9672-582e826c89d0-1
+00:04:16.778 --> 00:04:20.285
+ergonomics,
+but we have to wear our lead to protect
+
+4d649278-f1c4-4da6-9672-582e826c89d0-2
+00:04:20.285 --> 00:04:20.960
+ourselves.
+
+988a4e9a-f86b-4e7d-a92a-dbb467379402-0
+00:04:20.960 --> 00:04:22.880
+But that can lead to our orthopedic
+strain.
+
+ec273155-2704-4400-97f7-6f153fb471e8-0
+00:04:22.880 --> 00:04:27.440
+And 60 to 62% of techs and nurses report
+neck and back pain.
+
+afe9cb76-32f4-4beb-95ce-1b48963ec38b-0
+00:04:27.800 --> 00:04:30.683
+I mean,
+I'm in my in my 30s and I already have
+
+afe9cb76-32f4-4beb-95ce-1b48963ec38b-1
+00:04:30.683 --> 00:04:34.119
+neck pain from, you know, one,
+not having good posture,
+
+afe9cb76-32f4-4beb-95ce-1b48963ec38b-2
+00:04:34.119 --> 00:04:35.960
+but wearing lead all the time.
+
+c1aae72c-ed55-4db4-9d32-da5bcbbe1073-0
+00:04:36.800 --> 00:04:40.490
+We are as Cath lab nurses and techs,
+unlike the physicians,
+
+c1aae72c-ed55-4db4-9d32-da5bcbbe1073-1
+00:04:40.490 --> 00:04:44.120
+we're in the Cath lab every day,
+all day for hours on end.
+
+6e2e258e-29d5-422d-b730-c1fbfc0ba0a2-0
+00:04:44.480 --> 00:04:47.156
+We don't really have big breaks in
+between, you know,
+
+6e2e258e-29d5-422d-b730-c1fbfc0ba0a2-1
+00:04:47.156 --> 00:04:49.040
+and then we take call on the weekends.
+
+12417527-9697-4d69-9cea-1e0558645aa9-0
+00:04:49.680 --> 00:04:54.884
+So our risk for orthopedic strain is much
+higher because we're wearing these,
+
+12417527-9697-4d69-9cea-1e0558645aa9-1
+00:04:54.884 --> 00:04:58.554
+these protective equipment for longer
+periods of time,
+
+12417527-9697-4d69-9cea-1e0558645aa9-2
+00:04:58.554 --> 00:05:03.958
+but also because it does cause a strain,
+it can lead us to not want to use these
+
+12417527-9697-4d69-9cea-1e0558645aa9-3
+00:05:03.958 --> 00:05:05.359
+protective equipment.
+
+29456dc0-7f0d-4a47-8fe8-f50a69be0c69-0
+00:05:05.360 --> 00:05:07.815
+It's easy to just say,
+I'm going to run into this case real
+
+29456dc0-7f0d-4a47-8fe8-f50a69be0c69-1
+00:05:07.815 --> 00:05:10.640
+quick, help someone out and then I'll,
+I'll jet back out real quick.
+
+feb3d805-4283-4fd2-b8fd-cf787b8cefb3-0
+00:05:10.920 --> 00:05:14.697
+It's easy to to say, oh,
+I don't need to put it on like my back
+
+feb3d805-4283-4fd2-b8fd-cf787b8cefb3-1
+00:05:14.697 --> 00:05:15.760
+hurts or whatever.
+
+8c259bea-7e52-4596-ab1e-b62b16fda032-0
+00:05:15.760 --> 00:05:19.708
+So, so just keeping that in mind,
+that kind of exposes,
+
+8c259bea-7e52-4596-ab1e-b62b16fda032-1
+00:05:19.708 --> 00:05:21.400
+exposes us even further.
+
+91212fb0-741f-498b-8e3e-faba48448ab6-0
+00:05:22.240 --> 00:05:26.451
+So as we learn about why we need to
+protect ourselves because of our
+
+91212fb0-741f-498b-8e3e-faba48448ab6-1
+00:05:26.451 --> 00:05:29.137
+increased risk of,
+of strain on our bodies,
+
+91212fb0-741f-498b-8e3e-faba48448ab6-2
+00:05:29.137 --> 00:05:34.081
+but also things that can affect us long
+term and create negative health effects,
+
+91212fb0-741f-498b-8e3e-faba48448ab6-3
+00:05:34.081 --> 00:05:38.720
+we always need to learn the three core
+principles for protecting ourselves.
+
+ca2227d1-a132-487b-9ba8-3b1449fa520f-0
+00:05:39.040 --> 00:05:41.983
+And while we've learned throughout this
+whole symposium of,
+
+ca2227d1-a132-487b-9ba8-3b1449fa520f-1
+00:05:41.983 --> 00:05:45.956
+of different sort of technology that is
+emerging to help with orthopedic strain,
+
+ca2227d1-a132-487b-9ba8-3b1449fa520f-2
+00:05:45.956 --> 00:05:49.635
+to help with greater protection,
+we can't ignore the three core principles
+
+ca2227d1-a132-487b-9ba8-3b1449fa520f-3
+00:05:49.635 --> 00:05:50.959
+of protectioning ourselves.
+
+93bd4b30-1b6a-408d-9b20-303337b009b7-0
+00:05:51.120 --> 00:05:56.999
+These should never go away and it should
+always be our underlying baseline that we
+
+93bd4b30-1b6a-408d-9b20-303337b009b7-1
+00:05:56.999 --> 00:06:00.400
+go to and that is time,
+distance and shielding.
+
+15eeb69f-eb48-46f5-8559-facbb5198c88-0
+00:06:05.160 --> 00:06:07.120
+So our first score principle is time.
+
+e50abf9f-a314-4f23-a521-e8c9abe2a8e1-0
+00:06:07.400 --> 00:06:10.880
+We want to use the lowest pulse and frame
+rates as possible.
+
+db142933-0db8-4aa8-ac96-d5031d5dcb17-0
+00:06:10.960 --> 00:06:16.550
+We want to stay off of fluoro and cine as
+much as possible, use Fluorosafe,
+
+db142933-0db8-4aa8-ac96-d5031d5dcb17-1
+00:06:16.550 --> 00:06:17.360
+use our Rd.
+
+467090c5-28e9-4b31-9826-4a062255aa54-0
+00:06:17.360 --> 00:06:20.222
+maps,
+set ourselves up for success of of
+
+467090c5-28e9-4b31-9826-4a062255aa54-1
+00:06:20.222 --> 00:06:24.760
+minimizing that time that we're actually
+on cine or even fluoro.
+
+d29b36bb-5bde-480b-99af-b3afdbfebf3d-0
+00:06:25.880 --> 00:06:27.320
+Second is distance.
+
+10d1cc5c-4219-42a4-9f08-99e3a3d7b3e3-0
+00:06:27.320 --> 00:06:27.880
+Very simple.
+
+ed4de32e-289f-4470-a540-85f3b3720e5b-0
+00:06:28.160 --> 00:06:33.600
+The further away you are from the source
+of radiation, your dose decreases.
+
+78c5c9e2-52d0-4d7c-ba42-2101acdbbef7-0
+00:06:34.040 --> 00:06:37.317
+So you know,
+sometimes some of our staff are a little
+
+78c5c9e2-52d0-4d7c-ba42-2101acdbbef7-1
+00:06:37.317 --> 00:06:42.113
+bit more mobile, like the nurses can,
+can be further away, but not always the,
+
+78c5c9e2-52d0-4d7c-ba42-2101acdbbef7-2
+00:06:42.113 --> 00:06:46.120
+the physician and the,
+and the scrub tech that's up at the table.
+
+af1d2d7d-2675-4ae6-8f04-68c693fd38d7-0
+00:06:46.120 --> 00:06:49.591
+But if you have the opportunity to be
+further away,
+
+af1d2d7d-2675-4ae6-8f04-68c693fd38d7-1
+00:06:49.591 --> 00:06:53.664
+be as far away from from the source as
+possible at all time,
+
+af1d2d7d-2675-4ae6-8f04-68c693fd38d7-2
+00:06:53.664 --> 00:06:55.200
+whenever it's feasible.
+
+7a98ffe5-e743-4310-a50a-5a262c06741e-0
+00:06:56.000 --> 00:06:58.900
+And then finally,
+shielding using all your personal
+
+7a98ffe5-e743-4310-a50a-5a262c06741e-1
+00:06:58.900 --> 00:07:01.411
+protective equipment,
+say dress for success,
+
+7a98ffe5-e743-4310-a50a-5a262c06741e-2
+00:07:01.411 --> 00:07:04.088
+wear your lead Avron,
+wear your thyroid collar,
+
+7a98ffe5-e743-4310-a50a-5a262c06741e-3
+00:07:04.088 --> 00:07:06.320
+have lead glasses that protect yourself.
+
+1780cbbc-262f-481a-a799-09c3cf61f359-0
+00:07:06.680 --> 00:07:09.754
+And that's something that all of our
+administrators,
+
+1780cbbc-262f-481a-a799-09c3cf61f359-1
+00:07:09.754 --> 00:07:14.336
+our leadership or Cath labs should be
+providing for us and should be providing
+
+1780cbbc-262f-481a-a799-09c3cf61f359-2
+00:07:14.336 --> 00:07:18.280
+for us equipment that fits us so that
+we're more likely to wear it.
+
+461dbb95-85ad-43e2-bb8a-51eb85fdc657-0
+00:07:18.280 --> 00:07:22.615
+And that's going to decrease our
+orthopedic strain and increase our
+
+461dbb95-85ad-43e2-bb8a-51eb85fdc657-1
+00:07:22.615 --> 00:07:26.440
+likelihood to be wearing our protective
+equipment properly.
+
+76574ec6-45d9-4b43-a1e3-f674591635ed-0
+00:07:27.200 --> 00:07:31.014
+We also want to use the Shields that are
+in the room, the suspended Shields,
+
+76574ec6-45d9-4b43-a1e3-f674591635ed-1
+00:07:31.014 --> 00:07:35.026
+the table skirts, the mobile barriers,
+moving those around so that we're closing
+
+76574ec6-45d9-4b43-a1e3-f674591635ed-2
+00:07:35.026 --> 00:07:36.760
+all the different gaps that we can.
+
+b52542cd-6367-47f6-a542-3b80e2207d6f-0
+00:07:37.080 --> 00:07:39.961
+Whereas if you're at the foot of the
+table,
+
+b52542cd-6367-47f6-a542-3b80e2207d6f-1
+00:07:39.961 --> 00:07:45.069
+getting some extra skirts or barriers to
+help protect yourselves whenever you
+
+b52542cd-6367-47f6-a542-3b80e2207d6f-2
+00:07:45.069 --> 00:07:50.046
+can't afford to be far away from the
+table or put distance between yourself
+
+b52542cd-6367-47f6-a542-3b80e2207d6f-3
+00:07:50.046 --> 00:07:51.880
+and the source of radiation.
+
+d9860bbe-d52c-4300-bad0-eaa9124dc917-0
+00:07:53.800 --> 00:07:58.330
+So as we go through all this,
+we can use this simple safety checklist
+
+d9860bbe-d52c-4300-bad0-eaa9124dc917-1
+00:07:58.330 --> 00:08:01.760
+that we use before,
+during and after our procedures.
+
+ac4aacb8-22fc-4a8d-999a-e8dea0d1943b-0
+00:08:03.120 --> 00:08:05.996
+So before you want to check your lead
+aprons, check your thyroid Shields,
+
+ac4aacb8-22fc-4a8d-999a-e8dea0d1943b-1
+00:08:05.996 --> 00:08:07.240
+make sure you have your glasses.
+
+52e2828f-2591-4aa6-9cc1-398520e9c0ce-0
+00:08:07.240 --> 00:08:09.880
+Everyone in the case has everything that
+they need.
+
+7bc15e4a-5e18-49a3-a119-88f832540d5b-0
+00:08:10.160 --> 00:08:14.226
+Make sure that your Shields that are
+mobile are are working,
+
+7bc15e4a-5e18-49a3-a119-88f832540d5b-1
+00:08:14.226 --> 00:08:15.560
+they're not damaged.
+
+6306a25e-51cd-48fc-8ffb-9c73f451c47b-0
+00:08:16.280 --> 00:08:20.040
+Make sure that you have a mobile shield
+in the room for your nurse.
+
+d7374b45-7fbd-4fc0-a41d-369059781e02-0
+00:08:20.120 --> 00:08:23.462
+Sometimes this, you know,
+we have tons of stuff in some of these
+
+d7374b45-7fbd-4fc0-a41d-369059781e02-1
+00:08:23.462 --> 00:08:24.080
+small rooms.
+
+6ff75614-5824-47e9-8a3f-6c1b1b4272f6-0
+00:08:24.440 --> 00:08:29.597
+And so we just want to make sure that we
+have room for those and make that a
+
+6ff75614-5824-47e9-8a3f-6c1b1b4272f6-1
+00:08:29.597 --> 00:08:30.200
+priority.
+
+035a7e00-520d-4fda-8e2e-bc3112f3bde7-0
+00:08:30.880 --> 00:08:36.160
+Also confirm your flora settings,
+your your low frame rate.
+
+e618f161-00ca-4fad-aed6-242f5af158ae-0
+00:08:36.400 --> 00:08:39.760
+Make sure that your columnators are
+working before you start the case.
+
+96e6c2ff-f4b3-458b-8eec-ba1888e5f9d5-0
+00:08:43.160 --> 00:08:47.090
+2nd, it's during the case,
+anticipate your operators needs so that
+
+96e6c2ff-f4b3-458b-8eec-ba1888e5f9d5-1
+00:08:47.090 --> 00:08:51.842
+you can reduce your floor time of really
+planning out that case saying, hey doc,
+
+96e6c2ff-f4b3-458b-8eec-ba1888e5f9d5-2
+00:08:51.842 --> 00:08:52.840
+what's your plan?
+
+554055fb-c2eb-45cc-abc0-cc6f4b0be8c5-0
+00:08:52.840 --> 00:08:54.680
+Like what views do you want?
+
+16aa4aa7-76eb-4a9a-be24-425b8043d07d-0
+00:08:54.960 --> 00:08:58.425
+So that we can make sure that we're,
+we're angulated properly,
+
+16aa4aa7-76eb-4a9a-be24-425b8043d07d-1
+00:08:58.425 --> 00:09:01.395
+We're in place when the physician is
+ready to send a,
+
+16aa4aa7-76eb-4a9a-be24-425b8043d07d-2
+00:09:01.395 --> 00:09:04.750
+but also like just kind of
+troubleshooting to say, hey, doc,
+
+16aa4aa7-76eb-4a9a-be24-425b8043d07d-3
+00:09:04.750 --> 00:09:05.960
+this is a big patient.
+
+02b35aeb-b1e4-45c3-9704-3aa2eea7c76f-0
+00:09:06.960 --> 00:09:08.360
+We're going to be using a lot more
+radiation.
+
+150d36b4-92d2-46df-a299-e17c8c614163-0
+00:09:08.360 --> 00:09:10.920
+So can I, what can I do to decrease that?
+
+a1b234e7-717f-4cc0-bf2b-7504be378b9a-0
+00:09:10.920 --> 00:09:15.857
+Can I decrease my angulations or can we
+decrease the amount of runs that we that
+
+a1b234e7-717f-4cc0-bf2b-7504be378b9a-1
+00:09:15.857 --> 00:09:20.916
+we have And really just working together
+as a team to anticipate what you're going
+
+a1b234e7-717f-4cc0-bf2b-7504be378b9a-2
+00:09:20.916 --> 00:09:23.720
+to need so that we can reduce that
+radiation.
+
+d3ab8b39-1a0e-41bd-bc06-21898c06b5c2-0
+00:09:24.560 --> 00:09:26.120
+Stand on the side of the intensifier.
+
+af76bada-a31c-459b-930f-aeb796c1367e-0
+00:09:26.120 --> 00:09:29.120
+Don't stand as close to stand close to
+the tube.
+
+e98d0845-2c05-44b1-b0b4-3774415da6b6-0
+00:09:29.120 --> 00:09:30.000
+If possible.
+
+7598750e-c3eb-47dd-a508-6befefd96119-0
+00:09:30.400 --> 00:09:32.760
+Step back when you're not actively
+engaged.
+
+467c1494-6af9-446a-87ec-a502deef61ea-0
+00:09:32.760 --> 00:09:33.640
+Especially for nurses.
+
+ad3426bc-a373-4912-a057-17d02be1e62e-0
+00:09:33.640 --> 00:09:37.469
+Sometimes as a new nurse,
+I always like to be next to the table and
+
+ad3426bc-a373-4912-a057-17d02be1e62e-1
+00:09:37.469 --> 00:09:41.805
+see what's going on and was really not
+knowingly exposing myself to a lot of
+
+ad3426bc-a373-4912-a057-17d02be1e62e-2
+00:09:41.805 --> 00:09:42.200
+ration.
+
+22048d05-3d42-429c-89aa-a9750c9e1d9a-0
+00:09:42.200 --> 00:09:43.960
+So step back if you can.
+
+6756fa68-9e26-449a-988f-bc89fc626bd2-0
+00:09:43.960 --> 00:09:46.600
+If,
+if you don't need to be right up there
+
+6756fa68-9e26-449a-988f-bc89fc626bd2-1
+00:09:46.600 --> 00:09:50.040
+next to where the radiation is,
+step back and speak up.
+
+2cab21f7-ea65-4a1a-8f18-1dfb4be222df-0
+00:09:50.040 --> 00:09:54.163
+If something is missing, like a shield,
+or if the doctor's working and someone
+
+2cab21f7-ea65-4a1a-8f18-1dfb4be222df-1
+00:09:54.163 --> 00:09:57.400
+walks into the room, say, hey, doc,
+so and so is in the room.
+
+7930b688-f89e-4383-831b-524aea6de4da-0
+00:09:57.400 --> 00:09:59.120
+Can we, can we come off fluoro real quick?
+
+9240447f-19ad-4198-9b80-3d640e389517-0
+00:09:59.120 --> 00:10:02.160
+You know, or, or tell the person that,
+hey, we're on fluoro.
+
+b44834e7-e2bc-4a8f-aafc-083e51ea3a67-0
+00:10:02.560 --> 00:10:07.080
+You do step out or wait while we're not
+doing that or go, go put on some lead.
+
+bee02f4b-a60f-4c71-be34-6db79b2947d8-0
+00:10:07.440 --> 00:10:08.440
+You need to speak up.
+
+8370a23d-9832-4965-9dd2-4c7a93e779b2-0
+00:10:08.440 --> 00:10:11.782
+Because sometimes we get so engaged in
+what we're doing that we,
+
+8370a23d-9832-4965-9dd2-4c7a93e779b2-1
+00:10:11.782 --> 00:10:16.000
+we don't pay attention to everyone else
+in the room and making sure they're safe.
+
+7a2fdb88-6348-4f58-b980-93905440a0df-0
+00:10:17.800 --> 00:10:20.883
+And so after the case,
+we're going to make sure we're recording,
+
+7a2fdb88-6348-4f58-b980-93905440a0df-1
+00:10:20.883 --> 00:10:24.298
+reviewing our dissimilar readings,
+making sure everyone's wearing their
+
+7a2fdb88-6348-4f58-b980-93905440a0df-2
+00:10:24.298 --> 00:10:27.240
+dissimitors, you know,
+they fall off sometimes they get lost.
+
+47f96449-7f7d-44f9-8505-480019dd897a-0
+00:10:27.520 --> 00:10:31.499
+Make sure that everyone's wearing one in
+the room and that we're recording those
+
+47f96449-7f7d-44f9-8505-480019dd897a-1
+00:10:31.499 --> 00:10:34.840
+and recording the amount of radiation
+that's used during each case.
+
+2bccb47f-efbd-4220-aaa8-c9648ba5518a-0
+00:10:35.080 --> 00:10:38.200
+Really looking at that rather than just
+writing down a number and going on.
+
+374f04dc-877e-4348-a320-5f81ff1398b8-0
+00:10:38.200 --> 00:10:42.998
+Because sometimes we get high doses and
+we need to stop and say, hey, let's,
+
+374f04dc-877e-4348-a320-5f81ff1398b8-1
+00:10:42.998 --> 00:10:46.239
+let's debrief,
+let's talk about why we use so much,
+
+374f04dc-877e-4348-a320-5f81ff1398b8-2
+00:10:46.239 --> 00:10:49.480
+what we could have done differently to to
+use less.
+
+2f431db4-9b03-4575-8ddb-a205b0bad91c-0
+00:10:49.480 --> 00:10:52.912
+Or if we have a patient similar patient
+in, you know,
+
+2f431db4-9b03-4575-8ddb-a205b0bad91c-1
+00:10:52.912 --> 00:10:56.600
+in the future that's maybe big or you
+have complications.
+
+83a1a800-bf59-43e1-a484-f08eec80d6cf-0
+00:10:56.600 --> 00:10:59.520
+What do we need to do to decrease our
+radiation?
+
+6b295dd0-cdc2-4432-8bce-b5dae14fcaad-0
+00:11:00.440 --> 00:11:03.640
+Also sharing lessons with your team,
+with your fellows.
+
+619cf556-25da-4d4d-964f-388fa46bd7fd-0
+00:11:04.160 --> 00:11:06.235
+You know,
+some Cath lab staff have been around the
+
+619cf556-25da-4d4d-964f-388fa46bd7fd-1
+00:11:06.235 --> 00:11:06.480
+block.
+
+f6d971eb-75ef-4f24-ba04-8eee55ec417b-0
+00:11:06.480 --> 00:11:09.168
+We've been here for a while and sometimes
+have,
+
+f6d971eb-75ef-4f24-ba04-8eee55ec417b-1
+00:11:09.168 --> 00:11:12.920
+have done some stupid stuff that's really
+exposed us to radiation.
+
+6a64d389-6e15-420c-80df-1e2e19557abd-0
+00:11:12.920 --> 00:11:15.751
+But it's really important to share those
+stories like, hey,
+
+6a64d389-6e15-420c-80df-1e2e19557abd-1
+00:11:15.751 --> 00:11:19.480
+when I was in this situation where a
+patient may have been coding, I did this.
+
+c42ff7d5-1e3a-45e9-801a-9ae9a12278fc-0
+00:11:19.480 --> 00:11:21.600
+But this is what we need to do
+differently.
+
+c060f625-4f35-4f02-b9bf-7c00a0115c5e-0
+00:11:21.680 --> 00:11:24.827
+Don't don't do as I do sometimes,
+you know,
+
+c060f625-4f35-4f02-b9bf-7c00a0115c5e-1
+00:11:24.827 --> 00:11:30.620
+protect yourself for the long term and
+always look for continuous improvement of
+
+c060f625-4f35-4f02-b9bf-7c00a0115c5e-2
+00:11:30.620 --> 00:11:32.480
+upon your your strategies.
+
+a7c4cfff-6eef-41e8-93b6-ec196e00290f-0
+00:11:34.600 --> 00:11:36.760
+Optimal room setup is very important.
+
+9b330bc1-3fc6-4f39-82c2-eff6fe97550a-0
+00:11:36.760 --> 00:11:40.835
+This should hopefully be done beforehand
+so that you have everything before you
+
+9b330bc1-3fc6-4f39-82c2-eff6fe97550a-1
+00:11:40.835 --> 00:11:41.600
+start the case.
+
+bd720635-a72e-43c5-b3da-75653f764a5b-0
+00:11:41.920 --> 00:11:44.814
+Making sure your mobile Shields are in
+the room,
+
+bd720635-a72e-43c5-b3da-75653f764a5b-1
+00:11:44.814 --> 00:11:49.658
+making sure that your your table Shields
+are in place and also making sure you're
+
+bd720635-a72e-43c5-b3da-75653f764a5b-2
+00:11:49.658 --> 00:11:50.840
+dressed for success.
+
+13ed5aab-2694-45c1-9a8e-da21b161dbf9-0
+00:11:50.840 --> 00:11:55.151
+As we said of having your glasses,
+your thyroid collar,
+
+13ed5aab-2694-45c1-9a8e-da21b161dbf9-1
+00:11:55.151 --> 00:12:01.234
+having your lead that fits you and being
+conscious of how close you are to the
+
+13ed5aab-2694-45c1-9a8e-da21b161dbf9-2
+00:12:01.234 --> 00:12:04.160
+table really has a a greater exposure.
+
+c88deff8-f7eb-4609-b33d-7d6bbc3f3821-0
+00:12:04.160 --> 00:12:08.225
+So the further way you can get,
+the better it is and really keeping in
+
+c88deff8-f7eb-4609-b33d-7d6bbc3f3821-1
+00:12:08.225 --> 00:12:12.120
+mind of the people in the room and their
+level of exposure as well.
+
+ebbc32f3-768d-405b-a204-20821f56f29b-0
+00:12:16.600 --> 00:12:18.915
+So finally,
+we're all about creating a culture of
+
+ebbc32f3-768d-405b-a204-20821f56f29b-1
+00:12:18.915 --> 00:12:19.240
+safety.
+
+cc84beb9-bf96-49e2-9e5e-3da7cbb4a6df-0
+00:12:19.480 --> 00:12:20.800
+We know these things.
+
+e010ab20-03bf-4b49-967b-1c3ae71415bf-0
+00:12:20.840 --> 00:12:22.800
+We know why we need to protect ourselves.
+
+5dada98a-333a-4cd8-b6a3-ab5fd8d2e5e9-0
+00:12:22.960 --> 00:12:26.501
+We're at an increased risk for for
+radiation exposure,
+
+5dada98a-333a-4cd8-b6a3-ab5fd8d2e5e9-1
+00:12:26.501 --> 00:12:30.880
+for long term complications, cataracts,
+cancers, orthopedic strain.
+
+e19dbecf-d1d3-4d8f-a3bf-5d6019c720a6-0
+00:12:31.240 --> 00:12:35.907
+We have to protect ourselves to protect
+our long term career in the Cath lab,
+
+e19dbecf-d1d3-4d8f-a3bf-5d6019c720a6-1
+00:12:35.907 --> 00:12:38.720
+but also for whenever we retire later in
+life.
+
+a95eecdd-5438-4efb-98d2-60564c83d225-0
+00:12:38.720 --> 00:12:43.287
+We don't want to have damaged our bodies
+so bad that we can't enjoy life with our
+
+a95eecdd-5438-4efb-98d2-60564c83d225-1
+00:12:43.287 --> 00:12:44.680
+family, with our friends.
+
+d46f58af-07d7-47ec-b05d-eb09d6de9107-0
+00:12:45.320 --> 00:12:49.240
+And so make safety a part of your routine,
+not an option.
+
+a8af1c91-e5e2-4a28-82fd-5114a10b8efb-0
+00:12:49.280 --> 00:12:51.760
+It's it's an absolute of everyday.
+
+c2b9c085-b7ac-4f9d-97fa-ba595a490436-0
+00:12:52.800 --> 00:12:58.510
+Encourage speaking up with respectful
+safety reminders of just saying, Hey, doc,
+
+c2b9c085-b7ac-4f9d-97fa-ba595a490436-1
+00:12:58.510 --> 00:12:59.920
+like you're on Sene.
+
+9d2ed79b-a09e-429d-9224-82e850a8d8ad-0
+00:12:59.920 --> 00:13:03.929
+Can you get off or you're just sitting on
+Floro Because sometimes people's minds
+
+9d2ed79b-a09e-429d-9224-82e850a8d8ad-1
+00:13:03.929 --> 00:13:06.850
+wander and and we just need to be
+respectful of like, hey,
+
+9d2ed79b-a09e-429d-9224-82e850a8d8ad-2
+00:13:06.850 --> 00:13:08.880
+like can you come off Floro for a second?
+
+c2232ca7-01d8-4ba9-b29f-e069f0233ed9-0
+00:13:08.880 --> 00:13:11.678
+Or if someone walks the room and say, Hey,
+can you,
+
+c2232ca7-01d8-4ba9-b29f-e069f0233ed9-1
+00:13:11.678 --> 00:13:15.875
+can you put some lead on things like that,
+just keeping each one accountable,
+
+c2232ca7-01d8-4ba9-b29f-e069f0233ed9-2
+00:13:15.875 --> 00:13:18.942
+but doing it in a respectful way,
+supporting each other,
+
+c2232ca7-01d8-4ba9-b29f-e069f0233ed9-3
+00:13:18.942 --> 00:13:22.440
+protecting the team of telling someone,
+hey, you need to let up.
+
+35752a37-59ca-4551-915a-59854d3b51a1-0
+00:13:22.800 --> 00:13:25.551
+Or I love the routine of before cases
+start,
+
+35752a37-59ca-4551-915a-59854d3b51a1-1
+00:13:25.551 --> 00:13:30.320
+when the physician takes the lead and
+says, hey, I'm about to start the case.
+
+61867868-2f04-4be8-ac89-1cc62a6b4a05-0
+00:13:30.320 --> 00:13:31.480
+Does everyone have lead?
+
+6bef6112-5fed-4319-beb7-8e4637ad4b21-0
+00:13:31.720 --> 00:13:34.792
+If you don't go get it or,
+or get out or you know,
+
+6bef6112-5fed-4319-beb7-8e4637ad4b21-1
+00:13:34.792 --> 00:13:37.564
+just really kind of setting that standard
+of,
+
+6bef6112-5fed-4319-beb7-8e4637ad4b21-2
+00:13:37.564 --> 00:13:41.119
+of you need to be letted up by care for
+your safety or if,
+
+6bef6112-5fed-4319-beb7-8e4637ad4b21-3
+00:13:41.119 --> 00:13:46.000
+if you're going to approach the table,
+let me know and I will come off the city.
+
+99c02b5c-488c-4c14-929e-8672973c3691-0
+00:13:46.000 --> 00:13:50.021
+So you can do whatever it is that you
+need to do with the patient and then get
+
+99c02b5c-488c-4c14-929e-8672973c3691-1
+00:13:50.021 --> 00:13:51.040
+back out of the way.
+
+9a227c25-ab8b-45c9-bb84-0ba72603e30e-0
+00:13:52.240 --> 00:13:55.640
+And our leadership and our techs have a
+shared responsibility.
+
+911c0eee-65ef-4771-99fd-21dd67f4cf16-0
+00:13:55.640 --> 00:13:59.543
+It's the shared responsibility of our
+administration or of our physicians as
+
+911c0eee-65ef-4771-99fd-21dd67f4cf16-1
+00:13:59.543 --> 00:14:00.760
+well as us individually.
+
+158eddc0-7f61-4314-836e-9f141d8c5237-0
+00:14:01.480 --> 00:14:04.802
+And it's,
+it's so important for for administrators
+
+158eddc0-7f61-4314-836e-9f141d8c5237-1
+00:14:04.802 --> 00:14:08.385
+to know this,
+for a cathode management to know this of
+
+158eddc0-7f61-4314-836e-9f141d8c5237-2
+00:14:08.385 --> 00:14:12.359
+providing the proper equipment,
+providing lead that fits us.
+
+1a405a59-2e25-4f7c-8746-0d158d22a57e-0
+00:14:12.480 --> 00:14:15.504
+You know,
+there should never be anyone who doesn't
+
+1a405a59-2e25-4f7c-8746-0d158d22a57e-1
+00:14:15.504 --> 00:14:17.520
+have lead that fits them properly.
+
+be080df6-ef5d-4449-9e32-1f7771504680-0
+00:14:17.880 --> 00:14:21.177
+You know, we may not get the right color,
+it may not look fun,
+
+be080df6-ef5d-4449-9e32-1f7771504680-1
+00:14:21.177 --> 00:14:22.800
+but it has to fit you properly.
+
+df692ad5-2672-49f7-8ec2-e5d89e4919dd-0
+00:14:22.960 --> 00:14:27.925
+There should be no if ands or buts about
+that of providing it properly fitting
+
+df692ad5-2672-49f7-8ec2-e5d89e4919dd-1
+00:14:27.925 --> 00:14:28.240
+lead.
+
+90af5fea-74e7-4f8a-9e9c-e036216762ec-0
+00:14:28.560 --> 00:14:32.412
+Everyone should have have that recallers
+and access to lead glasses if that is
+
+90af5fea-74e7-4f8a-9e9c-e036216762ec-1
+00:14:32.412 --> 00:14:33.680
+what they desired to wear.
+
+016bbfa2-a878-4dd4-ac7c-a178fc8d0ceb-0
+00:14:35.000 --> 00:14:39.971
+We should also have access to lead
+Shields and these are the responsibility
+
+016bbfa2-a878-4dd4-ac7c-a178fc8d0ceb-1
+00:14:39.971 --> 00:14:42.000
+of everybody from the top down.
+
+80f4c1ee-50c4-4f0c-b0e6-6c67ab72f64b-0
+00:14:42.400 --> 00:14:47.393
+So these are things that we need to speak
+up for ourselves of making sure that
+
+80f4c1ee-50c4-4f0c-b0e6-6c67ab72f64b-1
+00:14:47.393 --> 00:14:49.480
+those are provided for everybody.
+
+d09fe0ff-e729-425a-b6ac-529e90422690-0
+00:14:51.560 --> 00:14:52.760
+And so finally, just rumor.
+
+ff894531-3cfa-4ba8-b346-15ca1933c854-0
+00:14:52.760 --> 00:14:53.480
+A key takeaways.
+
+a816c54b-54fb-4a5d-862b-4909fa642bab-0
+00:14:53.480 --> 00:14:54.760
+It's very, very simple.
+
+a8918b6f-86c9-4ee5-aa1a-b6fe5f8b51a8-0
+00:14:54.960 --> 00:14:57.870
+You know,
+we have all this different new technology,
+
+a8918b6f-86c9-4ee5-aa1a-b6fe5f8b51a8-1
+00:14:57.870 --> 00:15:02.373
+but it comes down to the basics that we
+have to implement every day to reduce our
+
+a8918b6f-86c9-4ee5-aa1a-b6fe5f8b51a8-2
+00:15:02.373 --> 00:15:05.064
+exposure to radiation,
+which is minimizing time,
+
+a8918b6f-86c9-4ee5-aa1a-b6fe5f8b51a8-3
+00:15:05.064 --> 00:15:07.920
+maximizing your distance,
+and using your shielding.
+
+c01a8485-5cbd-4ade-aabd-2b1755eefe1f-0
+00:15:08.400 --> 00:15:12.507
+If you don't use any of these,
+you don't use the equipment that is given
+
+c01a8485-5cbd-4ade-aabd-2b1755eefe1f-1
+00:15:12.507 --> 00:15:15.040
+to you,
+then it kind of defeats the purpose.
+
+31c72ab5-2b33-4cb8-94d0-20a041b07dcf-0
+00:15:15.040 --> 00:15:19.838
+It has to be implemented every single day
+and ultimately it's protects yourself,
+
+31c72ab5-2b33-4cb8-94d0-20a041b07dcf-1
+00:15:19.838 --> 00:15:24.636
+it's protecting your team and protecting
+your long term career of your longevity
+
+31c72ab5-2b33-4cb8-94d0-20a041b07dcf-2
+00:15:24.636 --> 00:15:29.375
+in new Cath lab and even afterwards to
+protect yourself for your family and for
+
+31c72ab5-2b33-4cb8-94d0-20a041b07dcf-3
+00:15:29.375 --> 00:15:34.114
+your, for your work like home life and,
+and everything that you want to do even
+
+31c72ab5-2b33-4cb8-94d0-20a041b07dcf-4
+00:15:34.114 --> 00:15:35.240
+outside of the lab.
+
+b42f26f6-ebc2-4e1b-ae59-9a4c485b3155-0
+00:15:36.040 --> 00:15:39.560
+So thank you so much for the opportunity
+for this presentation.
+
+7d4b7378-4cbc-44e5-82ea-cdb7f9c9126d-0
+00:15:40.200 --> 00:15:44.000
+This is my contact information and thank
+you so much.
+
+858df2cb-c595-487e-90f5-ce4672e5692d-0
+00:15:47.480 --> 00:15:48.080
+Good afternoon.
+
+f03e2209-65a4-4062-a015-9404b3d80593-0
+00:15:48.080 --> 00:15:53.730
+It's an honor to join you at the SER 2025
+to share the interventionist in
+
+f03e2209-65a4-4062-a015-9404b3d80593-1
+00:15:53.730 --> 00:15:56.480
+perspective on radiation protection.
+
+480c736e-065d-4a19-925e-83523b3e3206-0
+00:15:56.760 --> 00:15:58.440
+In today environment.
+
+8084d10f-8876-42d2-8b2c-a99a5b07e39e-0
+00:15:58.440 --> 00:16:03.080
+Safeguarding our staff and patient is
+just as vital as technical excellence.
+
+96a0da5f-a15f-46cb-914b-dfab5e12d302-0
+00:16:03.400 --> 00:16:08.340
+I will highlight practical strategies,
+shared responsibilities and evidence
+
+96a0da5f-a15f-46cb-914b-dfab5e12d302-1
+00:16:08.340 --> 00:16:12.760
+based methods to ensure safety while
+advancing the quality of care.
+
+b72aa782-754f-49db-a557-39c3c17c75aa-0
+00:16:18.400 --> 00:16:19.640
+I have no disclosures.
+
+6c1259f2-9ba8-4b3d-82d8-579eb9596346-0
+00:16:22.160 --> 00:16:25.640
+Diagnostic imaging procedures,
+with the exception of Mr.
+
+e13e5630-197a-4c45-803a-6787c91a41b8-0
+00:16:25.640 --> 00:16:29.889
+imaging and ultrasound,
+contribute more than 9090% of the
+
+e13e5630-197a-4c45-803a-6787c91a41b8-1
+00:16:29.889 --> 00:16:33.920
+exposure to artificial radiation in the
+United States.
+
+5c33ff18-9173-46bf-9c40-c9f98b5e3d51-0
+00:16:34.320 --> 00:16:39.340
+Therefore, it is vital that patients,
+visitors and hospital staff and reality
+
+5c33ff18-9173-46bf-9c40-c9f98b5e3d51-1
+00:16:39.340 --> 00:16:44.425
+personnel receive as small radiation
+exposure as possible from medical imaging
+
+5c33ff18-9173-46bf-9c40-c9f98b5e3d51-2
+00:16:44.425 --> 00:16:45.520
+and examinations.
+
+a96bcf60-6e76-4aa0-8952-7c2a7a4deba7-0
+00:16:52.120 --> 00:16:56.240
+It is crucial to review the fundamentals
+of radiation protections.
+
+2eb04eec-26f7-420c-9ef6-e2def3a3780c-0
+00:16:56.640 --> 00:17:01.440
+As we can see, time,
+distance and shieldings are the cardinal
+
+2eb04eec-26f7-420c-9ef6-e2def3a3780c-1
+00:17:01.440 --> 00:17:03.840
+rules for radiation protection.
+
+30d7c7c4-3915-428e-b138-2457e2652fe9-0
+00:17:11.450 --> 00:17:14.250
+Scattered radiation, it's the real enemy.
+
+19e595ea-c8ef-4acc-9f46-ec5674e4fcc6-0
+00:17:14.250 --> 00:17:15.650
+That's how we can see.
+
+a82f4ccf-c874-4710-8c0f-f8eed3ec8214-0
+00:17:15.650 --> 00:17:22.558
+It is the radiation that goes through the
+patient and then it goes multi planes and
+
+a82f4ccf-c874-4710-8c0f-f8eed3ec8214-1
+00:17:22.558 --> 00:17:26.177
+every,
+every patient kind of made this this
+
+a82f4ccf-c874-4710-8c0f-f8eed3ec8214-2
+00:17:26.177 --> 00:17:27.000
+radiation.
+
+84f62fa4-0fae-4738-8636-072ee64cfef6-0
+00:17:27.000 --> 00:17:31.976
+So we have to be careful when we are
+around it is that's that's the the
+
+84f62fa4-0fae-4738-8636-072ee64cfef6-1
+00:17:31.976 --> 00:17:37.160
+radiation that is pretty bad for the
+staff and also the medical personnel.
+
+32cffe7c-38e5-4235-abd9-602f42ee65ba-0
+00:17:40.080 --> 00:17:44.080
+When we talk about distance in inverse
+square law is the key.
+
+c6c472fd-d0e3-4d32-8ed5-c9060ec042a9-0
+00:17:44.400 --> 00:17:49.880
+As we double the distance the dose is
+going to minimize by a factor of 4.
+
+59702762-340c-46bb-b3d8-2e680fa55c9e-0
+00:17:53.680 --> 00:17:54.640
+Those are your product.
+
+463f414b-b7b9-47a6-891a-ab0677334ab9-0
+00:17:54.640 --> 00:18:00.115
+This is what we use basically to express
+the amount of radiation the patient
+
+463f414b-b7b9-47a6-891a-ab0677334ab9-1
+00:18:00.115 --> 00:18:05.377
+received through the procedure is,
+is expressing sievers and it's kind of
+
+463f414b-b7b9-47a6-891a-ab0677334ab9-2
+00:18:05.377 --> 00:18:08.648
+like,
+you know tracks all the accumulation of
+
+463f414b-b7b9-47a6-891a-ab0677334ab9-3
+00:18:08.648 --> 00:18:09.360
+radiation.
+
+25dd0e4b-26d0-40f3-b168-d6ec16cf432b-0
+00:18:09.360 --> 00:18:12.765
+Those we have to be aware of Sentinel
+events,
+
+25dd0e4b-26d0-40f3-b168-d6ec16cf432b-1
+00:18:12.765 --> 00:18:17.799
+just making sure that we know the numbers
+when it's higher than 50,
+
+25dd0e4b-26d0-40f3-b168-d6ec16cf432b-2
+00:18:17.799 --> 00:18:21.648
+000 milligrays or 1500 Grays by
+centimeters square,
+
+25dd0e4b-26d0-40f3-b168-d6ec16cf432b-3
+00:18:21.648 --> 00:18:24.240
+that's like that's a central event.
+
+17c31d58-4360-4859-a65c-390691ed9c03-0
+00:18:24.240 --> 00:18:27.400
+So it have to be we need to be away from
+from those numbers.
+
+1379572f-9a9c-4565-8c81-f51f951c51e5-0
+00:18:34.550 --> 00:18:39.510
+Absurd doors is is also an all important
+concept that we should be reviewing.
+
+24200f27-eedc-4301-8760-933c2f19d7d2-0
+00:18:39.510 --> 00:18:45.710
+It is expressing grace that is equal to
+one grade and kind of like 100 rats.
+
+e6106a59-5005-49f0-b493-951a4f0a2d34-0
+00:18:46.080 --> 00:18:50.736
+So this is give you kind of like an
+explanation about radiation dose are
+
+e6106a59-5005-49f0-b493-951a4f0a2d34-1
+00:18:50.736 --> 00:18:55.520
+absorbed by tissues following the
+exposure to ionizing ionizing radiation.
+
+9db2ddcb-bd6d-49a1-800c-8d8cd73d93bc-0
+00:18:59.160 --> 00:19:04.649
+Also those equivalent, you know,
+it's kind of like comes in an importance
+
+9db2ddcb-bd6d-49a1-800c-8d8cd73d93bc-1
+00:19:04.649 --> 00:19:07.320
+when we talk about radiation safety.
+
+f431d048-6fc8-4ee3-af82-d6eb3c217a5c-0
+00:19:08.080 --> 00:19:14.033
+It's it's kind of like the product of the
+assort dose and a quality factor which
+
+f431d048-6fc8-4ee3-af82-d6eb3c217a5c-1
+00:19:14.033 --> 00:19:19.546
+takes into account the effects of
+different types of radiation is 1 siever
+
+f431d048-6fc8-4ee3-af82-d6eb3c217a5c-2
+00:19:19.546 --> 00:19:22.560
+you kind of see that is equal to 100 RAM.
+
+ea3bd8b1-9fff-44ea-8e29-dd6a23105d8c-0
+00:19:23.440 --> 00:19:31.680
+It's kind of like give us a better
+comparison effective dose.
+
+d4104738-6fff-4fd8-9283-bf7b0cf94323-0
+00:19:32.160 --> 00:19:36.751
+It's expressed in Milliseiever and it's
+it's kind of like explaining the
+
+d4104738-6fff-4fd8-9283-bf7b0cf94323-1
+00:19:36.751 --> 00:19:41.720
+radiation sensitivity when it comes into
+different cell types and tissue size.
+
+3fa6cc23-ec5f-409c-b906-8926261bc363-0
+00:19:42.840 --> 00:19:48.600
+It give us an explanation about the risk
+of radiation effects.
+
+e51f31ed-b60a-4886-a9e4-2f7716a3242d-0
+00:19:51.040 --> 00:19:56.990
+Having those concepts in mind,
+we can now see the comparisons between
+
+e51f31ed-b60a-4886-a9e4-2f7716a3242d-1
+00:19:56.990 --> 00:19:58.520
+the affected dose.
+
+2d0c3c70-d797-4aaf-a406-597580e84133-0
+00:19:58.920 --> 00:20:02.236
+So we can have kind of like a easy
+explanation,
+
+2d0c3c70-d797-4aaf-a406-597580e84133-1
+00:20:02.236 --> 00:20:07.280
+like when we perform an X-ray,
+it's kind of like 2.4 days of background.
+
+03d4ceae-5d83-4e41-b1bb-db7d37f94530-0
+00:20:08.160 --> 00:20:14.920
+When it goes into a chastity, it's like 2.
+7 years of radiation background.
+
+ea83f794-f98e-4deb-9780-455815b9cae3-0
+00:20:15.160 --> 00:20:19.880
+And also as you see the abdomen is 3.
+2 years of background.
+
+ca9eda2a-c7dd-4307-8696-fff71fc1c8e8-0
+00:20:20.560 --> 00:20:23.200
+So it's pretty easy to to compare having
+those concerts.
+
+2d1eb9cb-e82a-459f-9674-c27ac2faee6a-0
+00:20:26.280 --> 00:20:32.271
+Occupation of those affected limits is is
+is crucial to review these limits so
+
+2d1eb9cb-e82a-459f-9674-c27ac2faee6a-1
+00:20:32.271 --> 00:20:37.960
+everybody in the room or in the lab knows
+how effective your readings are.
+
+6c037952-69d2-44c9-b4b4-83f16e3d2fae-0
+00:20:38.840 --> 00:20:42.173
+It's,
+it's crucial to know the numbers as as we
+
+6c037952-69d2-44c9-b4b4-83f16e3d2fae-1
+00:20:42.173 --> 00:20:46.201
+spoke about it,
+especially when you have someone a female
+
+6c037952-69d2-44c9-b4b4-83f16e3d2fae-2
+00:20:46.201 --> 00:20:50.298
+during pregnancy,
+we should take care of those numbers and
+
+6c037952-69d2-44c9-b4b4-83f16e3d2fae-3
+00:20:50.298 --> 00:20:53.840
+know how much radiation are they,
+They're exposed.
+
+1e71ffb0-6c19-416e-870b-db57e95b5752-0
+00:20:56.600 --> 00:21:01.296
+As you see in this graph,
+radiation exposure for healthcare workers
+
+1e71ffb0-6c19-416e-870b-db57e95b5752-1
+00:21:01.296 --> 00:21:05.855
+in the in the procedure room is directly
+link it to patient dose,
+
+1e71ffb0-6c19-416e-870b-db57e95b5752-2
+00:21:05.855 --> 00:21:08.480
+A scatter radiation at distance of 1m.
+
+2cebe57e-9952-4a49-b663-6c42da70a501-0
+00:21:08.840 --> 00:21:13.698
+The personnel will receive 0.
+1% of the patient dose due to a scatter
+
+2cebe57e-9952-4a49-b663-6c42da70a501-1
+00:21:13.698 --> 00:21:19.320
+radiation with a minor contribution from
+X-ray leakage through the tube housing.
+
+2e774c2d-253a-4ee4-b5f3-43207208d354-0
+00:21:21.920 --> 00:21:25.355
+Also,
+as you see the picture on the right side,
+
+2e774c2d-253a-4ee4-b5f3-43207208d354-1
+00:21:25.355 --> 00:21:30.867
+when you're pretty close to the tube,
+that's when a major radiation exposure
+
+2e774c2d-253a-4ee4-b5f3-43207208d354-2
+00:21:30.867 --> 00:21:31.440
+happens.
+
+2dfb9376-4228-4b13-bddb-c66a258c5a7b-0
+00:21:31.440 --> 00:21:34.918
+So we have to be aware when performing
+lateral abuse,
+
+2dfb9376-4228-4b13-bddb-c66a258c5a7b-1
+00:21:34.918 --> 00:21:37.560
+try to keep everyone away from that area.
+
+ff8a52cf-e427-4873-84e1-dcfe649edeb3-0
+00:21:46.950 --> 00:21:49.790
+How do we measure the amount of radiation
+we're supposed to?
+
+19a5be56-addb-4a4f-801c-9adb329d27b7-0
+00:21:50.070 --> 00:21:52.350
+Well, basically using dosimeters.
+
+4681ce2c-19c1-4c38-8fe8-f6320bf07f6c-0
+00:21:53.270 --> 00:21:58.077
+We should always wear a dosimeter over
+the lead Efron typical at the neck or the
+
+4681ce2c-19c1-4c38-8fe8-f6320bf07f6c-1
+00:21:58.077 --> 00:21:58.790
+torso level.
+
+f1511856-607d-43ba-9681-ceeac35eca7b-0
+00:22:00.150 --> 00:22:04.317
+Usually it's only as pretty specific for
+for the person,
+
+f1511856-607d-43ba-9681-ceeac35eca7b-1
+00:22:04.317 --> 00:22:07.680
+so you should not share the dosimeter at
+all.
+
+cb57529b-1a8f-4e82-ac8f-2e8246775569-0
+00:22:08.200 --> 00:22:16.552
+And it's linked to your Social Security,
+so it's the only way they can ensure
+
+cb57529b-1a8f-4e82-ac8f-2e8246775569-1
+00:22:16.552 --> 00:22:22.120
+accurate tracking for individual creation
+exposure,
+
+cb57529b-1a8f-4e82-ac8f-2e8246775569-2
+00:22:22.120 --> 00:22:26.190
+practical dose reduction for patients.
+
+235060f0-b540-4cba-ae40-adf713801e98-0
+00:22:26.670 --> 00:22:30.513
+We should always,
+always lower the frame rates,
+
+235060f0-b540-4cba-ae40-adf713801e98-1
+00:22:30.513 --> 00:22:36.678
+make sure we have a tight collimation to
+a specific area and be aware of the
+
+235060f0-b540-4cba-ae40-adf713801e98-2
+00:22:36.678 --> 00:22:38.520
+timing every 5 minutes.
+
+342b8ef4-2e9c-47e7-98fb-f89611d9889d-0
+00:22:38.520 --> 00:22:42.440
+So someone in the room should kind of
+like be tracking how many minutes of
+
+342b8ef4-2e9c-47e7-98fb-f89611d9889d-1
+00:22:42.440 --> 00:22:43.800
+fluor you have been using.
+
+983aed48-364f-4339-a766-ff1e1b6cb2a2-0
+00:22:44.240 --> 00:22:47.240
+So we we can keep that to the lowest
+timing.
+
+dfb88f32-af4f-4067-9777-3a1871a078a7-0
+00:22:47.600 --> 00:22:54.410
+Also minimizing DSA runs or a scene and
+how that's how it's going calf lab and
+
+dfb88f32-af4f-4067-9777-3a1871a078a7-1
+00:22:54.410 --> 00:22:56.480
+avoid like heavy angles.
+
+47b310c5-ba07-4f75-8fc0-eaa9121e7cb9-0
+00:22:56.880 --> 00:23:00.689
+That's,
+that's pretty important for to keep the
+
+47b310c5-ba07-4f75-8fc0-eaa9121e7cb9-1
+00:23:00.689 --> 00:23:01.800
+radiation low.
+
+15d27a7a-739c-4aeb-b66a-09e984bf1614-0
+00:23:04.160 --> 00:23:08.751
+What we can do is,
+is usually making sure everybody is
+
+15d27a7a-739c-4aeb-b66a-09e984bf1614-1
+00:23:08.751 --> 00:23:15.597
+wearing apron tire colour, leg glasses,
+the batches for sure if you're doing DSA,
+
+15d27a7a-739c-4aeb-b66a-09e984bf1614-2
+00:23:15.597 --> 00:23:20.440
+you'll see me step away, you know,
+away from the patient.
+
+12fc488c-72ca-46e6-8b07-01b3e53c6a05-0
+00:23:20.440 --> 00:23:25.480
+So you can, you know,
+be in a safe area where no radiation is
+
+12fc488c-72ca-46e6-8b07-01b3e53c6a05-1
+00:23:25.480 --> 00:23:27.920
+reaching to, to the personnel.
+
+72af2996-4d15-4091-8fc1-08f3f57ff9f5-0
+00:23:32.160 --> 00:23:35.430
+This is a survey,
+this is a pretty busy slide,
+
+72af2996-4d15-4091-8fc1-08f3f57ff9f5-1
+00:23:35.430 --> 00:23:40.857
+but it's crucial because it shows the
+different results from a survey done by
+
+72af2996-4d15-4091-8fc1-08f3f57ff9f5-2
+00:23:40.857 --> 00:23:45.520
+the Society of Cardiovascular and
+Angiography and Interventionals.
+
+1fd9fa75-7f28-454a-87c6-ee26b8b261c7-0
+00:23:45.520 --> 00:23:49.824
+This is this one was done in 2023 and it
+shows the, the,
+
+1fd9fa75-7f28-454a-87c6-ee26b8b261c7-1
+00:23:49.824 --> 00:23:53.525
+the average and in percentage it's,
+it's pretty,
+
+1fd9fa75-7f28-454a-87c6-ee26b8b261c7-2
+00:23:53.525 --> 00:23:56.320
+I mean those numbers are pretty high.
+
+9d87e68c-5ecd-42e3-8471-19890b4b1ed3-0
+00:23:56.840 --> 00:24:01.900
+If you see a pregnancy 28 percent,
+71% when it comes into radiation,
+
+9d87e68c-5ecd-42e3-8471-19890b4b1ed3-1
+00:24:01.900 --> 00:24:03.440
+6% related to cancer.
+
+5455e98a-9add-4ac4-a916-054708f26ebf-0
+00:24:04.760 --> 00:24:07.360
+When it comes to orthopedic,
+those numbers are pretty high.
+
+3ebd55c8-9cd4-4d99-885e-a59888ebeb2c-0
+00:24:07.840 --> 00:24:15.120
+So we should be pretty taking care of
+this 66 percent, 34 and 25.
+
+03f6359c-bf9a-432b-9fcb-045856f1febc-0
+00:24:22.680 --> 00:24:28.397
+When it comes to new technology LED free
+solutions are kind of like in the
+
+03f6359c-bf9a-432b-9fcb-045856f1febc-1
+00:24:28.397 --> 00:24:29.160
+evolution.
+
+60129933-b9ab-4628-bce3-304319831848-0
+00:24:29.480 --> 00:24:35.237
+So this I would say this in the infancy,
+but there's a lot of significant
+
+60129933-b9ab-4628-bce3-304319831848-1
+00:24:35.237 --> 00:24:41.228
+potential in this area when properly set
+up for a procedure can be performed
+
+60129933-b9ab-4628-bce3-304319831848-2
+00:24:41.228 --> 00:24:42.240
+without laps.
+
+6d4c8f6b-6f2c-4b8f-93a6-7827b547c962-0
+00:24:42.600 --> 00:24:46.002
+You know, I think that's,
+that's the what we're going to see,
+
+6d4c8f6b-6f2c-4b8f-93a6-7827b547c962-1
+00:24:46.002 --> 00:24:47.320
+you know, in the future.
+
+45017f64-336c-424a-b9f4-b92127b540d4-0
+00:24:47.640 --> 00:24:50.640
+And also,
+I know there's a few states already and
+
+45017f64-336c-424a-b9f4-b92127b540d4-1
+00:24:50.640 --> 00:24:53.400
+hospitals that they're using this
+technology.
+
+51981ace-f29f-4ca4-a80e-5b84bc7de426-0
+00:24:54.680 --> 00:24:56.760
+And I think this is, this is the future.
+
+02f49a4e-588b-40a4-aa0b-df9029d24832-0
+00:24:57.240 --> 00:25:01.480
+So this is important to adapt to these
+changes.
+
+c9ff4e0b-7b36-4e43-8c8c-37adfe839b28-0
+00:25:02.320 --> 00:25:07.370
+And of course, like all new technologies,
+there's pros and cons, you know,
+
+c9ff4e0b-7b36-4e43-8c8c-37adfe839b28-1
+00:25:07.370 --> 00:25:10.400
+set up time,
+proper education for the staff.
+
+8abe4a6e-a000-4172-b3d2-7ec51d03986b-0
+00:25:10.840 --> 00:25:13.040
+But I think this,
+this is where we're going.
+
+d10d08e1-cae9-416d-8d89-69300f0b5fb1-0
+00:25:19.600 --> 00:25:24.542
+As a summary, we can talk about, you know,
+always keep your timing distance and
+
+d10d08e1-cae9-416d-8d89-69300f0b5fb1-1
+00:25:24.542 --> 00:25:25.160
+shielding.
+
+f15c1c9c-d613-47c4-8554-9f0ffa0f02e6-0
+00:25:25.160 --> 00:25:26.880
+Try to be aware of that.
+
+ab41cbba-19d7-4a29-a671-5864f5ebe2a9-0
+00:25:26.880 --> 00:25:28.720
+Follow the Alara as low as possible.
+
+8792d2ee-faa5-4b54-a0f1-f3376b38053d-0
+00:25:29.640 --> 00:25:34.480
+Just be aware that the scatter that's
+that's the why you need to be careful.
+
+f91f5832-95ea-4a00-b7db-367dc71d1f56-0
+00:25:35.360 --> 00:25:41.888
+Always use the DAP those area product as
+as your information for every case and we
+
+f91f5832-95ea-4a00-b7db-367dc71d1f56-1
+00:25:41.888 --> 00:25:44.720
+need to adapt to the new technology.
+
+30eb39f3-cb1b-4b24-b969-6c0a8556850f-0
+00:25:44.880 --> 00:25:50.400
+This is what is going to make the
+difference and avoiding issues in the lab.
+
+f2a616e7-9d12-4559-a4b3-d8469d574473-0
+00:25:53.040 --> 00:25:56.520
+If you have any questions,
+please feel free and thank you for your
+
+f2a616e7-9d12-4559-a4b3-d8469d574473-1
+00:25:56.520 --> 00:25:57.040
+attention.
+
+a4599e01-67a0-402b-a3e7-074b7a2e7532-0
+00:25:58.360 --> 00:25:59.400
+OK, welcome back everybody.
+
+37818925-73b3-455d-87ab-7f7fd55efa1b-0
+00:25:59.400 --> 00:26:01.440
+And we saved the best for last.
+
+ffdd83e9-91bc-4855-8bdf-7edbbf3bd122-0
+00:26:01.440 --> 00:26:05.320
+I think this this last round panel is
+going to be fantastic.
+
+43c091da-fbae-42c2-bbb1-7455f274c871-0
+00:26:05.320 --> 00:26:09.320
+We've got a really star standard group,
+a lot of experience on this panel.
+
+b529f43d-12be-43d0-bd1a-49c4689ca2c0-0
+00:26:09.320 --> 00:26:14.231
+Looking forward to discussing some of the
+hot topics and and really kind of bring
+
+b529f43d-12be-43d0-bd1a-49c4689ca2c0-1
+00:26:14.231 --> 00:26:17.765
+them down to earth,
+figure out how we're going to do this,
+
+b529f43d-12be-43d0-bd1a-49c4689ca2c0-2
+00:26:17.765 --> 00:26:20.760
+how, how,
+how can we help and make some change in
+
+b529f43d-12be-43d0-bd1a-49c4689ca2c0-3
+00:26:20.760 --> 00:26:21.240
+the lab.
+
+4a447a4c-4565-4b9e-ad77-1cf3727aabfb-0
+00:26:21.840 --> 00:26:25.046
+Keep in mind you can ask questions and
+hopefully we'll get those questions
+
+4a447a4c-4565-4b9e-ad77-1cf3727aabfb-1
+00:26:25.046 --> 00:26:25.560
+during this.
+
+3bc2154a-6b79-4904-a81e-8723de5ad3d3-0
+00:26:26.120 --> 00:26:31.000
+They are here to answer your questions
+and so you know, please, please reach out.
+
+1c6c8b80-e5fe-4e5d-8d93-85e3d7172b8c-0
+00:26:31.360 --> 00:26:37.520
+Those last two talks by the technologist
+I thought were, were really fantastic.
+
+51c9f535-742f-4ecb-b6cb-bcaa6477df75-0
+00:26:37.520 --> 00:26:41.582
+They did a great job and and now we're
+going to kind of bring it home with
+
+51c9f535-742f-4ecb-b6cb-bcaa6477df75-1
+00:26:41.582 --> 00:26:45.320
+asking some questions hopefully that
+everybody really wants to know.
+
+02bbbe94-2732-46ba-9732-d70a6a35d966-0
+00:26:46.520 --> 00:26:47.280
+On the panel.
+
+8123ef74-fb11-47c6-ad41-23c0cbb8f046-0
+00:26:47.280 --> 00:26:51.920
+We got doctor Lakshmanarian from from
+Yorkshire.
+
+001af702-3722-4f77-8994-c995fe47b096-0
+00:26:52.120 --> 00:26:55.000
+He is a interventional vascular
+radiologist.
+
+56e8d2b6-552a-436a-90bc-beb966915a1e-0
+00:26:55.200 --> 00:26:59.400
+We've got Doctor Gandhi from Miami and
+then conventional radiologists.
+
+1d7bab9f-ea08-4515-a721-ff1f87de3dd1-0
+00:26:59.400 --> 00:27:05.640
+We have Doctor Pat Muck is back with us
+as a chief vascular surgeon in Ohio.
+
+45389d2f-2bd9-423f-88ef-d637930ed6a9-0
+00:27:06.160 --> 00:27:08.600
+Chris Steelman has joined us.
+
+eb18679b-c0a0-4aa3-bf7a-477b934abd45-0
+00:27:08.760 --> 00:27:15.323
+He is a assistant professor at Weber
+State University and leads and guides a
+
+eb18679b-c0a0-4aa3-bf7a-477b934abd45-1
+00:27:15.323 --> 00:27:19.160
+lot of the technology schools and
+education.
+
+c2eb0672-2bfb-474f-930f-5f8efc51806f-0
+00:27:19.440 --> 00:27:20.160
+And then Dr.
+
+9a166a26-91bb-4330-8950-224b1ed6ab7b-0
+00:27:20.160 --> 00:27:24.600
+Ana Saito,
+who is also interventional cardiologist
+
+9a166a26-91bb-4330-8950-224b1ed6ab7b-1
+00:27:24.600 --> 00:27:26.080
+in San Francisco.
+
+8f91d382-0c61-40c7-8640-f4770725f436-0
+00:27:26.080 --> 00:27:31.841
+Doctor her Miller is also with us as past
+president of Sky and we'll also be back
+
+8f91d382-0c61-40c7-8640-f4770725f436-1
+00:27:31.841 --> 00:27:37.040
+tomorrow with with some of the other
+panelists as well from Indianapolis.
+
+0669d369-00d0-4cb1-997f-e6577ff4999f-0
+00:27:37.040 --> 00:27:40.693
+So with that,
+I really think it's going to it's going
+
+0669d369-00d0-4cb1-997f-e6577ff4999f-1
+00:27:40.693 --> 00:27:46.240
+to be really exciting to kind of figure
+out what we need to do here as we kind of
+
+0669d369-00d0-4cb1-997f-e6577ff4999f-2
+00:27:46.240 --> 00:27:47.120
+move forward.
+
+3165f5cc-b0fb-44c8-965a-ca0528b8bd2d-0
+00:27:47.440 --> 00:27:52.210
+I guess one of the one of the things that
+kind of keeps coming up is should we,
+
+3165f5cc-b0fb-44c8-965a-ca0528b8bd2d-1
+00:27:52.210 --> 00:27:56.862
+when we walk into a room and I don't know
+what it's like in it at your place,
+
+3165f5cc-b0fb-44c8-965a-ca0528b8bd2d-2
+00:27:56.862 --> 00:28:00.440
+but but should we have a typical
+radiation safety time out?
+
+db6dba1e-9464-4f51-8505-51554016c401-0
+00:28:01.200 --> 00:28:04.652
+And if we have a radiation safety time
+out to decide, you know,
+
+db6dba1e-9464-4f51-8505-51554016c401-1
+00:28:04.652 --> 00:28:08.320
+are the people in their LED,
+what part of the room can be LED free?
+
+dc30c159-8700-4237-89be-591e4093fbd6-0
+00:28:08.320 --> 00:28:09.920
+What part of the room can be light lead?
+
+f79ba7c7-cd7e-4c62-8f26-b93305ab6487-0
+00:28:10.360 --> 00:28:16.271
+What kind of procedures are we doing that
+require a heavier weight lead and making
+
+f79ba7c7-cd7e-4c62-8f26-b93305ab6487-1
+00:28:16.271 --> 00:28:18.480
+all those, all those decisions?
+
+6dd5f91f-3e00-4ef6-b782-0bf2cceada43-0
+00:28:18.800 --> 00:28:24.365
+So how do we navigate that as we move
+into some of these barrier technologies
+
+6dd5f91f-3e00-4ef6-b782-0bf2cceada43-1
+00:28:24.365 --> 00:28:28.859
+that use varying degrees of lead aprons
+and, or no aprons and,
+
+6dd5f91f-3e00-4ef6-b782-0bf2cceada43-2
+00:28:28.859 --> 00:28:32.712
+and still in the variation of not only
+your position,
+
+6dd5f91f-3e00-4ef6-b782-0bf2cceada43-3
+00:28:32.712 --> 00:28:36.279
+but but the type of procedures that
+you're doing.
+
+1c5f292b-129f-4510-9917-a0612f6e64af-0
+00:28:36.280 --> 00:28:38.982
+So open,
+open that up to the panel and we can can
+
+1c5f292b-129f-4510-9917-a0612f6e64af-1
+00:28:38.982 --> 00:28:40.280
+kind of start out there.
+
+6e5384dd-afed-48a7-a74e-3c1e6fbd7597-0
+00:28:45.240 --> 00:28:46.440
+I'd be happy to jump in.
+
+e1e922b6-e313-4fe2-8d37-5cc5595130b3-0
+00:28:48.160 --> 00:28:52.150
+I heard that earlier today, Doctor,
+and I was amazed that we hadn't been
+
+e1e922b6-e313-4fe2-8d37-5cc5595130b3-1
+00:28:52.150 --> 00:28:53.080
+doing it already.
+
+6deec6f1-39f6-4790-b758-0cfc08e66b3e-0
+00:28:53.080 --> 00:28:54.880
+I mean, it just makes sense.
+
+ed163ac8-9627-4842-bab5-502fb3c96341-0
+00:28:55.120 --> 00:29:00.015
+And not not only should we be talking
+about the particular challenges of the
+
+ed163ac8-9627-4842-bab5-502fb3c96341-1
+00:29:00.015 --> 00:29:05.164
+case from that perspective, but you know,
+any notes that could be provided to us
+
+ed163ac8-9627-4842-bab5-502fb3c96341-2
+00:29:05.164 --> 00:29:08.280
+because you're right,
+we're setting up the room.
+
+111eec54-f3a4-4353-8725-50c0a4add482-0
+00:29:08.280 --> 00:29:11.480
+And I'm speaking as a Cath lab radiologic
+technologist.
+
+d96e7cae-42f2-4475-8997-1fb69ad7e057-0
+00:29:11.920 --> 00:29:14.200
+We're setting up the room for you.
+
+feadeb14-3d08-41dd-bfe2-c16ed9be5d4b-0
+00:29:14.880 --> 00:29:18.867
+And so to have that information
+communicated beforehand gives us a head
+
+feadeb14-3d08-41dd-bfe2-c16ed9be5d4b-1
+00:29:18.867 --> 00:29:19.200
+start.
+
+32d28c48-055e-478f-889b-49638f435e8a-0
+00:29:19.480 --> 00:29:20.360
+Do we need the ramp?
+
+e2a8dd7e-e3ad-489c-a08e-8f97f3269b54-0
+00:29:20.480 --> 00:29:23.280
+Do we need this or that approach to this?
+
+efbca8ad-33bb-473a-b044-6cec02a24690-0
+00:29:23.800 --> 00:29:26.926
+But also during that time out mentioning,
+you know,
+
+efbca8ad-33bb-473a-b044-6cec02a24690-1
+00:29:26.926 --> 00:29:30.954
+here's here's not only the challenges,
+but let's remind ourselves,
+
+efbca8ad-33bb-473a-b044-6cec02a24690-2
+00:29:30.954 --> 00:29:33.840
+we're going to keep the IR down on the
+patient.
+
+25fd99b0-84c1-4ba1-a5ec-f2a84adedee6-0
+00:29:34.080 --> 00:29:35.160
+We want that table high.
+
+ebf583c3-1760-45f5-9c31-4017a7d849d0-0
+00:29:35.160 --> 00:29:37.160
+We're going to optimize table geometry.
+
+0a2a00f8-72b1-470f-9005-7e971660e22b-0
+00:29:39.760 --> 00:29:41.760
+And I was a little upset I didn't think
+of that.
+
+357cfd71-2609-4372-a210-43447595baf8-0
+00:29:42.360 --> 00:29:44.600
+So, yeah, I, I took plenty of doubts.
+
+f351d04b-f035-437f-b3df-06a7ab857a0e-0
+00:29:44.600 --> 00:29:46.240
+So I think it's a great idea.
+
+7c4bd164-ac9d-40bb-8e31-48296115cd10-0
+00:29:48.120 --> 00:29:53.174
+Yeah, I, I think if Bob,
+if I can go from the UK, that that is a,
+
+7c4bd164-ac9d-40bb-8e31-48296115cd10-1
+00:29:53.174 --> 00:29:59.378
+that is a brilliant suggestion because
+one of the key things we surveyed lots of
+
+7c4bd164-ac9d-40bb-8e31-48296115cd10-2
+00:29:59.378 --> 00:30:00.679
+people in the UK.
+
+5999fcee-3c3b-493d-855e-328b97b7f8c7-0
+00:30:01.000 --> 00:30:05.007
+So if you take orthopedic surgeons,
+you know, you know,
+
+5999fcee-3c3b-493d-855e-328b97b7f8c7-1
+00:30:05.007 --> 00:30:08.657
+you shift focus to other people who use
+radiation,
+
+5999fcee-3c3b-493d-855e-328b97b7f8c7-2
+00:30:08.657 --> 00:30:11.948
+even wearing on monitoring devices,
+you know,
+
+5999fcee-3c3b-493d-855e-328b97b7f8c7-3
+00:30:11.948 --> 00:30:17.960
+50% of the consultants wear on monitoring
+devices, even though everyone is given 1.
+
+2f02606f-8da6-4315-9353-5cff7746d33f-0
+00:30:18.440 --> 00:30:21.680
+And when it comes to the trainees,
+it falls to 23%.
+
+992b7e63-bf7b-4456-9bf8-483b0f6e0a9a-0
+00:30:22.040 --> 00:30:26.063
+Just that idea of saying, you know,
+you have a time out where you're asking
+
+992b7e63-bf7b-4456-9bf8-483b0f6e0a9a-1
+00:30:26.063 --> 00:30:29.240
+have you, have, have you,
+do you have your device with you?
+
+ff3cf3f8-2b11-4661-9d4f-4e7ee92036a2-0
+00:30:29.880 --> 00:30:33.560
+And Patrick might be interested in this.
+
+78c902eb-1cc4-4701-abea-e4d8738c1fa3-0
+00:30:33.560 --> 00:30:38.395
+You know,
+80% of vascular surgeons are provided who,
+
+78c902eb-1cc4-4701-abea-e4d8738c1fa3-1
+00:30:38.395 --> 00:30:43.960
+who have devices end up only only about
+70% of them wear it.
+
+840b8a57-4677-4985-973e-d5ea1e3c608e-0
+00:30:44.000 --> 00:30:47.184
+And when it comes to trainees in vascular
+surgery,
+
+840b8a57-4677-4985-973e-d5ea1e3c608e-1
+00:30:47.184 --> 00:30:50.120
+only 30% of them end up wearing these
+devices.
+
+5c2bb1b6-06d9-47ec-bca9-1b332e41a793-0
+00:30:50.440 --> 00:30:55.680
+So just a, just a time out to say, hey,
+do you have your device on?
+
+ff829e5e-62fc-42b6-a419-33ecdce2e8d9-0
+00:30:56.280 --> 00:30:58.400
+Is, is, is a simple, but great question.
+
+0d02bbe3-5951-42cf-b6fd-36d4cf48a09e-0
+00:30:58.640 --> 00:31:03.480
+I think some of our surveys have shown
+that it's, it's a bit dismal.
+
+e1716b9d-9ead-4798-94cb-39c12d81bdfb-0
+00:31:04.200 --> 00:31:07.280
+I'm going to kind of, you know, challenge,
+you know, this is something that,
+
+e1716b9d-9ead-4798-94cb-39c12d81bdfb-1
+00:31:07.280 --> 00:31:08.560
+you know, we talked about a lot.
+
+b4ad9c56-6bd2-4968-b3df-790eb2163422-0
+00:31:08.800 --> 00:31:12.192
+And one of the counterpoints that I've
+heard from our trainees as well as,
+
+b4ad9c56-6bd2-4968-b3df-790eb2163422-1
+00:31:12.192 --> 00:31:14.498
+you know,
+a lot of our staff physicians is what do
+
+b4ad9c56-6bd2-4968-b3df-790eb2163422-2
+00:31:14.498 --> 00:31:15.720
+I do with that information?
+
+c5054363-31bd-463b-9fc6-7522da134107-0
+00:31:15.960 --> 00:31:17.640
+OK, I have the badge on.
+
+6fa0138c-5a7c-4dd0-a15b-8075bb0b731b-0
+00:31:18.280 --> 00:31:21.520
+When is that information even conveyed to
+the physician?
+
+2a72a8c9-01c8-4f66-a2c8-a4ab06668c0f-0
+00:31:21.520 --> 00:31:22.760
+Is it conveyed at all?
+
+8960fbcb-73e9-4402-af83-5647d3def86a-0
+00:31:23.480 --> 00:31:25.640
+And, and when I get those numbers,
+what does it mean?
+
+5d200506-1071-41a6-a8fd-a607c0d2c084-0
+00:31:26.000 --> 00:31:29.360
+And as a trainee, I've heard trainees say,
+well, I don't want to miss out on cases.
+
+2fc348bc-12ad-4831-86a5-a460ed9d8bf1-0
+00:31:29.840 --> 00:31:33.622
+So, you know, if we're going to,
+if we're going to mandate that or
+
+2fc348bc-12ad-4831-86a5-a460ed9d8bf1-1
+00:31:33.622 --> 00:31:37.405
+recommend, you know, doing that,
+I didn't really need to institute
+
+2fc348bc-12ad-4831-86a5-a460ed9d8bf1-2
+00:31:37.405 --> 00:31:41.696
+measures on #1 education #2 you know,
+how if your doses are getting high to
+
+2fc348bc-12ad-4831-86a5-a460ed9d8bf1-3
+00:31:41.696 --> 00:31:45.196
+actually, you know,
+what are ways that we could actually make
+
+2fc348bc-12ad-4831-86a5-a460ed9d8bf1-4
+00:31:45.196 --> 00:31:48.866
+them within the, you know,
+appropriate range such that we're not
+
+2fc348bc-12ad-4831-86a5-a460ed9d8bf1-5
+00:31:48.866 --> 00:31:50.560
+eliminating people from cases.
+
+a7be522e-93c8-4b8f-85a8-500ff9df826d-0
+00:31:51.320 --> 00:31:55.301
+But if we just mandate people wearing
+badges without actually having any
+
+a7be522e-93c8-4b8f-85a8-500ff9df826d-1
+00:31:55.301 --> 00:31:57.920
+further plan,
+I don't think it's very valuable.
+
+1eeb295d-45b3-4543-9514-c94bdb8fea60-0
+00:31:59.320 --> 00:32:02.514
+I'll be the first to admit I was one of
+those who did not wear my badge because I
+
+1eeb295d-45b3-4543-9514-c94bdb8fea60-1
+00:32:02.514 --> 00:32:05.320
+didn't keep exceeding my limits,
+which is a terrible, a terrible thing.
+
+e7c315fa-9f98-4683-8dea-379d5a0700e3-0
+00:32:05.320 --> 00:32:07.120
+And we shouldn't be in that situation.
+
+ac42c885-b250-482b-bf56-5e5be9245474-0
+00:32:07.440 --> 00:32:11.734
+And I'm glad it's not happening just in
+the US because the number here are just
+
+ac42c885-b250-482b-bf56-5e5be9245474-1
+00:32:11.734 --> 00:32:15.492
+like you were talking about is, you know,
+it's probably about 70% or,
+
+ac42c885-b250-482b-bf56-5e5be9245474-2
+00:32:15.492 --> 00:32:17.639
+or 50% that aren't wearing their badges.
+
+4d4031b8-c6a9-4221-87bb-969359e2d496-0
+00:32:17.640 --> 00:32:20.860
+And so, you know, again, we need to,
+we need to raise that level of,
+
+4d4031b8-c6a9-4221-87bb-969359e2d496-1
+00:32:20.860 --> 00:32:22.120
+of that it's safe to do it.
+
+db916ed8-5d7e-48a5-b22a-dcf0942399bf-0
+00:32:22.120 --> 00:32:25.000
+And you understand, like you say,
+you understand what the numbers mean.
+
+093483fa-12f7-496e-b170-4e223002f372-0
+00:32:25.320 --> 00:32:29.510
+And I think real time does symmetry might
+help with that as we start getting into a
+
+093483fa-12f7-496e-b170-4e223002f372-1
+00:32:29.510 --> 00:32:32.704
+little bit more active,
+real time does symmetry to be so people
+
+093483fa-12f7-496e-b170-4e223002f372-2
+00:32:32.704 --> 00:32:34.600
+know what those numbers actually mean.
+
+6d3339f8-8b0c-453e-ac3d-b45adbe17f87-0
+00:32:35.120 --> 00:32:35.360
+Yeah.
+
+0b4531eb-e760-453f-b340-6e06da4a7b0b-0
+00:32:35.640 --> 00:32:37.000
+Reg, you, I can't agree enough.
+
+802e02bf-67d4-4e65-8210-9e5b0d835c08-0
+00:32:37.000 --> 00:32:39.640
+I want to just challenge your numbers.
+
+dfc3ba38-3da7-4abe-9399-99e96cc8396e-0
+00:32:39.960 --> 00:32:43.280
+You know, here at Cincinnati,
+there's six of us.
+
+d78f039b-16ee-42d3-b97b-694999cfb763-0
+00:32:43.280 --> 00:32:44.000
+You know, there's not.
+
+b947c058-8ae3-4782-8470-c5d3cec17a06-0
+00:32:44.240 --> 00:32:50.914
+We've got 35 cardiology partners and I'm
+not proud to say that all six of us don't
+
+b947c058-8ae3-4782-8470-c5d3cec17a06-1
+00:32:50.914 --> 00:32:51.880
+wear badges.
+
+69aa95f8-d86e-4a51-831d-70dc129c6c39-0
+00:32:51.880 --> 00:32:53.000
+It's it's embarrassing.
+
+30048778-5f99-46d1-9a66-8d39cf628b31-0
+00:32:53.280 --> 00:32:54.560
+So we're at 100%.
+
+a4d87f52-dad4-4211-a794-e692be7cd67c-0
+00:32:54.560 --> 00:32:57.896
+So we we've already got you beat over
+here in Ohio,
+
+a4d87f52-dad4-4211-a794-e692be7cd67c-1
+00:32:57.896 --> 00:33:01.040
+but obviously it's not a laughing matter
+at all.
+
+202791e8-7821-48e4-b51f-a6ce3713db03-0
+00:33:01.040 --> 00:33:02.240
+It's it's embarrassing.
+
+a13273a4-ad9e-4c77-b86f-5d3710c1ec35-0
+00:33:02.240 --> 00:33:07.526
+And I agree with with Repo when you got,
+we need education and the Society of
+
+a13273a4-ad9e-4c77-b86f-5d3710c1ec35-1
+00:33:07.526 --> 00:33:10.576
+Vascular Surgery is woefully behind in
+this,
+
+a13273a4-ad9e-4c77-b86f-5d3710c1ec35-2
+00:33:10.576 --> 00:33:15.116
+as we typically are when it comes to
+minimally invasive, you know,
+
+a13273a4-ad9e-4c77-b86f-5d3710c1ec35-3
+00:33:15.116 --> 00:33:17.760
+therapies and procedures and education.
+
+246d2707-6d53-4615-8683-d3e4c1c6732e-0
+00:33:17.760 --> 00:33:21.520
+We're always way behind the, the,
+the IC and the IR world.
+
+5a7f7f94-ede4-4e4b-a134-b1e1a74c4726-0
+00:33:21.840 --> 00:33:26.595
+And so at least from our perspective, our,
+our trainees are taking it seriously and
+
+5a7f7f94-ede4-4e4b-a134-b1e1a74c4726-1
+00:33:26.595 --> 00:33:29.200
+we're trying to put out a survey to get
+data.
+
+da6da862-0a6b-4dfb-beda-574df084768b-0
+00:33:29.200 --> 00:33:32.766
+And I might reach out to you,
+if you don't mind Ragu to get your input
+
+da6da862-0a6b-4dfb-beda-574df084768b-1
+00:33:32.766 --> 00:33:35.880
+to the Association of Program Directors
+and Vascular surgery.
+
+c77038a2-519d-4cfc-8437-0ec2070bed3a-0
+00:33:36.120 --> 00:33:40.344
+We're going to send out, you know,
+a 20 question survey about all the things
+
+c77038a2-519d-4cfc-8437-0ec2070bed3a-1
+00:33:40.344 --> 00:33:43.800
+you guys are all talking about to the
+trainees in the country.
+
+71e68e4d-515e-4644-850d-c1564d4fe564-0
+00:33:43.800 --> 00:33:47.162
+And I would,
+I bet it's going to be very woeful the
+
+71e68e4d-515e-4644-850d-c1564d4fe564-1
+00:33:47.162 --> 00:33:47.680
+results.
+
+954d4d70-1753-4346-8986-27b1587273a9-0
+00:33:49.680 --> 00:33:50.200
+I like this.
+
+39e728dd-ebad-41a0-bf51-1661028754eb-0
+00:33:50.200 --> 00:33:52.592
+I like the aspect honestly more than that,
+you know,
+
+39e728dd-ebad-41a0-bf51-1661028754eb-1
+00:33:52.592 --> 00:33:56.204
+wearing the radiation badge and which is
+fine if we're going to educate people,
+
+39e728dd-ebad-41a0-bf51-1661028754eb-2
+00:33:56.204 --> 00:33:59.726
+but more in terms of very basic things
+that we should be doing during case of
+
+39e728dd-ebad-41a0-bf51-1661028754eb-3
+00:33:59.726 --> 00:34:01.577
+look,
+maybe you don't have some of these
+
+39e728dd-ebad-41a0-bf51-1661028754eb-4
+00:34:01.577 --> 00:34:03.880
+advanced radiation protection systems in
+your lab.
+
+d416d821-b223-475d-9049-d933407d7755-0
+00:34:03.880 --> 00:34:08.275
+And I would venture at this point in time,
+the vast majority probably do not,
+
+d416d821-b223-475d-9049-d933407d7755-1
+00:34:08.275 --> 00:34:12.952
+but just very basic things that honestly
+drive me crazy every day when I'm looking
+
+d416d821-b223-475d-9049-d933407d7755-2
+00:34:12.952 --> 00:34:14.080
+at our our trainees.
+
+68931800-a0d8-4522-89c1-87de6d551d8c-0
+00:34:14.080 --> 00:34:18.280
+I mean, lower the I, I use the, use the,
+you know, portable shield.
+
+8e430bcd-ac24-4387-8ab7-9b958e3ee331-0
+00:34:18.480 --> 00:34:19.840
+Make sure you have the skirt on the table.
+
+72d134f5-c62d-4383-9b00-6648b6f61648-0
+00:34:19.840 --> 00:34:23.551
+Just very basic things, which, you know,
+if we mentioned that as a part of the
+
+72d134f5-c62d-4383-9b00-6648b6f61648-1
+00:34:23.551 --> 00:34:25.760
+time out,
+I think would be extremely valuable.
+
+f00588ea-c96d-4a5d-909e-3b649dd6cbe2-0
+00:34:26.120 --> 00:34:27.240
+All right, Doctor Harveller.
+
+fe748ed4-4f38-4abc-b9f2-82df607072bf-0
+00:34:28.000 --> 00:34:28.280
+Yeah.
+
+c12d286e-a960-49a1-afa2-6205d08b77aa-0
+00:34:28.480 --> 00:34:32.520
+But I think it's a brilliant idea to have
+a time out right now.
+
+a18e9d89-e423-47c4-8801-23fea7a3f2ae-0
+00:34:32.520 --> 00:34:33.320
+Our time out.
+
+76bf745e-6817-47b3-87cf-cc388c3c7e25-0
+00:34:39.200 --> 00:34:40.240
+Looks like we lost Doctor.
+
+abd417c4-3ae3-4195-a1cf-9b17a4603eab-0
+00:34:40.240 --> 00:34:40.800
+I know that.
+
+2d54b1ca-2c57-44d0-844a-817b8b46c527-0
+00:34:41.400 --> 00:34:43.974
+Doctor Sedo,
+you had a question or you had your hand
+
+2d54b1ca-2c57-44d0-844a-817b8b46c527-1
+00:34:43.974 --> 00:34:44.120
+up.
+
+63c83724-064f-4d0d-96f3-666114467d6f-0
+00:34:44.440 --> 00:34:44.880
+Yeah.
+
+cac72dec-2517-488d-960f-76c2a566e8da-0
+00:34:44.880 --> 00:34:48.271
+So since we lost Doctor Henry, yeah,
+I'll comment that we actually,
+
+cac72dec-2517-488d-960f-76c2a566e8da-1
+00:34:48.271 --> 00:34:50.714
+we actually tried the adding it to the
+time out,
+
+cac72dec-2517-488d-960f-76c2a566e8da-2
+00:34:50.714 --> 00:34:52.560
+but it really needs to be actionable.
+
+a8feac25-ddc1-4a57-b408-ec6945db98bb-0
+00:34:52.560 --> 00:34:56.400
+The time out is already burdened by Jayco
+requirements like fire risk, site marking.
+
+401444d6-4a9c-4fd9-8d81-f2ba8953fd0d-0
+00:34:56.560 --> 00:34:58.320
+It becomes meaningless unless it's
+actionable.
+
+13e58037-24e3-455d-8718-206f667e4d36-0
+00:34:58.320 --> 00:34:59.960
+So I definitely agree with recall about
+that.
+
+ca03d3bc-a3f1-4ddd-aaa5-ed594e7b3e70-0
+00:35:00.720 --> 00:35:04.045
+You know, we do say that, you know,
+we're all wearing our radiation badges
+
+ca03d3bc-a3f1-4ddd-aaa5-ed594e7b3e70-1
+00:35:04.045 --> 00:35:06.616
+because that's the one thing that is
+actionable and, and,
+
+ca03d3bc-a3f1-4ddd-aaa5-ed594e7b3e70-2
+00:35:06.616 --> 00:35:08.080
+and things doesn't always happen.
+
+024ec628-1c3a-4537-b61e-48ab37ec3299-0
+00:35:08.240 --> 00:35:11.016
+But for most of our cardiac cases,
+you know, we set up the Portego,
+
+024ec628-1c3a-4537-b61e-48ab37ec3299-1
+00:35:11.016 --> 00:35:12.200
+everyone's protected equally.
+
+2c4f83ea-3402-44b3-abcd-2c3ed325f876-0
+00:35:12.200 --> 00:35:15.141
+The rain, you know, the,
+the exposure is the same because we're
+
+2c4f83ea-3402-44b3-abcd-2c3ed325f876-1
+00:35:15.141 --> 00:35:16.520
+all staying behind the shield.
+
+63560e9b-ae05-4e76-b15b-fecb64a245f5-0
+00:35:16.680 --> 00:35:20.093
+So unless there's something different,
+like there's ATE probe going in someone
+
+63560e9b-ae05-4e76-b15b-fecb64a245f5-1
+00:35:20.093 --> 00:35:22.211
+there,
+then I think that's where the variability
+
+63560e9b-ae05-4e76-b15b-fecb64a245f5-2
+00:35:22.211 --> 00:35:22.600
+comes in.
+
+c9378c11-f6e5-469d-9c2c-58386464ceb1-0
+00:35:22.600 --> 00:35:24.320
+That's when a time out is most helpful.
+
+3b6a0a8d-ef3d-4ed3-a10a-6e6a95190065-0
+00:35:24.520 --> 00:35:27.720
+Otherwise it becomes a,
+a burden and becomes less meaningful.
+
+e48481f2-e7e6-4020-99e5-de319e1c2405-0
+00:35:28.640 --> 00:35:32.523
+But it'd be nice upfront to know like who
+is on the other side of the barrier to
+
+e48481f2-e7e6-4020-99e5-de319e1c2405-1
+00:35:32.523 --> 00:35:34.920
+say, OK,
+we're going to have anesthesia up there.
+
+c5de78b1-3f45-40af-8796-0ad8e7532e47-0
+00:35:34.920 --> 00:35:38.640
+We're going to have a, you know,
+an echo cardiographer up there.
+
+8eeac4a0-ba36-4063-b675-2b6c3f18c3bd-0
+00:35:38.840 --> 00:35:41.961
+So again, making sure that, you know,
+they're in whatever they need to be
+
+8eeac4a0-ba36-4063-b675-2b6c3f18c3bd-1
+00:35:41.961 --> 00:35:44.408
+appropriate for,
+for whatever kind of shielding they have
+
+8eeac4a0-ba36-4063-b675-2b6c3f18c3bd-2
+00:35:44.408 --> 00:35:45.800
+at the head of the table as well.
+
+d0a0041c-28c2-4994-98e1-ab3eaaa77ff3-0
+00:35:47.760 --> 00:35:50.828
+Raghu, just a quick point to say,
+in the UK,
+
+d0a0041c-28c2-4994-98e1-ab3eaaa77ff3-1
+00:35:50.828 --> 00:35:55.943
+you have the medical physics department
+who analyzes these badges and it's
+
+d0a0041c-28c2-4994-98e1-ab3eaaa77ff3-2
+00:35:55.943 --> 00:36:00.103
+mandated that an e-mail goes out to say
+ripple to say, look,
+
+d0a0041c-28c2-4994-98e1-ab3eaaa77ff3-3
+00:36:00.103 --> 00:36:04.400
+this is at the end of the month,
+This is your radiation level.
+
+c484ba1d-4684-4bbc-a903-a320e0ecab15-0
+00:36:04.720 --> 00:36:08.545
+And even though you don't know what the
+radiation level is, it's, it's,
+
+c484ba1d-4684-4bbc-a903-a320e0ecab15-1
+00:36:08.545 --> 00:36:11.787
+it's an interesting thing because I tend
+to look at it from,
+
+c484ba1d-4684-4bbc-a903-a320e0ecab15-2
+00:36:11.787 --> 00:36:15.560
+from my colleague and say, Hey,
+why is mine double that that person's?
+
+0ec0dc7b-d894-4b78-8d84-c00c2dc0a00c-0
+00:36:15.560 --> 00:36:18.640
+And then it,
+it starts getting you thinking on it.
+
+0e3c00c0-8271-476e-90e0-588f5709aa17-0
+00:36:19.160 --> 00:36:24.459
+The other thing that we're working on
+which kind of leads into your time out is
+
+0e3c00c0-8271-476e-90e0-588f5709aa17-1
+00:36:24.459 --> 00:36:29.560
+we're trying to look at buttonology as to
+who is going to press that button.
+
+a3c72c41-57ba-42ac-8d4c-39f825ec86c2-0
+00:36:29.760 --> 00:36:35.259
+Is that going to be the consultant who is
+Ripple or is it going to be Chris as a,
+
+a3c72c41-57ba-42ac-8d4c-39f825ec86c2-1
+00:36:35.259 --> 00:36:38.881
+as a, you know,
+radiography person And the person who
+
+a3c72c41-57ba-42ac-8d4c-39f825ec86c2-2
+00:36:38.881 --> 00:36:44.113
+presses the button actually has to kind
+of take responsibility of getting the
+
+a3c72c41-57ba-42ac-8d4c-39f825ec86c2-3
+00:36:44.113 --> 00:36:47.400
+intensifier low enough to the patient,
+etcetera.
+
+e2a122b8-b856-4f8c-9027-9e50d08efd2a-0
+00:36:47.760 --> 00:36:51.922
+So we're trying to develop this
+buttonology and try and pin down on who
+
+e2a122b8-b856-4f8c-9027-9e50d08efd2a-1
+00:36:51.922 --> 00:36:55.680
+is going to press that button that's
+going to emit those X-rays.
+
+e7923047-25f8-4a91-af77-e188d17ed555-0
+00:36:56.000 --> 00:37:00.347
+And they will have to have a set guidance
+of what they'll have to adhere to,
+
+e7923047-25f8-4a91-af77-e188d17ed555-1
+00:37:00.347 --> 00:37:04.920
+to try and reduce the amount of radiation
+to the various people around the room.
+
+4222357e-86ca-40c5-92ea-298194629ba4-0
+00:37:05.880 --> 00:37:07.240
+We've still not developed it.
+
+5bf1f4e8-2185-4877-9f27-a901e7086e6a-0
+00:37:07.240 --> 00:37:08.520
+It's a work in progress.
+
+6a5e889c-4a8d-49a5-b5c7-91e716c72aad-0
+00:37:09.880 --> 00:37:12.120
+You know, I think somebody mentioned,
+you know, real time decimeters.
+
+80bfa3b2-823a-44b7-bdf8-1e9f9843a2f4-0
+00:37:12.120 --> 00:37:14.040
+You know, we were looking at that.
+
+30f08709-7ca4-415d-90b6-7ce9fea83e06-0
+00:37:14.040 --> 00:37:17.700
+We were for some time realizing the dose
+aware system and you know,
+
+30f08709-7ca4-415d-90b6-7ce9fea83e06-1
+00:37:17.700 --> 00:37:19.800
+something that you see real time on it.
+
+57c5494f-19fe-4934-b7bc-50f525c91833-0
+00:37:19.880 --> 00:37:22.255
+I mean,
+you see people like running behind the
+
+57c5494f-19fe-4934-b7bc-50f525c91833-1
+00:37:22.255 --> 00:37:24.680
+shield,
+walking away and just basic thing like,
+
+57c5494f-19fe-4934-b7bc-50f525c91833-2
+00:37:24.680 --> 00:37:26.954
+you know,
+distance from the eye eye when you
+
+57c5494f-19fe-4934-b7bc-50f525c91833-3
+00:37:26.954 --> 00:37:30.239
+actually see, you know,
+you see your level and you see everybody
+
+57c5494f-19fe-4934-b7bc-50f525c91833-4
+00:37:30.239 --> 00:37:33.120
+else's level in the room,
+that's immediately actionable.
+
+9780bf10-a3ad-44d1-a75e-70e8d40d74e4-0
+00:37:33.440 --> 00:37:35.880
+But that's something that I think can
+actually change behavior.
+
+d366b127-d3fe-455a-b2b5-8356c1ed7c07-0
+00:37:37.640 --> 00:37:40.483
+You can also have a wall of shame of
+people who have the highest radiation
+
+d366b127-d3fe-455a-b2b5-8356c1ed7c07-1
+00:37:40.483 --> 00:37:42.720
+closure every month and for those who
+only report monthly.
+
+ec7f0c8b-5890-4f62-b644-1a8089fe93c0-0
+00:37:44.200 --> 00:37:45.880
+True, true.
+
+101b085c-5db5-4f6e-b2a8-0e165994fd63-0
+00:37:46.000 --> 00:37:46.320
+Bella.
+
+a587f855-f141-48fa-b2f2-934c769d0000-0
+00:37:46.320 --> 00:37:49.800
+I think that Bella Housing,
+our Co director is now with us now.
+
+e9ea9697-fa89-46c4-9534-76c6c2d18a03-0
+00:37:50.680 --> 00:37:53.360
+I think you had a question there for a
+second.
+
+da1bb0b8-3b56-4885-b9ec-13ea5ea0a44c-0
+00:37:54.720 --> 00:37:57.880
+Yeah, it was just to say sorry,
+I've got IT issues going on.
+
+5804ea82-ec79-4240-9876-4caa4a503cc7-0
+00:37:58.640 --> 00:38:05.240
+It was just to add on that the monitoring
+isn't designed to stop you from working.
+
+eed482b0-642e-4bcd-a4a7-39ae40195747-0
+00:38:05.520 --> 00:38:09.440
+It's more to edit what tools you have or
+improve them.
+
+c8f74cd6-28ad-4a26-aa57-ba32a1380683-0
+00:38:09.440 --> 00:38:15.080
+So trainees should never see wearing a
+badge as a potential to stop you working?
+
+c626d48d-bea1-4d5c-a31f-26a857509e51-0
+00:38:15.240 --> 00:38:16.320
+Absolutely not.
+
+1e0da7bb-da03-4a26-b971-f4587024bf83-0
+00:38:16.360 --> 00:38:22.177
+You can continue working for as long as
+you want as long as you have the right
+
+1e0da7bb-da03-4a26-b971-f4587024bf83-1
+00:38:22.177 --> 00:38:24.240
+tools to reduce the scatter.
+
+18d4c8bc-f9fb-46f2-ae33-3d76de8db3a4-0
+00:38:24.680 --> 00:38:28.270
+So if anything,
+it's a motivational tool to make you do
+
+18d4c8bc-f9fb-46f2-ae33-3d76de8db3a4-1
+00:38:28.270 --> 00:38:29.360
+the right things.
+
+4e87c4c3-023d-44ae-963c-e71d5539ed12-0
+00:38:29.640 --> 00:38:34.047
+And that's really important because if
+trainees go in with the mindset that this
+
+4e87c4c3-023d-44ae-963c-e71d5539ed12-1
+00:38:34.047 --> 00:38:37.802
+may prevent them working rather than this
+will prolong them working,
+
+4e87c4c3-023d-44ae-963c-e71d5539ed12-2
+00:38:37.802 --> 00:38:40.360
+then their attitude and behavior would
+change.
+
+3594bb2b-5ae8-4e51-9153-ee59ecf32706-0
+00:38:40.560 --> 00:38:42.640
+So it's important to send that message
+out.
+
+efd55234-5653-4b95-babc-e03b205e0e2b-0
+00:38:43.000 --> 00:38:46.400
+These tools are there to help you,
+not stop you from working.
+
+cbc05ed5-af87-485b-ac99-df254e47ceff-0
+00:38:46.400 --> 00:38:48.800
+It's your actions don't stop you from
+working.
+
+d1d4ecd0-5d8d-4509-bf45-1e63d02cd060-0
+00:38:49.040 --> 00:38:51.040
+So that that that's a really important
+point.
+
+4b572be2-1f39-42bb-ad1b-b15a8efba3a6-0
+00:38:51.040 --> 00:38:55.280
+The second thing with the data is as much
+or as little as you want.
+
+3916ab19-4dfa-4fb8-88c2-db98ee32bb95-0
+00:38:55.280 --> 00:38:58.950
+You can be proactive with it,
+with it and obtain as much information as
+
+3916ab19-4dfa-4fb8-88c2-db98ee32bb95-1
+00:38:58.950 --> 00:39:01.040
+you want, or you could be just as little.
+
+208184ed-1b71-4006-a7c8-0d2f685010d6-0
+00:39:01.040 --> 00:39:03.280
+Only tell me when I reach my dose.
+
+189d060f-d851-4184-a929-c0ed67d09967-0
+00:39:04.160 --> 00:39:07.280
+For those that have been super vigilant
+from day one.
+
+61c7a873-4fbd-4998-86bc-438f3e1dfa42-0
+00:39:07.680 --> 00:39:12.125
+I I don't know of any that have ever
+reached anywhere close to the limits no
+
+61c7a873-4fbd-4998-86bc-438f3e1dfa42-1
+00:39:12.125 --> 00:39:13.800
+matter how much they've done.
+
+c4fbd956-5718-4c9f-a954-e163cb6ce1cf-0
+00:39:14.160 --> 00:39:18.120
+So long as you follow the set protocols
+you're almost behind.
+
+78505d7c-a2b8-4cce-835e-9b325b09e069-0
+00:39:18.120 --> 00:39:23.560
+Mobile lead Shields is very rare for you
+to reach the dose limits.
+
+7442fd35-9edb-4f52-bd42-1f39af21f568-0
+00:39:23.560 --> 00:39:28.120
+So it's just to reassure any of the young
+audience listening here not to freak out
+
+7442fd35-9edb-4f52-bd42-1f39af21f568-1
+00:39:28.120 --> 00:39:29.000
+and to continue.
+
+043f58c8-1981-451f-8b00-d9dabe55afff-0
+00:39:29.360 --> 00:39:34.431
+The funny thing is if you compare our
+work with any other industry or lead
+
+043f58c8-1981-451f-8b00-d9dabe55afff-1
+00:39:34.431 --> 00:39:37.406
+athletes or any professional sports
+people,
+
+043f58c8-1981-451f-8b00-d9dabe55afff-2
+00:39:37.406 --> 00:39:40.720
+they would never go in without their
+monitoring.
+
+4780e01e-2376-449b-af11-59683ab5c10f-0
+00:39:40.840 --> 00:39:45.320
+They would never compete in competitions
+without having some sort of monitoring.
+
+dc9a3af1-8dbd-41d0-a624-6c2393c0b033-0
+00:39:45.400 --> 00:39:48.160
+And I think we need to be in the same
+league and mentality.
+
+49616b82-3087-4410-910b-529b5ccf2fa2-0
+00:39:48.960 --> 00:39:53.090
+Yeah, I do you know,
+you almost think that we need to take
+
+49616b82-3087-4410-910b-529b5ccf2fa2-1
+00:39:53.090 --> 00:39:57.920
+ownership of our occupation,
+that that this is an occupational risk.
+
+13867d55-1b55-40a5-9a4a-6e75dbf55b66-0
+00:39:58.240 --> 00:40:02.874
+We need to do whatever we possibly can to
+lower that risk for, you know,
+
+13867d55-1b55-40a5-9a4a-6e75dbf55b66-1
+00:40:02.874 --> 00:40:08.016
+for not only ourselves, but but you know,
+we owe it to our families and everyone
+
+13867d55-1b55-40a5-9a4a-6e75dbf55b66-2
+00:40:08.016 --> 00:40:11.000
+else that that that loves us and cares
+for us.
+
+50fd5470-493e-4fa9-b26e-87240b10d48c-0
+00:40:11.000 --> 00:40:15.215
+And so I do think like you say,
+I think using all the tools that are
+
+50fd5470-493e-4fa9-b26e-87240b10d48c-1
+00:40:15.215 --> 00:40:17.720
+available to change that and modify that.
+
+3402ce6c-5af8-46d6-a320-ff84addd1f07-0
+00:40:18.160 --> 00:40:20.840
+I know that you say that y'all y'all
+rarely reach your limit.
+
+f7bcad9f-d475-4a90-9f2f-76a8978e2cd0-0
+00:40:20.840 --> 00:40:21.600
+So I don't think that's.
+
+d06163f6-7c04-4503-a75c-196a07cf982a-0
+00:40:21.680 --> 00:40:25.649
+The case here and we and our limits are 2
+1/2 times what yours are and we're still
+
+d06163f6-7c04-4503-a75c-196a07cf982a-1
+00:40:25.649 --> 00:40:28.758
+exceeding them in a lot,
+especially in training when you know we
+
+d06163f6-7c04-4503-a75c-196a07cf982a-2
+00:40:28.758 --> 00:40:31.340
+have fellows,
+fellows are in front of us and they're,
+
+d06163f6-7c04-4503-a75c-196a07cf982a-3
+00:40:31.340 --> 00:40:33.588
+you know,
+they're done a lot of cases and they
+
+d06163f6-7c04-4503-a75c-196a07cf982a-4
+00:40:33.588 --> 00:40:34.880
+don't really understand it.
+
+76653016-154a-4b3e-845d-46e6f4db4d96-0
+00:40:35.040 --> 00:40:38.777
+When you do better about educating them
+and and getting them to the point where
+
+76653016-154a-4b3e-845d-46e6f4db4d96-1
+00:40:38.777 --> 00:40:41.066
+it's a,
+where you know it's safe and in training
+
+76653016-154a-4b3e-845d-46e6f4db4d96-2
+00:40:41.066 --> 00:40:41.440
+as well.
+
+3072068f-fa94-4ad3-89ae-8fb00f3b929f-0
+00:40:42.360 --> 00:40:44.840
+Hey, Bob, hey Bob, it's, it's her.
+
+5e24d5a9-956c-4c68-ae19-32632145b0e0-0
+00:40:44.840 --> 00:40:46.320
+Sorry I fell off there.
+
+6bc6fd7e-7859-4859-a4a9-fa25684d2293-0
+00:40:46.320 --> 00:40:48.320
+But I was just going to say it's
+interesting.
+
+50904830-249c-4279-8292-7b4527914f04-0
+00:40:48.320 --> 00:40:53.418
+We looked at our fellows over the last
+year and they have been leadless behind
+
+50904830-249c-4279-8292-7b4527914f04-1
+00:40:53.418 --> 00:40:57.483
+barriers and they're,
+they're very fastidious about being very
+
+50904830-249c-4279-8292-7b4527914f04-2
+00:40:57.483 --> 00:40:58.000
+careful.
+
+91919a60-6763-492e-a1b0-c1877954f4b9-0
+00:40:58.320 --> 00:41:02.168
+And we compared it to Dos symmetry five
+years before,
+
+91919a60-6763-492e-a1b0-c1877954f4b9-1
+00:41:02.168 --> 00:41:06.160
+and it was 110th without the lead
+compared to the past.
+
+e920af83-e50a-4f66-a1da-6538ab4b496f-0
+00:41:07.240 --> 00:41:10.520
+And maybe they, you know,
+part of it is they're even more aware.
+
+87168e20-0219-4ee7-83e8-bed9086fbb9c-0
+00:41:10.520 --> 00:41:12.800
+They have to be careful because they
+don't have lead on.
+
+fea0bd0a-9078-411d-a6cb-df89bf4b9dfb-0
+00:41:12.800 --> 00:41:14.720
+But pretty remarkable.
+
+9c18562d-3a9c-4a96-8ed8-b4b59fd784ea-0
+00:41:14.720 --> 00:41:16.960
+Hopefully I get published in the near
+future.
+
+4eb456e6-360c-4dfd-a8c7-9019c00ed943-0
+00:41:17.400 --> 00:41:17.680
+Yeah.
+
+62198d3d-ac3c-4bd6-9d0b-926b08616c8b-0
+00:41:17.680 --> 00:41:18.440
+Would you change?
+
+ac978c15-e6a9-4a7a-af50-ac996d71df9e-0
+00:41:18.480 --> 00:41:20.120
+I think you've changed the culture.
+
+3cd62088-6f40-4da3-a1a5-07b361e5d0b6-0
+00:41:20.120 --> 00:41:21.680
+That is something to pay attention to.
+
+8a416726-9255-479b-8067-539cec61d27e-0
+00:41:22.200 --> 00:41:24.040
+And so how do people do that in their lab?
+
+58731ad9-130b-4944-b7e7-40c140fe28da-0
+00:41:24.360 --> 00:41:25.440
+Because you're going to have.
+
+2bf0e0f3-24ce-448f-b306-1feac5d74c29-0
+00:41:25.440 --> 00:41:30.176
+I know at least in my lab, you know,
+you've got some resistors or just say,
+
+2bf0e0f3-24ce-448f-b306-1feac5d74c29-1
+00:41:30.176 --> 00:41:31.360
+yeah, I don't care.
+
+edbea16c-1479-4d8f-8952-e59619e93863-0
+00:41:31.360 --> 00:41:32.600
+You know, it doesn't really bother me.
+
+c57d45c4-de60-491c-99a5-d48be5e9c68b-0
+00:41:32.920 --> 00:41:37.643
+And then others that are that really want
+to engage this and and and it can be
+
+c57d45c4-de60-491c-99a5-d48be5e9c68b-1
+00:41:37.643 --> 00:41:40.333
+Chris,
+it can be a tech that ruins the whole
+
+c57d45c4-de60-491c-99a5-d48be5e9c68b-2
+00:41:40.333 --> 00:41:44.280
+thing that you're just like,
+I don't want to take the extra time.
+
+c0faeaad-71ca-4f10-be7e-7f08abe8ae2b-0
+00:41:44.280 --> 00:41:45.320
+And you know, I don't.
+
+0c8572e2-2d95-4f5c-ae27-7debb6689499-0
+00:41:45.840 --> 00:41:48.560
+And so then the doctor said, yeah, OK,
+I'm not going to fight it.
+
+e9117564-5e04-41d8-977f-e3a38297b8c5-0
+00:41:48.840 --> 00:41:51.720
+And then you end up with a culture where
+nobody cares about it.
+
+c5d3939d-656d-4dfc-ba50-09659d8d4ef7-0
+00:41:51.720 --> 00:41:53.680
+So how do we turn that around?
+
+9f2a7ebe-348e-4837-9d4f-3560cb659918-0
+00:41:53.680 --> 00:41:54.800
+How do we turn the culture?
+
+50844813-53a4-44cc-94a5-31532193bb47-0
+00:41:54.800 --> 00:41:57.910
+Well,
+that's just part of not only patient care,
+
+50844813-53a4-44cc-94a5-31532193bb47-1
+00:41:57.910 --> 00:42:01.908
+but part of, you know,
+caring for ourselves and and becoming a
+
+50844813-53a4-44cc-94a5-31532193bb47-2
+00:42:01.908 --> 00:42:02.480
+standard.
+
+ee6e7a2a-ec35-458d-949f-e260bec3b0e2-0
+00:42:03.040 --> 00:42:05.298
+Bob,
+I think you've been on the head in that
+
+ee6e7a2a-ec35-458d-949f-e260bec3b0e2-1
+00:42:05.298 --> 00:42:09.314
+if you're establishing a culture here of
+protecting yourself and your staff and
+
+ee6e7a2a-ec35-458d-949f-e260bec3b0e2-2
+00:42:09.314 --> 00:42:11.974
+and frankly,
+the resistance can come from attack and
+
+ee6e7a2a-ec35-458d-949f-e260bec3b0e2-3
+00:42:11.974 --> 00:42:13.280
+can come from a physician.
+
+80ba72c2-07c2-4276-a9dc-19c3dd70fb8e-0
+00:42:13.640 --> 00:42:17.672
+And as Cath lab leaders, you know,
+we have some responsibility for setting
+
+80ba72c2-07c2-4276-a9dc-19c3dd70fb8e-1
+00:42:17.672 --> 00:42:20.951
+the stage and making it both easy to use
+and then, you know,
+
+80ba72c2-07c2-4276-a9dc-19c3dd70fb8e-2
+00:42:20.951 --> 00:42:23.640
+forcing the use so that people become
+used to it.
+
+738bfd6c-ab4a-4652-9f1d-f745ff8229aa-0
+00:42:23.880 --> 00:42:26.160
+How did we become used to wearing lead
+all this time?
+
+547f6b30-733d-42db-b917-ad0bbb36d479-0
+00:42:26.160 --> 00:42:29.240
+Maybe we got a culture where it became
+part of the norm.
+
+fcf14aa7-403c-489e-bec4-25f128185bb0-0
+00:42:29.240 --> 00:42:30.000
+That's what we did.
+
+31a3ca95-a4c2-4ecb-b60b-e2890a33b8f6-0
+00:42:30.040 --> 00:42:32.029
+You know,
+how do we get used to wearing all this
+
+31a3ca95-a4c2-4ecb-b60b-e2890a33b8f6-1
+00:42:32.029 --> 00:42:32.720
+lead for all day?
+
+d0846688-c0c2-4d32-9b89-eb44fb4f1527-0
+00:42:32.960 --> 00:42:33.720
+Because that's what we did.
+
+83f4d73a-1036-47d9-a130-9eef910b0586-0
+00:42:33.720 --> 00:42:38.040
+The the familiarity breeds the comfort
+with working with this scattered
+
+83f4d73a-1036-47d9-a130-9eef910b0586-1
+00:42:38.040 --> 00:42:38.640
+radiation.
+
+6f013125-e86d-4005-9275-d089127634fa-0
+00:42:39.000 --> 00:42:40.360
+And I'm dealing with this right now.
+
+65582c42-d5c0-4fb1-87d8-965a00792247-0
+00:42:40.360 --> 00:42:42.964
+I have a new physician in my lab and I'm
+deciding, you know,
+
+65582c42-d5c0-4fb1-87d8-965a00792247-1
+00:42:42.964 --> 00:42:46.508
+when do I force him into getting him out
+of his comfort zone with wearing lead and
+
+65582c42-d5c0-4fb1-87d8-965a00792247-2
+00:42:46.508 --> 00:42:47.960
+saying, hey, we have Porteco here.
+
+7e24c586-87db-49b4-8ae2-dd9eecf8f8dd-0
+00:42:48.240 --> 00:42:49.640
+We're using it on my cases.
+
+88d4a0a6-cf88-4f46-8231-bc89cabaf9c8-0
+00:42:49.640 --> 00:42:50.960
+Your cases take twice as long.
+
+ce498b06-b7d6-4340-8125-51cfcfb8933c-0
+00:42:50.960 --> 00:42:51.920
+Why don't you use it?
+
+16a87253-2ebb-4b87-8e6b-b5daa50ab816-0
+00:42:51.920 --> 00:42:54.521
+You know, and I'm,
+I'm trying to get him accustomed to that,
+
+16a87253-2ebb-4b87-8e6b-b5daa50ab816-1
+00:42:54.521 --> 00:42:57.678
+but eventually I'm gonna have to pull the
+trigger and say, you know what,
+
+16a87253-2ebb-4b87-8e6b-b5daa50ab816-2
+00:42:57.678 --> 00:42:59.640
+this is better for you,
+better for the staff.
+
+7c980850-1b65-4bc8-85c0-8fe7dec869a5-0
+00:43:00.080 --> 00:43:03.575
+I'm going to ask you to, you know,
+use this first and then abandon it only
+
+7c980850-1b65-4bc8-85c0-8fe7dec869a5-1
+00:43:03.575 --> 00:43:04.880
+if you tried it more, right?
+
+8f41ddff-041e-492c-9b98-69b6eebe9c79-0
+00:43:06.440 --> 00:43:07.480
+I can't agree with you more.
+
+64d31e2a-20c7-472b-a8d6-17ee9499cabc-0
+00:43:07.480 --> 00:43:09.600
+I think it comes down to a change in
+culture.
+
+6b94e00a-eabf-47c0-9752-dba3c2105fdf-0
+00:43:09.880 --> 00:43:11.960
+And the reality is we have to really look
+at ourselves.
+
+4d40c1d0-1354-4b3e-8e96-7ec082f975f1-0
+00:43:11.960 --> 00:43:15.778
+And if we look at the long term
+consequences, not just the radiation,
+
+4d40c1d0-1354-4b3e-8e96-7ec082f975f1-1
+00:43:15.778 --> 00:43:18.560
+but the orthopedic injuries that we all
+encounter.
+
+00b261b8-6fe4-41c9-b09d-0154c11a50b1-0
+00:43:18.880 --> 00:43:22.054
+And I could tell you,
+I've been doing this for 15-16 years and
+
+00b261b8-6fe4-41c9-b09d-0154c11a50b1-1
+00:43:22.054 --> 00:43:22.760
+my back hurts.
+
+1fd8a523-e917-4a4a-8800-32a181167264-0
+00:43:23.840 --> 00:43:27.085
+And I, you know,
+I want to be able to continue to practice
+
+1fd8a523-e917-4a4a-8800-32a181167264-1
+00:43:27.085 --> 00:43:27.360
+that.
+
+272e78de-641b-4940-ad11-857e404cd8ab-0
+00:43:27.360 --> 00:43:30.699
+But you know,
+so you see there is no it is very,
+
+272e78de-641b-4940-ad11-857e404cd8ab-1
+00:43:30.699 --> 00:43:36.219
+very clear from the data the wrong long
+term orthopedic repercussions of wearing
+
+272e78de-641b-4940-ad11-857e404cd8ab-2
+00:43:36.219 --> 00:43:36.560
+lead.
+
+53d2d5d1-b907-4fad-bad5-d51b2b239720-0
+00:43:36.960 --> 00:43:41.305
+And if we want to really like I think it
+is really incumbent upon us, you know,
+
+53d2d5d1-b907-4fad-bad5-d51b2b239720-1
+00:43:41.305 --> 00:43:45.000
+to protect the next generation of
+physicians who are being trained.
+
+8316384c-30ca-4e1b-9693-37b91c591598-0
+00:43:45.000 --> 00:43:47.680
+I think we really have to take it down to
+the level of training.
+
+c04a3740-8d8f-4f55-8545-15f2a6e82d9d-0
+00:43:48.000 --> 00:43:51.329
+And, you know, as these physicians,
+you know, get out of training,
+
+c04a3740-8d8f-4f55-8545-15f2a6e82d9d-1
+00:43:51.329 --> 00:43:52.920
+this becomes this is their norm.
+
+2b4d696b-bd72-4d1d-ac9e-65dbbb962c6f-0
+00:43:52.920 --> 00:43:55.753
+And, and, and,
+and part and parcel of that is I think we
+
+2b4d696b-bd72-4d1d-ac9e-65dbbb962c6f-1
+00:43:55.753 --> 00:43:58.040
+need to do better education for these
+people.
+
+ce134893-19a9-48e8-8867-f8379ea8f11b-0
+00:43:58.760 --> 00:43:58.960
+Yeah.
+
+8d451e70-a106-4957-8fea-418b72345f96-0
+00:43:59.000 --> 00:44:01.588
+Because I don't know,
+I don't know there's any universal
+
+8d451e70-a106-4957-8fea-418b72345f96-1
+00:44:01.588 --> 00:44:05.040
+standards amongst all the different
+specialities that are represented here.
+
+f3ba1f8a-a8ea-4ed5-bf6c-88faee27a13f-0
+00:44:06.440 --> 00:44:07.040
+There is not.
+
+620cd7ff-7ea0-434f-afe1-54c48cff9ac4-0
+00:44:07.520 --> 00:44:09.200
+Yeah, I don't think so either.
+
+d0fbea71-6dfb-4a9d-b029-ae4ec7a92698-0
+00:44:09.200 --> 00:44:12.400
+Do you think I know you talked about the
+next generation and.
+
+567b47a6-df70-4b16-8044-26b6aa8081f6-0
+00:44:12.400 --> 00:44:17.440
+And I feel like, you know, our generation,
+it's a generation before me.
+
+58e47e2f-3acd-4434-b6f2-4285e847ff25-0
+00:44:17.440 --> 00:44:18.840
+I mean, they were tough as nails.
+
+08dbddb6-98d1-4c05-8a20-d32e420cdf5f-0
+00:44:19.760 --> 00:44:23.303
+And then, you know,
+I feel like our generation was a little
+
+08dbddb6-98d1-4c05-8a20-d32e420cdf5f-1
+00:44:23.303 --> 00:44:27.378
+bit, you know, more that, you know,
+this can't hurt me and you know,
+
+08dbddb6-98d1-4c05-8a20-d32e420cdf5f-2
+00:44:27.378 --> 00:44:28.560
+bulletproof as well.
+
+83854a55-10ea-46df-b143-f069da055d9d-0
+00:44:28.640 --> 00:44:34.003
+Is this new generation you feel like,
+and those of you that are still training
+
+83854a55-10ea-46df-b143-f069da055d9d-1
+00:44:34.003 --> 00:44:38.280
+fellows and and and residents is,
+are they still that mindset?
+
+4c85cabb-3f40-418a-9354-a80e7e896739-0
+00:44:38.480 --> 00:44:40.560
+Are they more a Wellness?
+
+be39eb43-d5ba-4ddf-a3a7-1cc790f51371-0
+00:44:40.560 --> 00:44:43.240
+And I'd love to have it on my phone after
+every case.
+
+4db1e1a7-5a35-4840-b9fb-0b36ad8ee6aa-0
+00:44:43.240 --> 00:44:44.520
+How much radiation I got?
+
+f7102a99-7b1b-4836-bd4d-43626fd2d383-0
+00:44:44.720 --> 00:44:47.920
+Is it going to be easier or harder to get
+to this next generation?
+
+28628294-7d93-4346-bc58-5a06b7f1c7bd-0
+00:44:49.960 --> 00:44:56.004
+I think it'll be easier because they are
+more conscious about what they can and
+
+28628294-7d93-4346-bc58-5a06b7f1c7bd-1
+00:44:56.004 --> 00:44:56.760
+can't say.
+
+1642ac7d-34c7-4d30-b405-2f9583b24af4-0
+00:44:56.760 --> 00:44:58.752
+I mean,
+certainly when I was training you
+
+1642ac7d-34c7-4d30-b405-2f9583b24af4-1
+00:44:58.752 --> 00:45:00.080
+couldn't complain that much.
+
+67db13e4-3baa-47e5-8f28-1f0f81cf28a4-0
+00:45:00.120 --> 00:45:02.720
+You know, if you didn't have lead,
+you just got on with it.
+
+06438545-44f2-470a-8668-2d1b24472d43-0
+00:45:02.720 --> 00:45:05.567
+You you wear what you have or don't you
+know,
+
+06438545-44f2-470a-8668-2d1b24472d43-1
+00:45:05.567 --> 00:45:10.209
+there's there's no way around it was I'd
+see more trainees and rightly so,
+
+06438545-44f2-470a-8668-2d1b24472d43-2
+00:45:10.209 --> 00:45:13.800
+ask for appropriate LED because that's
+what it should be.
+
+e1353249-eefd-4c46-8325-bd8a8129451c-0
+00:45:15.400 --> 00:45:19.240
+So the interesting thing is for those
+from surgical background,
+
+e1353249-eefd-4c46-8325-bd8a8129451c-1
+00:45:19.240 --> 00:45:24.040
+I I trained in surgery prior to this,
+There's no way you would come out without
+
+e1353249-eefd-4c46-8325-bd8a8129451c-2
+00:45:24.040 --> 00:45:28.840
+in the exam stations, the Oscar stations,
+you have the station where you had to
+
+e1353249-eefd-4c46-8325-bd8a8129451c-3
+00:45:28.840 --> 00:45:30.160
+show how you scrubbed.
+
+1ba5b2d7-e43c-4747-ab21-2bbd45a76b61-0
+00:45:30.880 --> 00:45:33.280
+It's a basic,
+but you will not get your Mrs.
+
+904c2ca0-6c5d-4cfa-a288-a3d47c19e0cc-0
+00:45:33.280 --> 00:45:34.920
+yes, without having done that.
+
+22536cba-c224-4ab3-9f25-111e23953c64-0
+00:45:35.320 --> 00:45:39.436
+So I think you're forced into learning
+even if you're that stupid and never
+
+22536cba-c224-4ab3-9f25-111e23953c64-1
+00:45:39.436 --> 00:45:40.520
+scrubbed your hands.
+
+53e29a0a-b127-4627-99d6-b1abd323d07c-0
+00:45:40.520 --> 00:45:42.200
+But that's almost impossible.
+
+0d06b36a-2415-487a-a5f3-cfc7f9b035b9-0
+00:45:42.200 --> 00:45:43.760
+It should come into our culture.
+
+3eb3c9ca-0e69-48bb-a11d-2eaaa2d6fe63-0
+00:45:43.760 --> 00:45:47.440
+Whoever works with ionizer radiation,
+that that is the norm.
+
+8b25a956-911d-400d-adbd-176eb4f9077e-0
+00:45:47.720 --> 00:45:49.440
+How do you prevent scatter?
+
+26e24e8d-f18e-45e8-8be1-631b25697532-0
+00:45:49.680 --> 00:45:51.960
+Is part of should be part of exit exams.
+
+87b98c72-6b42-4a66-b00b-8f281fe2ce23-0
+00:45:52.280 --> 00:45:55.080
+It should be just normal, like nothing.
+
+51c8dded-1ffa-4573-b5cc-4fb77037619c-0
+00:45:55.800 --> 00:45:56.640
+Oh, it's an extra.
+
+65127ffa-1c42-485e-bb6a-fda600b81db6-0
+00:45:56.640 --> 00:45:57.400
+It's not an extra.
+
+b588c707-a086-4c78-a6fe-4010118ba2f8-0
+00:45:57.400 --> 00:45:59.200
+It's part of the skill that you do.
+
+92b28675-6343-4a44-a7d9-9fcb139cafce-0
+00:45:59.200 --> 00:46:02.816
+Just like you have to have your hands
+clean not to infect the patient or
+
+92b28675-6343-4a44-a7d9-9fcb139cafce-1
+00:46:02.816 --> 00:46:05.045
+yourself,
+injure yourself with needle stick,
+
+92b28675-6343-4a44-a7d9-9fcb139cafce-2
+00:46:05.045 --> 00:46:06.680
+The same with ionizing radiation.
+
+f878257a-d722-4105-8798-ea144c1e0542-0
+00:46:06.680 --> 00:46:10.920
+That's I think what I'd like to see basic
+stuff implemented in that way.
+
+131d2c6b-19b7-4bc5-9d9e-8d49157ffd6c-0
+00:46:12.440 --> 00:46:14.200
+Right, Chris,
+I think you had your hand up next.
+
+1a5823eb-d054-4a45-ac1a-e844ab49cdd6-0
+00:46:15.040 --> 00:46:19.195
+Yeah, just from, again,
+Cath lab technologist perspective,
+
+1a5823eb-d054-4a45-ac1a-e844ab49cdd6-1
+00:46:19.195 --> 00:46:24.760
+radiologic technologist perspective,
+we're there to optimize your performance.
+
+865574de-88f1-4194-9490-90a2e580f95c-0
+00:46:25.120 --> 00:46:26.360
+That's our sole job.
+
+ad2971fe-16f9-4d81-a44c-fbaf5a20832d-0
+00:46:27.000 --> 00:46:31.809
+And we by not taking the lead and being
+proactive and radiation safety,
+
+ad2971fe-16f9-4d81-a44c-fbaf5a20832d-1
+00:46:31.809 --> 00:46:34.080
+we're not allowing you to do that.
+
+2a6401c5-1d2c-4271-a82f-21890b538fee-0
+00:46:34.080 --> 00:46:39.600
+But we should be the experts in the room,
+the, the, the, the technologist.
+
+73191475-243a-4c33-b82c-2ea69572310c-0
+00:46:40.400 --> 00:46:46.044
+You guys have better things to do during
+a case then worry about all the variables
+
+73191475-243a-4c33-b82c-2ea69572310c-1
+00:46:46.044 --> 00:46:47.200
+involved in that.
+
+bd77f5aa-8757-418a-ab98-83baa89cca14-0
+00:46:47.480 --> 00:46:50.572
+I, I, and,
+and it really makes me happy that
+
+bd77f5aa-8757-418a-ab98-83baa89cca14-1
+00:46:50.572 --> 00:46:52.840
+everyone's aware of these things.
+
+93682078-cdc1-4eda-ab6b-d0297a54b1d0-0
+00:46:52.840 --> 00:46:57.000
+But the reason we can't do that is we
+don't have the education.
+
+873507cb-0d9e-4476-af2e-46e74ff2bdda-0
+00:46:57.920 --> 00:47:01.217
+You know, who,
+who is standing next to you doing a case
+
+873507cb-0d9e-4476-af2e-46e74ff2bdda-1
+00:47:01.217 --> 00:47:02.160
+in the cat club.
+
+02fe89c2-515b-44f2-aee2-d1366e349912-0
+00:47:02.160 --> 00:47:04.860
+And very often they don't have the
+training,
+
+02fe89c2-515b-44f2-aee2-d1366e349912-1
+00:47:04.860 --> 00:47:07.800
+whether they're radiologic technologists
+or not.
+
+4e309647-9d3d-455a-bade-878301d206ef-0
+00:47:09.240 --> 00:47:11.390
+So I,
+I think that's a big problem in the
+
+4e309647-9d3d-455a-bade-878301d206ef-1
+00:47:11.390 --> 00:47:11.800
+culture.
+
+c360a887-bcc7-4d75-afa7-eb6f87640d8c-0
+00:47:11.800 --> 00:47:19.195
+But I think that empowering them,
+providing education and then giving them
+
+c360a887-bcc7-4d75-afa7-eb6f87640d8c-1
+00:47:19.195 --> 00:47:24.520
+some ownership should be something part
+of every lab.
+
+c23bfec1-7ee0-456b-b10b-5cab21d4deeb-0
+00:47:24.520 --> 00:47:27.463
+Because as I've said,
+you can be mindful of it,
+
+c23bfec1-7ee0-456b-b10b-5cab21d4deeb-1
+00:47:27.463 --> 00:47:30.406
+but you're treating a patient, you know,
+we're,
+
+c23bfec1-7ee0-456b-b10b-5cab21d4deeb-2
+00:47:30.406 --> 00:47:33.840
+we're prepping balloons and moving sea
+arms and things.
+
+7b0bdf29-0ed5-4c63-9c54-3e43aa3c3c52-0
+00:47:34.960 --> 00:47:38.720
+You shouldn't have to worry about us,
+and unfortunately, you do.
+
+ad81e16d-a27b-428b-8366-1094628ade6f-0
+00:47:40.320 --> 00:47:41.889
+Well,
+we always think that you all know the
+
+ad81e16d-a27b-428b-8366-1094628ade6f-1
+00:47:41.889 --> 00:47:44.137
+most because, I mean,
+we certainly didn't get much training at
+
+ad81e16d-a27b-428b-8366-1094628ade6f-2
+00:47:44.137 --> 00:47:44.280
+all.
+
+ba1ca1c0-bfdc-44b2-ab6e-81edb46f0e02-0
+00:47:44.600 --> 00:47:48.640
+And I think the poor nurses and, you know,
+I think they get almost 0 as well.
+
+4233661b-3214-4e77-82fd-9540af7d5cca-0
+00:47:49.600 --> 00:47:52.400
+So Doctor Sita, yeah, just quick comment.
+
+08a983b3-35a8-41ec-a51d-c5768256c59d-0
+00:47:52.400 --> 00:47:54.720
+I think every young operator thinks
+they're indestructible.
+
+e4424dcf-8535-4a0a-a9d4-a4356a94c2b9-0
+00:47:54.720 --> 00:47:55.840
+This will never happen to me.
+
+67881808-073a-4360-8d99-da6c21a9fe8e-0
+00:47:55.920 --> 00:47:59.665
+And the most powerful education you can
+offer is those examples of our leaders
+
+67881808-073a-4360-8d99-da6c21a9fe8e-1
+00:47:59.665 --> 00:48:03.125
+like Doctor Hermel are sharing the
+stories of people who are debilitated
+
+67881808-073a-4360-8d99-da6c21a9fe8e-2
+00:48:03.125 --> 00:48:03.600
+from this.
+
+66242155-0eca-43f1-9a84-71fef0e74f54-0
+00:48:03.880 --> 00:48:06.520
+And the more we share those stories and
+don't run away from them,
+
+66242155-0eca-43f1-9a84-71fef0e74f54-1
+00:48:06.520 --> 00:48:09.000
+I think that that's the most powerful
+education we can offer.
+
+d0486ceb-38d3-484e-a9c5-312314f97a1d-0
+00:48:09.520 --> 00:48:09.720
+Right.
+
+52429537-e796-45f3-b5b1-5993e5da5fb9-0
+00:48:10.720 --> 00:48:11.400
+Doctor Miller?
+
+9a2612f2-8c5d-4081-902d-f04332ea2aec-0
+00:48:11.760 --> 00:48:16.101
+Yeah, I think, Bob,
+to your question about the new fellows
+
+9a2612f2-8c5d-4081-902d-f04332ea2aec-1
+00:48:16.101 --> 00:48:19.560
+and the trainees,
+they are very aware of this.
+
+f37e1529-ed20-48e6-b30c-a013bc0ea6ac-0
+00:48:19.600 --> 00:48:25.480
+I think they they understand also that
+there's a chance to get out of the lead.
+
+cbe0d02c-da33-42de-9a2c-d9963ccca97d-0
+00:48:25.480 --> 00:48:29.840
+I, you know, in our lab,
+40% of us have had spinal surgery, right?
+
+aaaac424-fe99-4dca-82e6-5cd03833f001-0
+00:48:29.840 --> 00:48:30.720
+They see that.
+
+c06706d9-7393-4e33-8621-2b07b05491e7-0
+00:48:31.000 --> 00:48:36.425
+They know that they're most likely going
+to be out of the lab and debilitated due
+
+c06706d9-7393-4e33-8621-2b07b05491e7-1
+00:48:36.425 --> 00:48:38.080
+to the orthopedic issues.
+
+fa09426e-1b13-4a84-bd0a-5cb5d74c49ec-0
+00:48:38.400 --> 00:48:41.070
+You know,
+God forbid it's a radiation issue,
+
+fa09426e-1b13-4a84-bd0a-5cb5d74c49ec-1
+00:48:41.070 --> 00:48:43.920
+but it's much more likely to be a spinal
+issue.
+
+d3559fcf-714d-4c85-8f2a-e30c2af963d8-0
+00:48:43.920 --> 00:48:45.000
+And, and they know that.
+
+0f012b04-925f-49fc-8b72-5b2c47143b99-0
+00:48:45.000 --> 00:48:47.423
+And now, you know,
+when my fellows left last year,
+
+0f012b04-925f-49fc-8b72-5b2c47143b99-1
+00:48:47.423 --> 00:48:51.415
+they were going to go somewhere that they
+had a rampart or an egg nest or a Protago
+
+0f012b04-925f-49fc-8b72-5b2c47143b99-2
+00:48:51.415 --> 00:48:54.600
+or they weren't going there or they were
+going to get promised it.
+
+4cc7a9a7-86f7-40a4-8cd5-1f3be7d0c585-0
+00:48:55.480 --> 00:48:58.245
+I think they're very aware of it today
+and there's,
+
+4cc7a9a7-86f7-40a4-8cd5-1f3be7d0c585-1
+00:48:58.245 --> 00:49:00.160
+there's many more options available.
+
+2ef7deee-45f7-4139-9cc9-83bcb4a2ef59-0
+00:49:00.160 --> 00:49:02.729
+So, you know,
+I think it's something that we can
+
+2ef7deee-45f7-4139-9cc9-83bcb4a2ef59-1
+00:49:02.729 --> 00:49:04.880
+definitely train our, our younger people.
+
+80302133-ab77-451d-ba01-1f997a71f0fd-0
+00:49:05.160 --> 00:49:07.600
+I think I think a bigger issue is going
+to be OK.
+
+c522a666-514b-4b07-9a22-b32a5220bbfc-0
+00:49:07.800 --> 00:49:11.023
+Like you, like you just stated, you know,
+these are people who want to go to labs
+
+c522a666-514b-4b07-9a22-b32a5220bbfc-1
+00:49:11.023 --> 00:49:12.400
+that have these protection systems.
+
+af981286-04f2-4ce0-bcba-610b7a84ab31-0
+00:49:12.400 --> 00:49:14.840
+But let's say you're at a lab that
+doesn't have it.
+
+b3a5215c-6dcb-4aba-a9cd-aff5b5d55a19-0
+00:49:14.840 --> 00:49:18.263
+How do you get your employer or how do
+you get the hospital system to actually
+
+b3a5215c-6dcb-4aba-a9cd-aff5b5d55a19-1
+00:49:18.263 --> 00:49:19.000
+get one of these?
+
+eea8c342-fb36-453e-b62d-c4faccddbf56-0
+00:49:19.360 --> 00:49:20.880
+It can be a little bit more challenging.
+
+e735b11a-4282-4597-9e9e-8b3614b27696-0
+00:49:21.000 --> 00:49:22.815
+I mean,
+it obviously depends on the hospital
+
+e735b11a-4282-4597-9e9e-8b3614b27696-1
+00:49:22.815 --> 00:49:24.752
+system,
+but it can be a little more challenging
+
+e735b11a-4282-4597-9e9e-8b3614b27696-2
+00:49:24.752 --> 00:49:25.600
+than you might think.
+
+de9caa90-9a04-4f91-ab59-cf0063fde64e-0
+00:49:26.600 --> 00:49:28.889
+Yeah,
+I think that the the time that you have
+
+de9caa90-9a04-4f91-ab59-cf0063fde64e-1
+00:49:28.889 --> 00:49:31.876
+the most powers,
+like when you're coming out of fellowship,
+
+de9caa90-9a04-4f91-ab59-cf0063fde64e-2
+00:49:31.876 --> 00:49:35.759
+I'll come if or if you're a more senior
+person that that maybe can, you know,
+
+de9caa90-9a04-4f91-ab59-cf0063fde64e-3
+00:49:35.759 --> 00:49:38.547
+wield a little bit a little bit of weight
+or, you know,
+
+de9caa90-9a04-4f91-ab59-cf0063fde64e-4
+00:49:38.547 --> 00:49:40.239
+unfortunately you've been injured.
+
+e74da292-924e-4a39-9cbd-5570db4c4ec1-0
+00:49:40.880 --> 00:49:42.720
+You know, like me and others where,
+you know,
+
+e74da292-924e-4a39-9cbd-5570db4c4ec1-1
+00:49:42.720 --> 00:49:44.880
+they don't want to they don't want to
+lose, you know,
+
+e74da292-924e-4a39-9cbd-5570db4c4ec1-2
+00:49:44.880 --> 00:49:46.400
+one of their highest volume operators.
+
+152171c1-0640-4b3c-bbf5-deb2a5efa174-0
+00:49:46.400 --> 00:49:47.840
+And so they're kind of forced into it.
+
+db096c20-e9ae-4044-994c-658a1306a90f-0
+00:49:47.840 --> 00:49:50.360
+But it, you know, like you say,
+it shouldn't be that way.
+
+d5b60b13-ca21-4ea2-b419-604d5416c55f-0
+00:49:51.040 --> 00:49:55.712
+Ragu and apologize for calling you by
+your first name, but I'm going to butcher,
+
+d5b60b13-ca21-4ea2-b419-604d5416c55f-1
+00:49:55.712 --> 00:49:56.520
+no disrespect.
+
+03cb31a2-a8ec-4034-bd92-bab6b5cb8510-0
+00:49:56.760 --> 00:49:57.720
+That's the best way.
+
+1650187a-c734-43b5-b9fc-bd195a1ed1f3-0
+00:49:57.720 --> 00:49:58.360
+That's the best way.
+
+dc637c5e-1b8d-4704-b86a-054b889f6aba-0
+00:49:58.360 --> 00:49:58.760
+Thank you.
+
+0e991a98-fc9b-4d49-aa63-011d4463c762-0
+00:49:59.440 --> 00:50:04.049
+I was just thinking that, you know,
+unfortunately, like Ripple said,
+
+0e991a98-fc9b-4d49-aa63-011d4463c762-1
+00:50:04.049 --> 00:50:09.393
+he's been doing it for 15 odd years and
+then the back starts painting anything,
+
+0e991a98-fc9b-4d49-aa63-011d4463c762-2
+00:50:09.393 --> 00:50:12.600
+be it cataract,
+be it musculoskeletal problems.
+
+de7944b7-200f-475d-92ab-6386d5f27542-0
+00:50:12.800 --> 00:50:14.560
+Unfortunately it doesn't happen on day
+one.
+
+5df244ef-e711-4178-b228-74b00f89d446-0
+00:50:14.920 --> 00:50:19.464
+It takes a long term and that's when I
+come back to I support what Chris is
+
+5df244ef-e711-4178-b228-74b00f89d446-1
+00:50:19.464 --> 00:50:24.367
+saying is I think education is the key to
+to kind of highlight the fact that this
+
+5df244ef-e711-4178-b228-74b00f89d446-2
+00:50:24.367 --> 00:50:26.520
+is something that's going to happen.
+
+846e40ea-ad90-4aea-bb6b-524c61724f66-0
+00:50:26.680 --> 00:50:30.878
+And then if you're a new operator, you,
+you the stress of performing the
+
+846e40ea-ad90-4aea-bb6b-524c61724f66-1
+00:50:30.878 --> 00:50:33.812
+procedure,
+the stress of getting it right to prove
+
+846e40ea-ad90-4aea-bb6b-524c61724f66-2
+00:50:33.812 --> 00:50:35.480
+that you're doing everything.
+
+a0d2a029-6259-4262-979c-fab852f6e35c-0
+00:50:35.480 --> 00:50:40.024
+Then what happens is radiation gets to
+the background and then it's not at the
+
+a0d2a029-6259-4262-979c-fab852f6e35c-1
+00:50:40.024 --> 00:50:40.600
+forefront.
+
+27cde28d-7fb5-41ff-90d3-eecc670822f4-0
+00:50:40.840 --> 00:50:43.940
+And that's why we were talking about the,
+the,
+
+27cde28d-7fb5-41ff-90d3-eecc670822f4-1
+00:50:43.940 --> 00:50:48.360
+the person who's pressing the panel
+actually gets more importance.
+
+5517bbc1-98fa-40a0-b0c3-3a364a4e6f88-0
+00:50:48.400 --> 00:50:55.080
+And I am really pleased with your
+suggestion, Bob, of radiation time out.
+
+9327a0b5-f45a-460d-bb05-5a8aef0994bf-0
+00:50:55.080 --> 00:50:59.359
+And I'm thinking that when I go back to
+our, our unit in the NHS, we're, we're,
+
+9327a0b5-f45a-460d-bb05-5a8aef0994bf-1
+00:50:59.359 --> 00:51:01.981
+we're going to try and do it at least,
+you know,
+
+9327a0b5-f45a-460d-bb05-5a8aef0994bf-2
+00:51:01.981 --> 00:51:06.314
+once a day in the morning before you get
+started through the day so that it kind
+
+9327a0b5-f45a-460d-bb05-5a8aef0994bf-3
+00:51:06.314 --> 00:51:08.080
+of clicks through people's minds.
+
+63400914-1153-4f82-b41a-018fd946ad82-0
+00:51:09.400 --> 00:51:13.543
+Yeah, we, we in,
+in the National Health Service, it's,
+
+63400914-1153-4f82-b41a-018fd946ad82-1
+00:51:13.543 --> 00:51:19.419
+it's far more difficult for economic
+reasons to try and get some of those egg
+
+63400914-1153-4f82-b41a-018fd946ad82-2
+00:51:19.419 --> 00:51:22.960
+nest protection or whatever you're
+looking at.
+
+4de3648c-fb84-47f5-abdb-04fba6127614-0
+00:51:23.720 --> 00:51:28.014
+But I think there are simple things that
+you can do right at the beginning,
+
+4de3648c-fb84-47f5-abdb-04fba6127614-1
+00:51:28.014 --> 00:51:30.840
+which will have long lasting effects and
+outcome.
+
+905000d0-7354-4355-a4f4-6e39c0df8d62-0
+00:51:31.600 --> 00:51:32.680
+Thank you, Doctor Mugg.
+
+dbacf8b1-ed29-4d35-ae3e-b6459a91e3f0-0
+00:51:33.520 --> 00:51:33.880
+Yeah.
+
+16d77b9d-872e-4a93-90b8-9af2084613ef-0
+00:51:35.040 --> 00:51:37.720
+You know, first your question, Bob,
+about the younger generation.
+
+cfb9fa7c-ae14-49e1-88a3-8f745a4cdd1e-0
+00:51:38.000 --> 00:51:41.240
+I agree with the others without a doubt
+that they already know what's going on.
+
+6561ffb9-7483-4125-b87f-d3ddf3e6b89b-0
+00:51:41.240 --> 00:51:46.160
+They're on Twitter, Instagram, etcetera,
+and they absolutely are looking at this.
+
+dde04895-6505-4050-8069-bf10a172e122-0
+00:51:46.160 --> 00:51:49.894
+I've had Med students come up to us at
+the national meeting and say, Hey,
+
+dde04895-6505-4050-8069-bf10a172e122-1
+00:51:49.894 --> 00:51:52.720
+I saw what you're doing, you know,
+leadless angiograms.
+
+f914dba1-2262-4a42-8917-ee4344a97d08-0
+00:51:52.720 --> 00:51:53.520
+That's unheard of.
+
+d562a5dc-078d-4d26-a8d4-220c45dfca4f-0
+00:51:53.520 --> 00:51:57.240
+So I think that without a doubt that,
+that, that they're going to embrace it.
+
+1b3d79dd-fdf5-4f37-8a09-8018f2041c05-0
+00:51:57.480 --> 00:52:01.120
+The days of getting yelled at for seven
+straight years like I did,
+
+1b3d79dd-fdf5-4f37-8a09-8018f2041c05-1
+00:52:01.120 --> 00:52:04.651
+those days are over, you know, but,
+but my question is you, you,
+
+1b3d79dd-fdf5-4f37-8a09-8018f2041c05-2
+00:52:04.651 --> 00:52:09.160
+you kind of introduced us all as experts
+and clearly I'm not, I'm, I'm a champion,
+
+1b3d79dd-fdf5-4f37-8a09-8018f2041c05-3
+00:52:09.160 --> 00:52:12.040
+but you all are the experts and have the
+experience.
+
+ab12bc4d-c278-4c12-9444-9529418fe887-0
+00:52:13.600 --> 00:52:18.729
+At what point can I,
+what data points do I need when I have
+
+ab12bc4d-c278-4c12-9444-9529418fe887-1
+00:52:18.729 --> 00:52:24.200
+already techs and, and,
+and our surgery residents who are doing
+
+ab12bc4d-c278-4c12-9444-9529418fe887-2
+00:52:24.200 --> 00:52:26.680
+evars wanting to go leadless?
+
+f6bf9d97-9b23-4402-935c-f78b916f968f-0
+00:52:27.040 --> 00:52:29.920
+And I, and I told him I'm like,
+I think we need our own data.
+
+be3a3986-d1c6-406e-94e8-bfb1b48e595f-0
+00:52:30.280 --> 00:52:33.017
+I'm not familiar if there's any data out
+there, You know,
+
+be3a3986-d1c6-406e-94e8-bfb1b48e595f-1
+00:52:33.017 --> 00:52:36.557
+when we're going transfemoral and,
+and obviously we got different obliques
+
+be3a3986-d1c6-406e-94e8-bfb1b48e595f-2
+00:52:36.557 --> 00:52:37.360
+for it for evars.
+
+45a4aafe-ef33-45dc-a6a2-5dd37e93b617-0
+00:52:38.560 --> 00:52:40.120
+Is there data out there?
+
+a3cb059d-18f6-4811-9792-90da2e4406cb-0
+00:52:40.120 --> 00:52:43.474
+And if not,
+what do we need to generate so that I can
+
+a3cb059d-18f6-4811-9792-90da2e4406cb-1
+00:52:43.474 --> 00:52:48.320
+be responsible and look at them and say,
+Hey, Emily and Cody, it's it's cool.
+
+128509fd-da58-46fc-aac6-7d282de03136-0
+00:52:48.320 --> 00:52:52.201
+Go ahead and go without your lead on this
+EVAR because they're ready to do it
+
+128509fd-da58-46fc-aac6-7d282de03136-1
+00:52:52.201 --> 00:52:52.600
+already.
+
+9e83ccf6-77af-43e3-8088-aa1a9a681003-0
+00:52:52.600 --> 00:52:53.400
+And we have a tech.
+
+40cfde3b-7371-4b2f-8808-74f1d7c46b4d-0
+00:52:53.640 --> 00:52:56.068
+We did a fever the other day, took,
+you know,
+
+40cfde3b-7371-4b2f-8808-74f1d7c46b4d-1
+00:52:56.068 --> 00:52:58.760
+a couple hours and Joey took his lead off
+already.
+
+2d145ccf-6637-4118-8552-998af1c6531a-0
+00:52:59.040 --> 00:53:01.200
+But I was like, I, I think, am I wrong?
+
+f158bbee-7e15-4fa4-a07e-31e8ba3bb70d-0
+00:53:01.200 --> 00:53:02.400
+Do we need more data?
+
+0d3d79ce-19a2-4e60-8b91-6d51419ef88d-0
+00:53:02.400 --> 00:53:06.746
+And if so,
+what's your all's expert recommendations
+
+0d3d79ce-19a2-4e60-8b91-6d51419ef88d-1
+00:53:06.746 --> 00:53:13.600
+as to to what I need to look at them and
+safely say it's OK to shed the lead live
+
+0d3d79ce-19a2-4e60-8b91-6d51419ef88d-2
+00:53:13.600 --> 00:53:14.520
+monitoring?
+
+51e26b7c-ac6c-4020-9f45-c9090a61e296-0
+00:53:14.520 --> 00:53:15.120
+Go ahead.
+
+d45c4f9c-8c01-4729-93be-8431cbf6cac2-0
+00:53:16.560 --> 00:53:17.680
+Sorry I just interrupted.
+
+00f45b9e-635c-458b-abdd-e002acdca946-0
+00:53:17.680 --> 00:53:21.873
+It was just because we went through
+something similar and one of the
+
+00f45b9e-635c-458b-abdd-e002acdca946-1
+00:53:21.873 --> 00:53:24.000
+approvals required live monitoring.
+
+e7e16cd3-4602-4eb7-a232-9c625e721906-0
+00:53:25.640 --> 00:53:27.964
+So you're dosing me tell his life,
+you know,
+
+e7e16cd3-4602-4eb7-a232-9c625e721906-1
+00:53:27.964 --> 00:53:29.720
+it shows that nothing's happening.
+
+7fa127de-c5f0-49ea-8909-99fd5d7327fe-0
+00:53:30.240 --> 00:53:33.246
+So is there a certain threshold,
+so to speak,
+
+7fa127de-c5f0-49ea-8909-99fd5d7327fe-1
+00:53:33.246 --> 00:53:35.600
+that you that you you all recommend?
+
+3bb00b0c-8fd9-49a7-b564-492f4b6e8e8b-0
+00:53:35.600 --> 00:53:37.240
+Because we just we got that.
+
+e7021dd9-8702-4e5e-bc52-7f847192879b-0
+00:53:37.240 --> 00:53:39.320
+Bob's been nice enough to help us with
+that.
+
+5ba4eb97-fdf7-42af-aa8a-52e45f32f7b9-0
+00:53:39.720 --> 00:53:43.360
+And literally we're just in our infancy
+in the last four weeks we started this.
+
+1934210b-9219-438e-aded-20fe30a93ba6-0
+00:53:43.560 --> 00:53:47.125
+Is there a certain number I can look at
+and say, hey,
+
+1934210b-9219-438e-aded-20fe30a93ba6-1
+00:53:47.125 --> 00:53:52.010
+I think we're OK to shed the lead,
+or is that still unknown for abdominal
+
+1934210b-9219-438e-aded-20fe30a93ba6-2
+00:53:52.010 --> 00:53:55.840
+visceral type work,
+which I'm assuming that's the answer.
+
+0937eda4-50a3-4fa6-a067-b8921e584cbf-0
+00:53:58.960 --> 00:53:59.240
+Yeah.
+
+947b4d74-9fe9-4611-aaa5-b63e9f72ddd6-0
+00:53:59.240 --> 00:54:03.189
+I mean, you know,
+I can kind of weigh in on just at least
+
+947b4d74-9fe9-4611-aaa5-b63e9f72ddd6-1
+00:54:03.189 --> 00:54:04.960
+to start the conversation.
+
+a49b09ce-358b-4b21-9562-1217ddcea2e9-0
+00:54:05.280 --> 00:54:10.992
+But I do think as we get into these newer
+procedures with these more advanced
+
+a49b09ce-358b-4b21-9562-1217ddcea2e9-1
+00:54:10.992 --> 00:54:15.240
+technologies #1 the more dated that you
+have, the better.
+
+f4e1b362-f393-4f14-8299-eb26e7fb63bc-0
+00:54:15.240 --> 00:54:19.094
+And so if you can have, you know,
+obviously you know,
+
+f4e1b362-f393-4f14-8299-eb26e7fb63bc-1
+00:54:19.094 --> 00:54:23.020
+some of the highest level of, of data,
+like, you know,
+
+f4e1b362-f393-4f14-8299-eb26e7fb63bc-2
+00:54:23.020 --> 00:54:27.160
+randomized trials or large series or
+something like that,
+
+f4e1b362-f393-4f14-8299-eb26e7fb63bc-3
+00:54:27.160 --> 00:54:32.157
+that you can show that data and show it
+that at your facility you're,
+
+f4e1b362-f393-4f14-8299-eb26e7fb63bc-4
+00:54:32.157 --> 00:54:36.083
+you're reaching that,
+then then I think you, you know,
+
+f4e1b362-f393-4f14-8299-eb26e7fb63bc-5
+00:54:36.083 --> 00:54:41.865
+in my mind that if you can say that that
+clearly what I'm getting is better than
+
+f4e1b362-f393-4f14-8299-eb26e7fb63bc-6
+00:54:41.865 --> 00:54:46.720
+what I was getting, then then you know,
+you're showing improvement.
+
+b3064184-349b-4dcb-81a9-9bb16100335b-0
+00:54:46.720 --> 00:54:50.493
+If it's showing improvement over what you
+were getting at a baseline,
+
+b3064184-349b-4dcb-81a9-9bb16100335b-1
+00:54:50.493 --> 00:54:53.998
+then you should be able,
+you should to technically be able to do
+
+b3064184-349b-4dcb-81a9-9bb16100335b-2
+00:54:53.998 --> 00:54:54.159
+it.
+
+6cc46af5-c4a4-4966-9fb2-61084a922cc1-0
+00:54:54.160 --> 00:54:58.329
+Now every state's different and you have
+to bring in the radiation safety officers
+
+6cc46af5-c4a4-4966-9fb2-61084a922cc1-1
+00:54:58.329 --> 00:55:00.640
+and,
+and right now you have to get clearance.
+
+87b8d49f-b959-4690-bae7-2d258da8edb6-0
+00:55:00.640 --> 00:55:05.320
+I know that sky is working really hard
+even to begin maybe at the state level to
+
+87b8d49f-b959-4690-bae7-2d258da8edb6-1
+00:55:05.320 --> 00:55:09.942
+make some changes where if you have the
+data, if you're doing those procedures,
+
+87b8d49f-b959-4690-bae7-2d258da8edb6-2
+00:55:09.942 --> 00:55:13.813
+if you have real time monitoring,
+if you're reaching these levels,
+
+87b8d49f-b959-4690-bae7-2d258da8edb6-3
+00:55:13.813 --> 00:55:15.200
+then then you can do it.
+
+52817361-1c6f-4bf5-89b2-b0047506ac11-0
+00:55:15.520 --> 00:55:18.120
+But I think right now it's,
+it's a little bit arbitrary.
+
+731e20ad-7d5d-4b7e-8347-19c99dbeb73d-0
+00:55:18.120 --> 00:55:21.724
+You need to talk about what is the
+threshold And, and I think it, you know,
+
+731e20ad-7d5d-4b7e-8347-19c99dbeb73d-1
+00:55:21.724 --> 00:55:24.237
+it's very,
+it's very hard to say what that threshold
+
+731e20ad-7d5d-4b7e-8347-19c99dbeb73d-2
+00:55:24.237 --> 00:55:26.040
+is because you don't know what it was.
+
+0d4d2201-7663-452d-a859-cea58f33f5fc-0
+00:55:26.320 --> 00:55:29.281
+And people aren't, you know,
+we can tell you what the,
+
+0d4d2201-7663-452d-a859-cea58f33f5fc-1
+00:55:29.281 --> 00:55:33.372
+in a lot of these studies, what the,
+how much radiation they were typically
+
+0d4d2201-7663-452d-a859-cea58f33f5fc-2
+00:55:33.372 --> 00:55:34.880
+getting for certain studies.
+
+c8fea595-9c4d-45ac-aeb5-2cfb205e3d09-0
+00:55:34.880 --> 00:55:38.107
+And, and if,
+if a certain technology can markedly
+
+c8fea595-9c4d-45ac-aeb5-2cfb205e3d09-1
+00:55:38.107 --> 00:55:41.657
+improve on that,
+then that should be an alternative to
+
+c8fea595-9c4d-45ac-aeb5-2cfb205e3d09-2
+00:55:41.657 --> 00:55:43.400
+what you were doing before.
+
+d846f359-a8f7-4696-88ca-eccdb51433d9-0
+00:55:43.720 --> 00:55:48.507
+But but again, it's got to be, you know,
+we need some consensus among among all of
+
+d846f359-a8f7-4696-88ca-eccdb51433d9-1
+00:55:48.507 --> 00:55:51.968
+us to say, you know,
+there there's a number or it's hard to
+
+d846f359-a8f7-4696-88ca-eccdb51433d9-2
+00:55:51.968 --> 00:55:54.968
+pick a number because you don't know what
+you know,
+
+d846f359-a8f7-4696-88ca-eccdb51433d9-3
+00:55:54.968 --> 00:55:59.640
+what type of procedure you're doing or
+where you're standing or whatever because
+
+d846f359-a8f7-4696-88ca-eccdb51433d9-4
+00:55:59.640 --> 00:56:02.640
+it's going to be different for,
+for a lot of those.
+
+25e8fa27-3520-43ca-ad9b-158467f194df-0
+00:56:02.640 --> 00:56:08.280
+So love to hear the panel on on how to
+lower the standard location to somebody.
+
+965a1ac0-7332-4a72-8fc4-e88d047fbcde-0
+00:56:09.240 --> 00:56:13.281
+Yeah, I was going to say Bob, I,
+I think there's really robust data for
+
+965a1ac0-7332-4a72-8fc4-e88d047fbcde-1
+00:56:13.281 --> 00:56:17.660
+interventional cardiology, right, radial,
+femoral and and really for femoral,
+
+965a1ac0-7332-4a72-8fc4-e88d047fbcde-2
+00:56:17.660 --> 00:56:20.242
+although you know,
+our beams up in the chest,
+
+965a1ac0-7332-4a72-8fc4-e88d047fbcde-3
+00:56:20.242 --> 00:56:22.600
+it's not down in the abdomen for an E bar.
+
+158bfdbb-2afe-40a4-85f6-f435bc6bd63c-0
+00:56:22.600 --> 00:56:26.520
+And you know,
+the Emory group was structural disease.
+
+aabc5cbc-d877-4cb4-9211-87fb3dc57f07-0
+00:56:26.520 --> 00:56:27.680
+That's all femoral stuff.
+
+b3d7ec3f-60f0-47a9-aaf7-8e3b55d76246-0
+00:56:27.680 --> 00:56:30.844
+And and you know,
+you got a tended 100 fold reduction in
+
+b3d7ec3f-60f0-47a9-aaf7-8e3b55d76246-1
+00:56:30.844 --> 00:56:31.400
+radiation.
+
+3962c035-2ce5-43a6-a8b2-921f8f3b79b4-0
+00:56:31.720 --> 00:56:36.113
+We do need data though,
+specifically for peripheral vascular and
+
+3962c035-2ce5-43a6-a8b2-921f8f3b79b4-1
+00:56:36.113 --> 00:56:37.600
+vascular intervention.
+
+3872f345-1200-49fc-be25-64e04900083d-0
+00:56:37.600 --> 00:56:39.611
+I,
+I think that's a really important certain
+
+3872f345-1200-49fc-be25-64e04900083d-1
+00:56:39.611 --> 00:56:39.880
+point.
+
+6eb293f5-c6d4-46e7-a4c6-f01e654b6eb3-0
+00:56:40.600 --> 00:56:41.600
+We lack that data.
+
+de208525-ba29-495a-bc1d-79f3e3473c4a-0
+00:56:41.600 --> 00:56:43.320
+So that could be generated.
+
+65dcf900-8a31-4882-9883-e3f49020f1a1-0
+00:56:43.320 --> 00:56:46.480
+That would be I think fantastic.
+
+650a151d-c6cc-419f-9095-7aaecef378ed-0
+00:56:48.120 --> 00:56:50.720
+Yeah,
+I think it's important as we go into the
+
+650a151d-c6cc-419f-9095-7aaecef378ed-1
+00:56:50.720 --> 00:56:54.868
+sub specialties that you have specific
+sub specialty data as we, you know,
+
+650a151d-c6cc-419f-9095-7aaecef378ed-2
+00:56:54.868 --> 00:56:55.920
+as we move forward.
+
+7188a77c-e969-4623-9650-2ce0143925d2-0
+00:56:55.920 --> 00:56:59.396
+And it's kind of impending on the
+companies to be able to to do that
+
+7188a77c-e969-4623-9650-2ce0143925d2-1
+00:56:59.396 --> 00:57:02.519
+because, you know,
+you don't want to just take people's word,
+
+7188a77c-e969-4623-9650-2ce0143925d2-2
+00:57:02.519 --> 00:57:04.837
+you know, word for it that Oh yeah,
+you know,
+
+7188a77c-e969-4623-9650-2ce0143925d2-3
+00:57:04.837 --> 00:57:08.565
+you're probably fine with what you're
+doing, but but you don't, you know,
+
+7188a77c-e969-4623-9650-2ce0143925d2-4
+00:57:08.565 --> 00:57:11.840
+without knowing that I think you could
+put people in harm's way.
+
+23ea89a9-9dfd-45fa-8e54-b5be19041447-0
+00:57:16.120 --> 00:57:16.240
+Yep.
+
+8af23b9e-fb78-4fda-8549-b67fc189106b-0
+00:57:17.080 --> 00:57:18.000
+Arnold, do you want to?
+
+946857df-a204-4c28-9f16-482b7f9f6fca-0
+00:57:18.120 --> 00:57:18.880
+I was just going to say this.
+
+f7564242-c3a3-4069-ac28-786290cabf2c-0
+00:57:18.920 --> 00:57:22.144
+Arnold,
+you want to say anything about how do you
+
+f7564242-c3a3-4069-ac28-786290cabf2c-1
+00:57:22.144 --> 00:57:25.240
+get the hospital to step up and pay for
+things?
+
+701c93b8-a030-4ed5-a08c-1f1bc283afa8-0
+00:57:25.960 --> 00:57:28.310
+Yeah,
+I think that's the challenge that we all
+
+701c93b8-a030-4ed5-a08c-1f1bc283afa8-1
+00:57:28.310 --> 00:57:28.560
+face.
+
+54f0e52a-83f1-466b-b9aa-41c65b5d797b-0
+00:57:28.560 --> 00:57:30.603
+I mean,
+I'm working at some other hospitals,
+
+54f0e52a-83f1-466b-b9aa-41c65b5d797b-1
+00:57:30.603 --> 00:57:31.920
+at the VA hospital, you know.
+
+c43fd54b-f6c7-4de2-a1d9-8fb5c90bb4eb-0
+00:57:31.960 --> 00:57:33.000
+Thank you, Mr.
+
+c9f2f4cb-933b-467c-9a0b-cee82361ad8e-0
+00:57:33.000 --> 00:57:33.760
+Taxpayers.
+
+d2f1334d-717f-4036-a740-8ed35c338645-0
+00:57:34.440 --> 00:57:36.753
+You know,
+we have a mandatory 10 year life
+
+d2f1334d-717f-4036-a740-8ed35c338645-1
+00:57:36.753 --> 00:57:38.960
+expectancy on all of our X-ray equipment.
+
+dcb61d64-12fe-4785-bc04-b552eb51dd51-0
+00:57:39.160 --> 00:57:42.280
+So every 10 years I get a new X-ray
+machine at $1.5 million.
+
+d105453e-c4ec-4725-903e-506ed0ff705b-0
+00:57:42.280 --> 00:57:45.120
+So I have the Philips Allure Clarity and
+it's seven years old.
+
+0a4af8a1-971b-433a-a195-3acf11e05e9f-0
+00:57:45.120 --> 00:57:47.000
+I'm going to upgrade in a few years.
+
+cff47458-d2db-4796-9719-e421ee336973-0
+00:57:47.440 --> 00:57:51.192
+But then I walk into my Community
+Hospital and they pulled out a 23 year
+
+cff47458-d2db-4796-9719-e421ee336973-1
+00:57:51.192 --> 00:57:55.561
+machine which is putting out all sorts of
+radiation and even my University Hospital,
+
+cff47458-d2db-4796-9719-e421ee336973-2
+00:57:55.561 --> 00:57:57.720
+UC Irvine kept their machine for 15 years.
+
+136f2f3a-dd08-4ffb-8afc-b19e4748516d-0
+00:57:58.000 --> 00:58:01.211
+And so, you know,
+granted these are high cost capital
+
+136f2f3a-dd08-4ffb-8afc-b19e4748516d-1
+00:58:01.211 --> 00:58:03.827
+equipment,
+but the really the basic step of
+
+136f2f3a-dd08-4ffb-8afc-b19e4748516d-2
+00:58:03.827 --> 00:58:07.990
+radiation reduction came with
+improvements in image quality and image
+
+136f2f3a-dd08-4ffb-8afc-b19e4748516d-3
+00:58:07.990 --> 00:58:11.320
+processing with the latest generation
+imaging machines.
+
+13efdf15-edc2-4fbc-a7f4-1afc9fe5c47c-0
+00:58:11.320 --> 00:58:15.529
+And so, you know,
+I think that illustrates the problem that,
+
+13efdf15-edc2-4fbc-a7f4-1afc9fe5c47c-1
+00:58:15.529 --> 00:58:18.910
+you know,
+hospitals and hospital administrations
+
+13efdf15-edc2-4fbc-a7f4-1afc9fe5c47c-2
+00:58:18.910 --> 00:58:23.119
+just want to do the minimum to pass their
+minimum standards.
+
+1bd0796a-846b-4160-ac39-90f9d12626cf-0
+00:58:23.200 --> 00:58:26.133
+And, you know,
+we are not empowered to change that
+
+1bd0796a-846b-4160-ac39-90f9d12626cf-1
+00:58:26.133 --> 00:58:29.354
+minimum standard,
+but we can change it with our voices,
+
+1bd0796a-846b-4160-ac39-90f9d12626cf-2
+00:58:29.354 --> 00:58:31.080
+with, you know, with our feet.
+
+d1e7904a-3ca8-4839-8a22-f37c9eee438d-0
+00:58:31.160 --> 00:58:32.952
+Your new, your new operators,
+like you said, you know,
+
+d1e7904a-3ca8-4839-8a22-f37c9eee438d-1
+00:58:32.952 --> 00:58:34.680
+when they're when they're coming in,
+they want this.
+
+33876dbb-d2a3-4961-86ac-defef8e7bb57-0
+00:58:35.080 --> 00:58:39.008
+I mean, but but you know, ultimately we,
+it takes a collective effort on all of
+
+33876dbb-d2a3-4961-86ac-defef8e7bb57-1
+00:58:39.008 --> 00:58:40.040
+our parts to do that.
+
+50dded1e-1b39-4182-b8a6-18061b3cc5a4-0
+00:58:40.480 --> 00:58:43.104
+And hopefully we're, you know,
+but we're trying to,
+
+50dded1e-1b39-4182-b8a6-18061b3cc5a4-1
+00:58:43.104 --> 00:58:47.193
+we're trying to arm all of us with the,
+with the so-called toolkit that Bob and,
+
+50dded1e-1b39-4182-b8a6-18061b3cc5a4-2
+00:58:47.193 --> 00:58:51.382
+and many other societies were working on
+together as part of an advocacy coalition
+
+50dded1e-1b39-4182-b8a6-18061b3cc5a4-3
+00:58:51.382 --> 00:58:55.017
+to we can all share all these,
+all this data and all the potential cost
+
+50dded1e-1b39-4182-b8a6-18061b3cc5a4-4
+00:58:55.017 --> 00:58:57.439
+effectiveness of these,
+of these interventions.
+
+f54ec2e7-06d6-484a-90b7-399da9aafea6-0
+00:59:01.040 --> 00:59:04.600
+We have something called the risk risk
+register in the UK.
+
+82c7d595-2e63-425f-bc9c-44296fdf303e-0
+00:59:04.960 --> 00:59:08.640
+So when we want to replace something,
+I can't see the wire.
+
+e9ab06da-46e6-4ac2-98fd-f7bd4ad4268f-0
+00:59:08.760 --> 00:59:11.200
+And if I can't see the wire,
+I can't do the procedure.
+
+58453d75-6a25-4e1f-b405-31a0333c4bee-0
+00:59:11.200 --> 00:59:14.880
+So that goes high on the risk register
+and then you can ask for a new machine.
+
+0eb2d49c-e359-40b3-881c-f5e41f0cae6e-0
+00:59:14.880 --> 00:59:17.600
+So I don't know if in the US you have
+something like that, right?
+
+280cfcc1-d0b2-4e68-b694-36c65e2b1d5a-0
+00:59:17.680 --> 00:59:19.640
+You don't tell anybody what I'm telling
+them.
+
+c587c30f-52c0-4f6a-a26b-b5954a2daf4e-0
+00:59:26.760 --> 00:59:32.050
+That it's good anyway else I know that
+you know, when you looked at the sky,
+
+c587c30f-52c0-4f6a-a26b-b5954a2daf4e-1
+00:59:32.050 --> 00:59:36.860
+this last sky survey that was done,
+it said that the biggest obstacle
+
+c587c30f-52c0-4f6a-a26b-b5954a2daf4e-2
+00:59:36.860 --> 00:59:41.532
+obviously was cost and and forgetting
+some of the some of the newer
+
+c587c30f-52c0-4f6a-a26b-b5954a2daf4e-3
+00:59:41.532 --> 00:59:46.960
+technologies in it if it's appropriate
+for the type of procedures that you do.
+
+38ed5b98-2c90-454e-a7fc-8264912dbbc6-0
+00:59:47.360 --> 00:59:49.040
+But what kind?
+
+2529eb84-5f1d-445f-9d42-0d42c738618d-0
+00:59:49.040 --> 00:59:54.085
+I guess one of the one of the things that
+I want to bring this panel,
+
+2529eb84-5f1d-445f-9d42-0d42c738618d-1
+00:59:54.085 --> 00:59:59.708
+it sounds like and talking to to you,
+many of you have used all the different
+
+2529eb84-5f1d-445f-9d42-0d42c738618d-2
+00:59:59.708 --> 01:00:04.177
+time kind of some of these new
+technologies, the Rampart Egg,
+
+2529eb84-5f1d-445f-9d42-0d42c738618d-3
+01:00:04.177 --> 01:00:09.440
+Pertigo G Lift, maybe the new,
+the new lead aprons, the BAT radioaction.
+
+e4a31261-e1ec-4dcf-b237-ee7fe0994953-0
+01:00:09.760 --> 01:00:15.107
+And so if you look at at those devices,
+if you have some experience with them,
+
+e4a31261-e1ec-4dcf-b237-ee7fe0994953-1
+01:00:15.107 --> 01:00:20.455
+what do you see as kind of limitations
+for adoption for those right now if you
+
+e4a31261-e1ec-4dcf-b237-ee7fe0994953-2
+01:00:20.455 --> 01:00:22.080
+take the cost out of it?
+
+eefbb059-5065-4317-9f7f-4d09a931f0ab-0
+01:00:23.280 --> 01:00:27.188
+What do you see is,
+is the kind of limitations for adoption
+
+eefbb059-5065-4317-9f7f-4d09a931f0ab-1
+01:00:27.188 --> 01:00:31.617
+and what do you see as kind of the
+limitations for certain types of
+
+eefbb059-5065-4317-9f7f-4d09a931f0ab-2
+01:00:31.617 --> 01:00:35.200
+procedures maybe that you have to do some
+workarounds.
+
+51b4e84a-57a7-452c-94e1-2a0ee58329c6-0
+01:00:35.440 --> 01:00:37.440
+I think we talked about this a little bit,
+Doctor Seto.
+
+283ee63c-02c4-4065-952a-b880455ebbed-0
+01:00:37.760 --> 01:00:39.880
+It is what what are those workarounds?
+
+dc8041a2-afa3-4d63-90ed-2f706d73033c-0
+01:00:39.880 --> 01:00:43.396
+So if our if our audience has one,
+has one of these or thinking about
+
+dc8041a2-afa3-4d63-90ed-2f706d73033c-1
+01:00:43.396 --> 01:00:46.560
+getting one of these,
+what are the first thing that you had to
+
+dc8041a2-afa3-4d63-90ed-2f706d73033c-2
+01:00:46.560 --> 01:00:50.680
+do just a little bit differently that you
+learned that made it so that it worked?
+
+f1c69c53-b72b-4292-8636-0cb6fb7c796f-0
+01:00:51.200 --> 01:00:52.240
+Yeah, I'll just start off.
+
+83e46f4f-5d6e-4dda-950e-ca29b6fc59cd-0
+01:00:52.240 --> 01:00:53.320
+I have the OR take a machine.
+
+1e8c48c3-cf4b-4ebc-a817-3c15310544d1-0
+01:00:53.320 --> 01:00:55.360
+We can't do a femoral angiogram with it.
+
+23751ef7-91b6-4dfa-b8ce-4833361c0c53-0
+01:00:55.600 --> 01:01:01.680
+So we're 95% radial and it encourages us
+to go radial for the femoral portion.
+
+8f86acf4-f42c-4cb4-a2cb-16dd159ccbe0-0
+01:01:02.160 --> 01:01:06.403
+You know we actually use ultrasound for
+all of our access and we can actually
+
+8f86acf4-f42c-4cb4-a2cb-16dd159ccbe0-1
+01:01:06.403 --> 01:01:10.538
+determine the access point by doing a
+post insertion ultrasound to just see
+
+8f86acf4-f42c-4cb4-a2cb-16dd159ccbe0-2
+01:01:10.538 --> 01:01:13.476
+where the wire,
+make sure it's above the bifurcation,
+
+8f86acf4-f42c-4cb4-a2cb-16dd159ccbe0-3
+01:01:13.476 --> 01:01:16.360
+make sure there's no obvious hematoma
+forming there.
+
+f4042949-b092-41d1-b4ff-e0c5138d22e1-0
+01:01:17.000 --> 01:01:20.714
+So I've actually dispensed with the
+femoral angiogram in many cases and
+
+f4042949-b092-41d1-b4ff-e0c5138d22e1-1
+01:01:20.714 --> 01:01:22.520
+hopefully I won't get sued over it.
+
+f8f86a4b-24da-46d7-bb3d-98d60cf278ff-0
+01:01:25.080 --> 01:01:28.567
+So, Bob,
+I would just say in terms of staff sort
+
+f8f86a4b-24da-46d7-bb3d-98d60cf278ff-1
+01:01:28.567 --> 01:01:32.979
+of resistance to this,
+I think once they are out of the lead,
+
+f8f86a4b-24da-46d7-bb3d-98d60cf278ff-2
+01:01:32.979 --> 01:01:36.608
+there's not,
+I mean the value proposition for the,
+
+f8f86a4b-24da-46d7-bb3d-98d60cf278ff-3
+01:01:36.608 --> 01:01:41.376
+you know, Rampart, Cortego,
+that's all of these is you're going to
+
+f8f86a4b-24da-46d7-bb3d-98d60cf278ff-4
+01:01:41.376 --> 01:01:42.800
+get out of the lead.
+
+1ba15c46-2a68-40b6-bc4d-eb2f27097ad1-0
+01:01:42.800 --> 01:01:45.624
+Now if you're going to stay in the lead
+and still use these,
+
+1ba15c46-2a68-40b6-bc4d-eb2f27097ad1-1
+01:01:45.624 --> 01:01:49.050
+you're going to get a lot of pushback
+because they say, well, what, what,
+
+1ba15c46-2a68-40b6-bc4d-eb2f27097ad1-2
+01:01:49.050 --> 01:01:50.439
+what am I wasting my time for?
+
+5028a3b0-77ee-4148-aa48-486679ca7c44-0
+01:01:50.760 --> 01:01:54.756
+Although the time investment and setting
+these up is very low,
+
+5028a3b0-77ee-4148-aa48-486679ca7c44-1
+01:01:54.756 --> 01:01:57.928
+but but I I think without shedding the
+lead it's,
+
+5028a3b0-77ee-4148-aa48-486679ca7c44-2
+01:01:57.928 --> 01:02:00.720
+it's hard to bring it over the finish
+line.
+
+ccb00bba-9474-4fc9-9c29-f52bc500daf2-0
+01:02:05.960 --> 01:02:09.380
+You know, as an intervention radiologist,
+we're often doing procedures and,
+
+ccb00bba-9474-4fc9-9c29-f52bc500daf2-1
+01:02:09.380 --> 01:02:11.000
+you know, various parts of the body.
+
+6409314c-f7e3-4d6d-9e60-cc5a5e7d2050-0
+01:02:11.000 --> 01:02:14.005
+You know, a lot of these systems,
+I haven't really, you know, it,
+
+6409314c-f7e3-4d6d-9e60-cc5a5e7d2050-1
+01:02:14.005 --> 01:02:15.280
+it doesn't really work well.
+
+12071612-0e62-411c-827f-70a8abeca654-0
+01:02:15.280 --> 01:02:19.593
+It might work well for certain procedures,
+but I haven't yet found a system that
+
+12071612-0e62-411c-827f-70a8abeca654-1
+01:02:19.593 --> 01:02:23.800
+really works well for the kind of things
+that we're doing throughout the body.
+
+c666bbe3-971a-4ef5-b8e2-a2e27a0be7ed-0
+01:02:24.120 --> 01:02:28.124
+The radioaction system is a system that
+we've looked at and it's interesting
+
+c666bbe3-971a-4ef5-b8e2-a2e27a0be7ed-1
+01:02:28.124 --> 01:02:32.180
+because it's kind of dynamic radiation
+protection and dedicated to a specific
+
+c666bbe3-971a-4ef5-b8e2-a2e27a0be7ed-2
+01:02:32.180 --> 01:02:32.440
+area.
+
+b5bd8ca6-6738-419f-9b8b-969e2943005a-0
+01:02:33.040 --> 01:02:36.440
+I think the potential limitations there
+are you do it has to be built in.
+
+4528f5c0-8bf8-4c10-a7b4-ab0be2ca242b-0
+01:02:36.560 --> 01:02:39.320
+It is installed into the image
+intensifier.
+
+5f8a421d-ed21-48b6-9e94-357317cb6575-0
+01:02:39.320 --> 01:02:43.424
+So that might be a limitation,
+but that's the only one that I've seen
+
+5f8a421d-ed21-48b6-9e94-357317cb6575-1
+01:02:43.424 --> 01:02:45.360
+that might be the most versatile.
+
+72132c82-6ea8-4955-921b-b325e300d01a-0
+01:02:45.360 --> 01:02:50.030
+However you do it is not entirely level
+as you do where a very thin piece of lead
+
+72132c82-6ea8-4955-921b-b325e300d01a-1
+01:02:50.030 --> 01:02:50.600
+with that.
+
+09f864b3-4b1f-48b9-b468-48499d40dfea-0
+01:02:54.880 --> 01:02:57.061
+Yeah,
+I know that you know and I think
+
+09f864b3-4b1f-48b9-b468-48499d40dfea-1
+01:02:57.061 --> 01:03:01.480
+radiology has so many different access
+sites and so many different procedures.
+
+f1da2028-d77f-4c87-8ab1-62dee3eded8a-0
+01:03:01.480 --> 01:03:04.280
+I think for cardiology, we're relatively,
+you know,
+
+f1da2028-d77f-4c87-8ab1-62dee3eded8a-1
+01:03:04.280 --> 01:03:08.320
+growing a radial access and certainly for
+neuro it's kind of the same way.
+
+df206dc7-c28a-4835-ae8e-c2e37c902c83-0
+01:03:09.400 --> 01:03:14.035
+But for these tech technology,
+especially barrier technologies trying
+
+df206dc7-c28a-4835-ae8e-c2e37c902c83-1
+01:03:14.035 --> 01:03:19.400
+when you're trying to work up underneath
+the the I I, it becomes very difficult.
+
+26dc1437-3ef5-447b-93ed-9472e0363a78-0
+01:03:20.200 --> 01:03:22.707
+You know,
+if you're doing T cars or if you're
+
+26dc1437-3ef5-447b-93ed-9472e0363a78-1
+01:03:22.707 --> 01:03:25.760
+orthopedics or you know,
+some of those sub specialties.
+
+474a3853-bc91-498a-a6aa-e0ef0286ed8b-0
+01:03:25.760 --> 01:03:29.806
+I think it's going to be a real challenge
+with the barrier technologies to be able
+
+474a3853-bc91-498a-a6aa-e0ef0286ed8b-1
+01:03:29.806 --> 01:03:32.633
+to to, you know,
+to protect them and still be able to see
+
+474a3853-bc91-498a-a6aa-e0ef0286ed8b-2
+01:03:32.633 --> 01:03:33.560
+what they're doing.
+
+eaa44d1e-ae39-4215-942a-029618fbc864-0
+01:03:35.600 --> 01:03:35.720
+Yeah.
+
+322b6bdf-3987-4a3d-b481-21954884cba0-0
+01:03:35.720 --> 01:03:38.942
+I mean,
+the other group for cardiology are the
+
+322b6bdf-3987-4a3d-b481-21954884cba0-1
+01:03:38.942 --> 01:03:41.480
+imagers for structural heart disease.
+
+079d78f2-a5eb-4497-8194-4fa258cfe293-0
+01:03:42.000 --> 01:03:46.000
+You know,
+those the TE holding the most important
+
+079d78f2-a5eb-4497-8194-4fa258cfe293-1
+01:03:46.000 --> 01:03:48.400
+instrument in the in the room.
+
+dd327248-1d13-462c-b5b6-b33769111202-0
+01:03:48.720 --> 01:03:52.600
+They're getting smoked on many of these
+cases.
+
+cfa2c336-14d4-41cd-a34b-7657e193220e-0
+01:03:52.760 --> 01:03:56.558
+And, you know, we've got some, you know,
+made some advancements,
+
+cfa2c336-14d4-41cd-a34b-7657e193220e-1
+01:03:56.558 --> 01:03:59.480
+but they're still getting way too much
+radiation.
+
+e21dcc2a-c2c1-4f07-8a5f-5f51228c1228-0
+01:03:59.480 --> 01:04:00.840
+We need to solve that.
+
+be37d10a-681e-4117-8be2-828ec80c26b7-0
+01:04:03.400 --> 01:04:04.640
+I'm waiting for the robots.
+
+743a39d3-2b50-48e8-b14b-b5980486d3fa-0
+01:04:06.880 --> 01:04:07.000
+OK.
+
+b9e79317-8cd8-4d74-87e4-2f7559e66fa3-0
+01:04:07.080 --> 01:04:08.040
+Chris, do you have a question?
+
+6d7f3fda-26bb-480f-a321-39c4f6d0f303-0
+01:04:08.760 --> 01:04:13.730
+Yeah, I just wanted to share that I,
+I think it's really important to do
+
+6d7f3fda-26bb-480f-a321-39c4f6d0f303-1
+01:04:13.730 --> 01:04:17.135
+exactly what ORSIF has done,
+which is include us,
+
+6d7f3fda-26bb-480f-a321-39c4f6d0f303-2
+01:04:17.135 --> 01:04:22.310
+because you have to remember if,
+if cardiologist is doing 250 cases a year,
+
+6d7f3fda-26bb-480f-a321-39c4f6d0f303-3
+01:04:22.310 --> 01:04:23.400
+we're doing 800.
+
+bd4e91b7-3341-40ae-8e2c-2f86c9836ac0-0
+01:04:25.080 --> 01:04:28.680
+So orthopedically we're at risk and we're
+not standing in what position.
+
+e74b73a7-fc62-42f7-8017-f48690c54b47-0
+01:04:28.680 --> 01:04:31.720
+We're twisting, turning, moving, reaching,
+stretching.
+
+218858ab-09fb-4855-8c8b-57aae4870d1a-0
+01:04:31.920 --> 01:04:36.233
+And I think that to,
+to include the the technologists and the
+
+218858ab-09fb-4855-8c8b-57aae4870d1a-1
+01:04:36.233 --> 01:04:41.520
+allied support staff and in these
+decisions is important in educating them.
+
+8aeda14f-c07a-4290-b9f7-967b67541d7d-0
+01:04:41.520 --> 01:04:43.040
+Again, education, right.
+
+34a8f8b8-8cc5-44ff-b3c2-3dde4e8e2b4f-0
+01:04:44.400 --> 01:04:48.331
+That goes a long way in the adoption
+because I know when the new technology
+
+34a8f8b8-8cc5-44ff-b3c2-3dde4e8e2b4f-1
+01:04:48.331 --> 01:04:50.400
+comes in a room, nobody wants to use it.
+
+b36e9648-f4bc-4dcd-9d70-dbb76fce44da-0
+01:04:51.040 --> 01:04:51.320
+Why?
+
+d1f7a6cf-36aa-4203-859d-cdd2c3ec01dc-0
+01:04:51.320 --> 01:04:57.196
+Because we don't know how to use it and
+we're not afforded perhaps the extra time
+
+d1f7a6cf-36aa-4203-859d-cdd2c3ec01dc-1
+01:04:57.196 --> 01:04:58.200
+that it takes.
+
+d6811952-ed7d-467c-8f5d-8ae044ca3b62-0
+01:04:58.280 --> 01:05:00.516
+You know,
+you hear the Velcro in the background,
+
+d6811952-ed7d-467c-8f5d-8ae044ca3b62-1
+01:05:00.516 --> 01:05:01.840
+the doctors coming in, right?
+
+1c4bad3e-fa9c-4823-8fc0-e4084a16386a-0
+01:05:01.840 --> 01:05:05.720
+And so you have to become proficient with
+these these things.
+
+e56fd144-cb3a-4607-9e67-636fbbb6f25c-0
+01:05:05.720 --> 01:05:08.732
+And I think then combining that, that,
+that,
+
+e56fd144-cb3a-4607-9e67-636fbbb6f25c-1
+01:05:08.732 --> 01:05:12.614
+that buy in by the allied support staff
+and the training,
+
+e56fd144-cb3a-4607-9e67-636fbbb6f25c-2
+01:05:12.614 --> 01:05:17.099
+I think you'd see adoption rates that go
+up higher because that's,
+
+e56fd144-cb3a-4607-9e67-636fbbb6f25c-3
+01:05:17.099 --> 01:05:18.840
+that's our barrier, right?
+
+f0c1130d-aeda-47d6-b54b-20a092408952-0
+01:05:19.280 --> 01:05:20.520
+How do we set this thing up?
+
+570cb455-bbb2-402a-bf62-90520941cec7-0
+01:05:20.520 --> 01:05:22.880
+Or what does he want to use or where does
+he want to put it?
+
+4c58ebdd-1c3a-4b41-b630-68a4cf68db5c-0
+01:05:22.880 --> 01:05:26.760
+Or, or she, you know,
+these are their perspectives from us.
+
+17208015-df31-45e2-bff1-7ab037f318c2-0
+01:05:26.760 --> 01:05:30.640
+So this kind of meeting is perfect for
+that, right?
+
+75f7a965-a7c8-4c11-a9f1-73fd7b1d58ac-0
+01:05:30.880 --> 01:05:32.600
+We're getting us involved.
+
+f59e638e-197d-4b77-9385-732b0d69d107-0
+01:05:32.880 --> 01:05:36.624
+How often do your allied support staff
+and, and cardiologists,
+
+f59e638e-197d-4b77-9385-732b0d69d107-1
+01:05:36.624 --> 01:05:39.120
+radiologists get together in a conference?
+
+3dde7266-64e0-435b-bcc3-1d528e45c11c-0
+01:05:40.080 --> 01:05:40.880
+Pretty rarely.
+
+d5664ece-a3dc-411f-be0a-04db91b5f1fc-0
+01:05:42.160 --> 01:05:45.440
+And so that's,
+that's why this meeting is so important.
+
+8b3e30a9-f116-4aa8-a442-3d7b4039e9a1-0
+01:05:45.440 --> 01:05:47.680
+And I'm, I'm eager to see more like this.
+
+3edcbaf4-5a63-40fb-97c7-f4ef545994bf-0
+01:05:48.720 --> 01:05:49.720
+I think it's really exciting.
+
+604b311a-a2b4-43b0-bd88-03566e941182-0
+01:05:49.720 --> 01:05:54.032
+You know, everyone on this,
+on this panel within their own meetings
+
+604b311a-a2b4-43b0-bd88-03566e941182-1
+01:05:54.032 --> 01:05:57.520
+have brought radiation protection into
+their meetings.
+
+bc97e8e3-cc80-4e96-9440-d82a215c9baf-0
+01:05:57.560 --> 01:06:02.550
+And I think that's probably over the last
+year and a half or so of being involved
+
+bc97e8e3-cc80-4e96-9440-d82a215c9baf-1
+01:06:02.550 --> 01:06:05.654
+in this has,
+has really been the biggest change is
+
+bc97e8e3-cc80-4e96-9440-d82a215c9baf-2
+01:06:05.654 --> 01:06:10.036
+that people are now, you know,
+beginning to understand enough to not be
+
+bc97e8e3-cc80-4e96-9440-d82a215c9baf-3
+01:06:10.036 --> 01:06:14.480
+embarrassed to ask questions and, and,
+and even tell about their issues.
+
+07f9f5b9-214a-4035-b274-db932ee5e9f3-0
+01:06:14.800 --> 01:06:17.578
+So, you know,
+I do think that that's one of the things
+
+07f9f5b9-214a-4035-b274-db932ee5e9f3-1
+01:06:17.578 --> 01:06:20.560
+that that's hopefully they're going to
+drive this forward.
+
+502d18d9-5479-41eb-a823-345d83589968-0
+01:06:20.560 --> 01:06:22.356
+I do think,
+especially with all the newer
+
+502d18d9-5479-41eb-a823-345d83589968-1
+01:06:22.356 --> 01:06:25.950
+technologies that are out there, you know,
+I think that's only going to that's only
+
+502d18d9-5479-41eb-a823-345d83589968-2
+01:06:25.950 --> 01:06:26.720
+going to increase.
+
+cf29ad2b-6081-40d2-8fdc-5f10f6241c07-0
+01:06:26.720 --> 01:06:29.040
+I think our numbers are only going to
+improve.
+
+470f3171-6817-4d3a-a80d-4b61a56b0610-0
+01:06:29.040 --> 01:06:33.185
+It's just, you know,
+we've got to kind of continue that,
+
+470f3171-6817-4d3a-a80d-4b61a56b0610-1
+01:06:33.185 --> 01:06:34.640
+continue that March.
+
+55a4f38f-1d07-4912-91fe-61234d6c5187-0
+01:06:34.640 --> 01:06:38.214
+And I think everybody, like I say,
+I think everybody on on this panel is,
+
+55a4f38f-1d07-4912-91fe-61234d6c5187-1
+01:06:38.214 --> 01:06:40.920
+is brought in their meetings as part of
+their meetings.
+
+ace9e412-327c-46a9-9d41-ad067c10a0a4-0
+01:06:41.360 --> 01:06:44.959
+I know Cersei,
+I know Bella was kind of instrumental in,
+
+ace9e412-327c-46a9-9d41-ad067c10a0a4-1
+01:06:44.959 --> 01:06:49.885
+in a lot of the radiation protection
+pavilion that they have Searcy and, and,
+
+ace9e412-327c-46a9-9d41-ad067c10a0a4-2
+01:06:49.885 --> 01:06:52.852
+and,
+and I think that's the kind of thing that
+
+ace9e412-327c-46a9-9d41-ad067c10a0a4-3
+01:06:52.852 --> 01:06:55.000
+we need at most of these meetings.
+
+a7eacc92-5d3a-4789-9f3a-c7bf2910d30d-0
+01:06:55.760 --> 01:06:59.032
+You know, Doctor Monk,
+as he took over his presidency, this,
+
+a7eacc92-5d3a-4789-9f3a-c7bf2910d30d-1
+01:06:59.032 --> 01:07:01.983
+this was, you know,
+his platform of I'm going to bring
+
+a7eacc92-5d3a-4789-9f3a-c7bf2910d30d-2
+01:07:01.983 --> 01:07:04.880
+radiation protection to protect these
+younger people.
+
+9bffd9aa-0a8a-4141-bbde-bf3481b3bf7b-0
+01:07:05.160 --> 01:07:08.013
+And,
+and it's going to take a more senior
+
+9bffd9aa-0a8a-4141-bbde-bf3481b3bf7b-1
+01:07:08.013 --> 01:07:11.887
+voice, you know,
+like Doctor Oliver Olivier on this call
+
+9bffd9aa-0a8a-4141-bbde-bf3481b3bf7b-2
+01:07:11.887 --> 01:07:16.440
+to, to say that we can't, you know,
+we can't go backwards anymore.
+
+94550df6-e0ad-45fc-bd39-ba62a5d99cba-0
+01:07:16.440 --> 01:07:18.600
+This is this has to be something that we
+have pushed forward.
+
+29092a48-34f6-4fc6-b3eb-ed400440bc25-0
+01:07:19.120 --> 01:07:23.647
+And I think your voice is really,
+really resonate in that, you know,
+
+29092a48-34f6-4fc6-b3eb-ed400440bc25-1
+01:07:23.647 --> 01:07:24.960
+change has to occur.
+
+2fe786de-6e2e-4b51-b422-86c08ee902d2-0
+01:07:24.960 --> 01:07:28.490
+And I think that's the only way we're
+really going to push the,
+
+2fe786de-6e2e-4b51-b422-86c08ee902d2-1
+01:07:28.490 --> 01:07:32.793
+the hospital systems and those who are
+cutting the checks to say that this is
+
+2fe786de-6e2e-4b51-b422-86c08ee902d2-2
+01:07:32.793 --> 01:07:36.545
+just part of if we're going to do,
+if we're going to do any kind of
+
+2fe786de-6e2e-4b51-b422-86c08ee902d2-3
+01:07:36.545 --> 01:07:40.241
+procedures that require X-rays,
+Part of that is we have to protect
+
+2fe786de-6e2e-4b51-b422-86c08ee902d2-4
+01:07:40.241 --> 01:07:41.400
+everyone in the room.
+
+54eea5a9-3678-4d67-aafc-9fe6c7e9e857-0
+01:07:41.400 --> 01:07:44.775
+And, and, and, and with,
+with the newer technologies that are
+
+54eea5a9-3678-4d67-aafc-9fe6c7e9e857-1
+01:07:44.775 --> 01:07:45.320
+available.
+
+692e6d04-6e6f-4456-b120-da21aac56523-0
+01:07:46.680 --> 01:07:50.800
+You have to give a Bob have to give a
+shout out to Brian Chambliss.
+
+19e3a3de-dce8-4168-b34f-f2d3ffd973a8-0
+01:07:50.800 --> 01:07:55.863
+I think he's with your company and he was,
+he was very instrumental in helping us
+
+19e3a3de-dce8-4168-b34f-f2d3ffd973a8-1
+01:07:55.863 --> 01:07:57.840
+get this across the finish line.
+
+c613ef3b-e38e-4250-b26c-22e52b6212d1-0
+01:07:58.600 --> 01:08:02.461
+And you know, one thing,
+like like Chris said, you know, the, the,
+
+c613ef3b-e38e-4250-b26c-22e52b6212d1-1
+01:08:02.461 --> 01:08:05.572
+the, the RTS and RNS,
+they're doing the least in our,
+
+c613ef3b-e38e-4250-b26c-22e52b6212d1-2
+01:08:05.572 --> 01:08:08.799
+in our system four to five times the
+cases I do a week.
+
+d71bd798-aa16-48b4-954b-8cb2e7be8c07-0
+01:08:09.400 --> 01:08:13.427
+So I went to the administrators and said,
+listen, if you can make this a priority,
+
+d71bd798-aa16-48b4-954b-8cb2e7be8c07-1
+01:08:13.427 --> 01:08:15.320
+it's going to get out in the community.
+
+a970f1ab-c5bb-42fd-ad36-6583b4388839-0
+01:08:15.320 --> 01:08:19.560
+It's going to lead to better RT and RRT
+and RN retention.
+
+d670ac37-8672-48e1-b982-ad401883bc78-0
+01:08:20.120 --> 01:08:21.868
+And I think, you know,
+because it's hard for them,
+
+d670ac37-8672-48e1-b982-ad401883bc78-1
+01:08:21.868 --> 01:08:23.480
+they're always looking for the dollars,
+right?
+
+7340fbf8-e87c-420a-9ea6-6be29187bb27-0
+01:08:23.480 --> 01:08:24.640
+The return on investment.
+
+1ad2824c-579d-41bb-b2d0-44c8b52dc241-0
+01:08:24.640 --> 01:08:29.440
+That's kind of not going to be probably
+something we can measure here, correct?
+
+abbc7e9c-8295-46d9-8366-6cc7fd913a8a-0
+01:08:29.880 --> 01:08:34.273
+But if you go at it with that attitude
+and, and, and you know, the, the, the,
+
+abbc7e9c-8295-46d9-8366-6cc7fd913a8a-1
+01:08:34.273 --> 01:08:37.877
+the system putting out the,
+the correct message that they care,
+
+abbc7e9c-8295-46d9-8366-6cc7fd913a8a-2
+01:08:37.877 --> 01:08:39.680
+it's going to lead to retention.
+
+51211372-1c6d-4430-8943-fd42cfefe194-0
+01:08:39.920 --> 01:08:43.975
+And I'm hoping that it'll also lead to
+other folks coming from other systems to
+
+51211372-1c6d-4430-8943-fd42cfefe194-1
+01:08:43.975 --> 01:08:45.040
+want to work with us.
+
+15e007b7-2b30-49e5-929b-792a83ba8244-0
+01:08:45.040 --> 01:08:48.160
+But again, yeah, shout out to Brian.
+
+a5ed034c-4543-4b83-ae40-db86aaa66279-0
+01:08:48.160 --> 01:08:52.009
+He he really helped us tremendously and
+opened my eyes and helped me get this
+
+a5ed034c-4543-4b83-ae40-db86aaa66279-1
+01:08:52.009 --> 01:08:54.280
+across the finish line at at our
+institution.
+
+d5e280b4-890f-482a-bdaf-43edc471052a-0
+01:08:56.080 --> 01:08:56.280
+Great.
+
+d193f8b0-8ca1-4fda-9850-b028e538b691-0
+01:08:59.360 --> 01:09:01.080
+Anyone else on that?
+
+b71bd7cd-2cf4-4216-8917-e1374b6f618a-0
+01:09:01.840 --> 01:09:07.108
+So just just wanted to say that we were
+in Barcelona for Cersei last week and one
+
+b71bd7cd-2cf4-4216-8917-e1374b6f618a-1
+01:09:07.108 --> 01:09:12.183
+of the things that is happening with the
+annual meetings is in Cersei we had a
+
+b71bd7cd-2cf4-4216-8917-e1374b6f618a-2
+01:09:12.183 --> 01:09:16.360
+radiation village where all our industry
+partners were together.
+
+7b1f0475-558d-4ebf-97e0-d068025bd0a3-0
+01:09:16.520 --> 01:09:20.595
+You could go around and you know,
+chat up with virtually everyone,
+
+7b1f0475-558d-4ebf-97e0-d068025bd0a3-1
+01:09:20.595 --> 01:09:25.217
+look at different options because at the
+end of the day you were asking for
+
+7b1f0475-558d-4ebf-97e0-d068025bd0a3-2
+01:09:25.217 --> 01:09:28.320
+shielding techniques and,
+and the downsides of it.
+
+8f9b68e4-6736-405b-ac74-f65f18ac7d55-0
+01:09:28.320 --> 01:09:32.410
+You know,
+we tend to sometime access the poker vein
+
+8f9b68e4-6736-405b-ac74-f65f18ac7d55-1
+01:09:32.410 --> 01:09:37.760
+percutaneously across the liver or some
+of the complex aortic work.
+
+7c92699f-6bbd-4844-a2fe-a229502d233a-0
+01:09:38.000 --> 01:09:42.427
+I tend to do, you know,
+a subclavian or anterior axillary access
+
+7c92699f-6bbd-4844-a2fe-a229502d233a-1
+01:09:42.427 --> 01:09:47.535
+so that the sheath is not long and,
+and then you're extremely close to the
+
+7c92699f-6bbd-4844-a2fe-a229502d233a-2
+01:09:47.535 --> 01:09:48.080
+patient.
+
+1cdcbf46-cb0d-4c78-a802-99f9f5824b6f-0
+01:09:48.200 --> 01:09:50.880
+So that radiation village was a great
+idea.
+
+6ead0f10-4033-4ef9-a061-f930b8a1a925-0
+01:09:50.880 --> 01:09:56.231
+And Bella added on at the British society,
+we, we have a workshop, you know, we,
+
+6ead0f10-4033-4ef9-a061-f930b8a1a925-1
+01:09:56.231 --> 01:10:00.923
+we just didn't have workshop for certain
+devices or certain aspects of
+
+6ead0f10-4033-4ef9-a061-f930b8a1a925-2
+01:10:00.923 --> 01:10:04.623
+intervention,
+but also a complete workshop on radiation
+
+6ead0f10-4033-4ef9-a061-f930b8a1a925-3
+01:10:04.623 --> 01:10:09.843
+protection associated with simulators,
+which kind of give you an idea of where
+
+6ead0f10-4033-4ef9-a061-f930b8a1a925-4
+01:10:09.843 --> 01:10:15.327
+you're standing and how much of radiation
+you get as to where you're stood next to
+
+6ead0f10-4033-4ef9-a061-f930b8a1a925-5
+01:10:15.327 --> 01:10:16.120
+the machine.
+
+6b7f1d00-53e3-4ef6-85f1-ea1788dfc8a1-0
+01:10:16.120 --> 01:10:23.082
+So I think a great educational both from
+the British Society and, and Searcy, yeah,
+
+6b7f1d00-53e3-4ef6-85f1-ea1788dfc8a1-1
+01:10:23.082 --> 01:10:24.160
+that's great.
+
+f22d8125-1698-4603-8e41-a3a7bb73c2ac-0
+01:10:24.160 --> 01:10:27.640
+These focus summits I think are really
+are really helping as well.
+
+c7cd25e9-1d37-4da9-ab86-7ea3188332c1-0
+01:10:27.640 --> 01:10:31.974
+I know Doctor Miller had it,
+it's guy last year and, and,
+
+c7cd25e9-1d37-4da9-ab86-7ea3188332c1-1
+01:10:31.974 --> 01:10:37.280
+and Doctor Spratz having one in two weeks
+at his meeting in in London.
+
+3c890c86-a3c1-4856-9e38-7b0e3ef9d51b-0
+01:10:37.720 --> 01:10:40.714
+That's, you know,
+choosing 5 topics to tackle and one of
+
+3c890c86-a3c1-4856-9e38-7b0e3ef9d51b-1
+01:10:40.714 --> 01:10:42.080
+those is radiation safety.
+
+152db8bf-968b-41eb-b4d0-810650eee6be-0
+01:10:42.080 --> 01:10:46.728
+So, so we're starting to see it in the,
+you know, in the society meetings and,
+
+152db8bf-968b-41eb-b4d0-810650eee6be-1
+01:10:46.728 --> 01:10:51.023
+and looking forward to, you know,
+the society consensus papers that that
+
+152db8bf-968b-41eb-b4d0-810650eee6be-2
+01:10:51.023 --> 01:10:54.847
+hopefully will come out again,
+shed more light on, on, you know,
+
+152db8bf-968b-41eb-b4d0-810650eee6be-3
+01:10:54.847 --> 01:10:58.613
+it's time for time for change and time to
+find, you know, what,
+
+152db8bf-968b-41eb-b4d0-810650eee6be-4
+01:10:58.613 --> 01:11:02.320
+what we need to really get everybody,
+get everybody protected.
+
+c0cace5e-1aec-4a4a-b5a2-3aeefa843a72-0
+01:11:04.040 --> 01:11:04.400
+Yeah.
+
+97f6c350-0270-4bee-8416-1cb1a57a59fe-0
+01:11:04.560 --> 01:11:06.120
+Let me just add one thing.
+
+7691c643-b207-44df-896b-ce49270b3eea-0
+01:11:06.120 --> 01:11:08.960
+And Doctor Muck mentioned something and I
+heard it earlier.
+
+dd7b4e65-84dc-4812-9418-205b032ffa83-0
+01:11:09.720 --> 01:11:12.357
+You know,
+I tell my students when they're being
+
+dd7b4e65-84dc-4812-9418-205b032ffa83-1
+01:11:12.357 --> 01:11:15.600
+recruited, look at their, look at their,
+look at the lead.
+
+ae3437ef-77e4-448d-bc2e-c53e530686fa-0
+01:11:17.160 --> 01:11:22.035
+Do you want to see how much your hospital
+cares about you and how the department
+
+ae3437ef-77e4-448d-bc2e-c53e530686fa-1
+01:11:22.035 --> 01:11:23.360
+just look at the lead?
+
+0db750d1-68ba-4395-8a33-f58185b9582b-0
+01:11:23.720 --> 01:11:31.016
+And so, so when someone said, you know,
+to use PPE, radiation protection,
+
+0db750d1-68ba-4395-8a33-f58185b9582b-1
+01:11:31.016 --> 01:11:35.946
+safety equipment as a recruitment tool,
+you know,
+
+0db750d1-68ba-4395-8a33-f58185b9582b-2
+01:11:35.946 --> 01:11:39.200
+my students are looking for that.
+
+ca58b0c8-5ec1-4046-bc8d-790eee36f512-0
+01:11:39.480 --> 01:11:42.472
+They're going in the room where they'll
+be spending, you know,
+
+ca58b0c8-5ec1-4046-bc8d-790eee36f512-1
+01:11:42.472 --> 01:11:44.040
+the next few years of their life.
+
+123a3e1a-81b4-401e-b794-c2dae1abca62-0
+01:11:45.680 --> 01:11:48.993
+And that that's the different,
+that could be the difference between
+
+123a3e1a-81b4-401e-b794-c2dae1abca62-1
+01:11:48.993 --> 01:11:52.598
+taking a job or not taking a job,
+especially as we're, we're seeing this,
+
+123a3e1a-81b4-401e-b794-c2dae1abca62-2
+01:11:52.598 --> 01:11:54.840
+this increased awareness of radiation
+safety.
+
+2cbc1653-d003-4930-a399-8e361b31c96c-0
+01:11:54.840 --> 01:11:58.200
+So there's some potential there which
+I've never thought of.
+
+0b986078-94d9-4610-b54f-5cb15941ba22-0
+01:11:58.200 --> 01:12:00.400
+So that's why I love these meetings.
+
+9993b7ba-8949-4f9a-ab7d-42c1a22781ec-0
+01:12:02.000 --> 01:12:02.200
+Yeah.
+
+aa2281ff-1552-427c-97a7-22a2b8f64644-0
+01:12:02.200 --> 01:12:07.619
+You know, it makes me think, Bob, we've,
+we've sort of done studies related to the
+
+aa2281ff-1552-427c-97a7-22a2b8f64644-1
+01:12:07.619 --> 01:12:11.537
+radiation etcetera,
+but we really haven't looked at sort of
+
+aa2281ff-1552-427c-97a7-22a2b8f64644-2
+01:12:11.537 --> 01:12:14.280
+occupational quality of life, if you will.
+
+2f8c20bc-80b9-4e90-a8a4-3756fe00530e-0
+01:12:14.280 --> 01:12:16.920
+And there's,
+there's all kinds of tools to do that.
+
+9299dce7-1386-4b73-ac11-0c4001ce9d59-0
+01:12:17.400 --> 01:12:21.080
+And it would be, you know,
+we should do that.
+
+ea5db8a3-5cbf-4b76-a920-f3db985b4ea6-0
+01:12:21.160 --> 01:12:25.386
+And it may be another sort of lever for
+hospitals to, hey,
+
+ea5db8a3-5cbf-4b76-a920-f3db985b4ea6-1
+01:12:25.386 --> 01:12:30.258
+not only are there fewer orthopedic
+issues and sick days, etcetera,
+
+ea5db8a3-5cbf-4b76-a920-f3db985b4ea6-2
+01:12:30.258 --> 01:12:33.912
+but listen,
+they're their occupational Wellness is
+
+ea5db8a3-5cbf-4b76-a920-f3db985b4ea6-3
+01:12:33.912 --> 01:12:37.494
+substantially better, which which does,
+you know,
+
+ea5db8a3-5cbf-4b76-a920-f3db985b4ea6-4
+01:12:37.494 --> 01:12:41.649
+that translates into fewer people leaving,
+less turnover,
+
+ea5db8a3-5cbf-4b76-a920-f3db985b4ea6-5
+01:12:41.649 --> 01:12:45.160
+which turns into what they care about the
+money.
+
+548b6855-1b94-4fe3-8d62-2c495416d41c-0
+01:12:46.840 --> 01:12:50.756
+Yeah, retention, recruitment, obviously,
+you know, we are,
+
+548b6855-1b94-4fe3-8d62-2c495416d41c-1
+01:12:50.756 --> 01:12:54.672
+we have a massive shortage here in the US
+of cardiologist,
+
+548b6855-1b94-4fe3-8d62-2c495416d41c-2
+01:12:54.672 --> 01:12:58.522
+probably vascular surgeons,
+really anybody doing complex,
+
+548b6855-1b94-4fe3-8d62-2c495416d41c-3
+01:12:58.522 --> 01:13:02.040
+complex work and,
+and long hours and emergency work.
+
+779ff5b0-2c8c-4eea-947c-03c4e52ba155-0
+01:13:02.040 --> 01:13:04.783
+And, and so you're right,
+if we can recruit,
+
+779ff5b0-2c8c-4eea-947c-03c4e52ba155-1
+01:13:04.783 --> 01:13:09.661
+if we can use it for recruiting tool and
+retention tool, I think the hospitals,
+
+779ff5b0-2c8c-4eea-947c-03c4e52ba155-2
+01:13:09.661 --> 01:13:13.320
+you would think that that would really be
+a big, a big win.
+
+d2ec91c6-1d75-45d6-b92d-daf15ef7ebe0-0
+01:13:14.200 --> 01:13:16.771
+You know,
+the big issue is trying to find out how
+
+d2ec91c6-1d75-45d6-b92d-daf15ef7ebe0-1
+01:13:16.771 --> 01:13:17.800
+to record that data.
+
+e21e03d1-26e3-4b11-b5d5-818cfc47e3a5-0
+01:13:18.280 --> 01:13:24.360
+And I know we're trying to put together
+an updated economic impact paper together.
+
+ae43e99e-7b1b-4b1d-a457-a8f5f8252bb8-0
+01:13:24.360 --> 01:13:29.913
+The original one was on Orsaf and done by
+Mike Seymour will be here tomorrow,
+
+ae43e99e-7b1b-4b1d-a457-a8f5f8252bb8-1
+01:13:29.913 --> 01:13:32.120
+But but we need an updated one.
+
+c63c151e-cf8f-4ba9-b36f-04a6f3c17b46-0
+01:13:32.120 --> 01:13:35.520
+What does it cost when you lose a
+physician, when you lose a staff member?
+
+e31edddb-fa65-44b7-83e9-026c2e1de1d8-0
+01:13:36.320 --> 01:13:40.120
+You know, how do you, you know,
+how can you use this for recruitment?
+
+5a2886e2-5663-4234-8124-ff171fb67793-0
+01:13:40.120 --> 01:13:42.200
+How can it actually have a financial
+impact?
+
+67a3d28c-7e44-4499-b8c9-15c4c511cff1-0
+01:13:42.200 --> 01:13:44.613
+Cuz that's ultimately what,
+what they're going to, you know,
+
+67a3d28c-7e44-4499-b8c9-15c4c511cff1-1
+01:13:44.613 --> 01:13:45.800
+what they're going to look at.
+
+ab376ae9-c1ba-4fcd-855f-fc24bc5759dc-0
+01:13:45.800 --> 01:13:50.411
+And I think ultimately it helps patient
+care because you don't have tired fatigue,
+
+ab376ae9-c1ba-4fcd-855f-fc24bc5759dc-1
+01:13:50.411 --> 01:13:53.912
+you know, doctors who are, you know,
+who are hurting and, and,
+
+ab376ae9-c1ba-4fcd-855f-fc24bc5759dc-2
+01:13:53.912 --> 01:13:57.356
+and you just wonder if they're,
+they're not making, you know,
+
+ab376ae9-c1ba-4fcd-855f-fc24bc5759dc-3
+01:13:57.356 --> 01:14:00.301
+decisions that,
+that are changing their algorithms a
+
+ab376ae9-c1ba-4fcd-855f-fc24bc5759dc-4
+01:14:00.301 --> 01:14:04.246
+little bit because, you know,
+they are tired and they're all ready for
+
+ab376ae9-c1ba-4fcd-855f-fc24bc5759dc-5
+01:14:04.246 --> 01:14:05.080
+the day to end.
+
+1d546173-cb19-469b-bfa7-6d1d333b8d64-0
+01:14:05.440 --> 01:14:07.680
+And, you know,
+you hate to put a finger on that because
+
+1d546173-cb19-469b-bfa7-6d1d333b8d64-1
+01:14:07.680 --> 01:14:09.680
+you don't know what's going on in
+people's heads.
+
+90d47b46-ed6e-4555-b927-1d33ecee2f37-0
+01:14:09.680 --> 01:14:16.320
+But, but, but again, I think, you know,
+we need, we need rested teams.
+
+394a1f63-0f17-4035-8645-0d44575a362f-0
+01:14:16.400 --> 01:14:20.152
+And, and the only way to do that,
+I think is going to be to change
+
+394a1f63-0f17-4035-8645-0d44575a362f-1
+01:14:20.152 --> 01:14:22.616
+environment and in some way so that it's
+a,
+
+394a1f63-0f17-4035-8645-0d44575a362f-2
+01:14:22.616 --> 01:14:25.360
+it's a little bit better environment to
+work in.
+
+db76caa5-4543-46a5-8c87-fec0e29c1e47-0
+01:14:26.120 --> 01:14:27.560
+I think we have to force this issue.
+
+4e46be62-29c4-4b57-b439-b56c1ebe84e0-0
+01:14:27.560 --> 01:14:28.840
+I think someone stated this earlier.
+
+006f2cce-20aa-403d-a1d6-9f5aeb163bce-0
+01:14:28.920 --> 01:14:31.060
+I mean, you're not going to send,
+you know,
+
+006f2cce-20aa-403d-a1d6-9f5aeb163bce-1
+01:14:31.060 --> 01:14:34.320
+a person out on a football field without
+a helmet and proper gear.
+
+3c310949-7fed-4557-9556-537fc087a9a2-0
+01:14:35.080 --> 01:14:37.280
+And, and this is well documented.
+
+239f4cc9-cdd9-40bc-9d02-c849eec87b94-0
+01:14:37.280 --> 01:14:39.531
+I mean,
+I think there was a sky survey I read
+
+239f4cc9-cdd9-40bc-9d02-c849eec87b94-1
+01:14:39.531 --> 01:14:41.440
+about that was done a couple years ago.
+
+f2349438-1960-41aa-9507-26f0a846b6d1-0
+01:14:41.720 --> 01:14:43.909
+You know,
+like 20% or so people reported not
+
+f2349438-1960-41aa-9507-26f0a846b6d1-1
+01:14:43.909 --> 01:14:46.440
+showing up at work because of the
+orthopedic issue.
+
+806aa18d-e976-42ba-b80d-103bee1c6e4a-0
+01:14:46.880 --> 01:14:48.560
+I mean, that's one in five people.
+
+144bf1e1-1c58-4467-b5b5-6c5100095683-0
+01:14:48.560 --> 01:14:49.720
+That's pretty significant.
+
+ce8a41da-0385-46a0-99ff-e19b86741b25-0
+01:14:49.720 --> 01:14:52.280
+And that's probably just scratching the
+surface.
+
+d620a53c-5439-4f0e-a54c-7918ebe9fcb5-0
+01:14:52.800 --> 01:14:57.124
+So I, I think we have to demand as,
+as a special or as a group of
+
+d620a53c-5439-4f0e-a54c-7918ebe9fcb5-1
+01:14:57.124 --> 01:15:01.580
+interventionists who do these procedures
+that this is not optional,
+
+d620a53c-5439-4f0e-a54c-7918ebe9fcb5-2
+01:15:01.580 --> 01:15:02.760
+this is mandatory.
+
+e9e04f83-5917-48e0-977d-251e0f7b9985-0
+01:15:03.360 --> 01:15:07.354
+And we can't put ourselves, you know,
+we're putting ourselves and our own
+
+e9e04f83-5917-48e0-977d-251e0f7b9985-1
+01:15:07.354 --> 01:15:11.080
+health on the line in the long term by
+not having proper protection.
+
+1640abd6-4bc3-4259-84ed-3d9bf3661b0a-0
+01:15:13.480 --> 01:15:16.072
+Yeah, I know it's,
+it's one of those things that, you know,
+
+1640abd6-4bc3-4259-84ed-3d9bf3661b0a-1
+01:15:16.072 --> 01:15:19.268
+we, we like to say on, you know, I would,
+I would do this, but, you know,
+
+1640abd6-4bc3-4259-84ed-3d9bf3661b0a-2
+01:15:19.268 --> 01:15:19.960
+would we really?
+
+782bea8e-9924-4b32-a864-b91da8678a4a-0
+01:15:20.360 --> 01:15:22.360
+And it's fascinating.
+
+ef386288-50a3-4f45-9364-9e5e4f1fe3cd-0
+01:15:23.560 --> 01:15:27.487
+Me and Doctor Isaac did a webinar and we
+asked, we polled people,
+
+ef386288-50a3-4f45-9364-9e5e4f1fe3cd-1
+01:15:27.487 --> 01:15:31.653
+if you did not get the most updated
+radiation protection in your lab,
+
+ef386288-50a3-4f45-9364-9e5e4f1fe3cd-2
+01:15:31.653 --> 01:15:33.320
+would you walk off your job?
+
+b6a79063-4a53-492d-88de-237e493c17e7-0
+01:15:33.920 --> 01:15:37.417
+And, and we thought, you know,
+chances of people actually saying, yeah,
+
+b6a79063-4a53-492d-88de-237e493c17e7-1
+01:15:37.417 --> 01:15:40.477
+if I don't get, you know,
+whatever I'm demanding for radiation
+
+b6a79063-4a53-492d-88de-237e493c17e7-2
+01:15:40.477 --> 01:15:42.080
+protection, I'll walk off my job.
+
+ee25515d-7693-4e1c-a467-031abc6e8c66-0
+01:15:43.120 --> 01:15:45.640
+You think it'd be actually very low,
+But it was 70%.
+
+abc888bd-8eee-4fed-8708-ed796bcbb3b4-0
+01:15:45.640 --> 01:15:47.785
+Now,
+whether or not they'd really do that or
+
+abc888bd-8eee-4fed-8708-ed796bcbb3b4-1
+01:15:47.785 --> 01:15:49.120
+not, you know, I don't know.
+
+ad3b5043-95e6-4258-8ef2-e26853107551-0
+01:15:49.440 --> 01:15:52.446
+But but the fact that at least in their
+mind saying, yeah, I mean,
+
+ad3b5043-95e6-4258-8ef2-e26853107551-1
+01:15:52.446 --> 01:15:54.600
+that should that's the appropriate thing
+to do.
+
+434b765f-845b-4644-85ca-4566cb2f44d1-0
+01:15:54.600 --> 01:15:57.920
+That's really the the,
+the right thing to do.
+
+1f1ae094-ed66-48f7-a8b0-657727520627-0
+01:15:58.080 --> 01:16:04.036
+And and so I do think getting, you know,
+get getting a big voice of everyone in
+
+1f1ae094-ed66-48f7-a8b0-657727520627-1
+01:16:04.036 --> 01:16:10.216
+these fields to say that that this is a
+demand that we have to have and, and, and,
+
+1f1ae094-ed66-48f7-a8b0-657727520627-2
+01:16:10.216 --> 01:16:15.280
+you know, round X-rays, you know,
+certainly to me just makes sense.
+
+8d465e9f-2f10-4af9-b199-256cd207e0f1-0
+01:16:18.800 --> 01:16:22.759
+Well, Bob, I hope hopefully soon,
+this consensus paper,
+
+8d465e9f-2f10-4af9-b199-256cd207e0f1-1
+01:16:22.759 --> 01:16:26.153
+which is multi specialty, moldy society,
+every,
+
+8d465e9f-2f10-4af9-b199-256cd207e0f1-2
+01:16:26.153 --> 01:16:29.618
+every specialty here is represented and
+it will,
+
+8d465e9f-2f10-4af9-b199-256cd207e0f1-3
+01:16:29.618 --> 01:16:33.719
+it will be a call to action and it will
+not be equivocal.
+
+6cf458ae-cf26-4d7a-bd50-1f0282e76045-0
+01:16:34.600 --> 01:16:40.591
+And I think the other thing that's going
+to come up in five years potentially is
+
+6cf458ae-cf26-4d7a-bd50-1f0282e76045-1
+01:16:40.591 --> 01:16:46.583
+if you work in a hospital that won't step
+up and pay for these and you come down
+
+6cf458ae-cf26-4d7a-bd50-1f0282e76045-2
+01:16:46.583 --> 01:16:52.426
+with cervical injury, lumbar injury,
+there's going to be liability and there's
+
+6cf458ae-cf26-4d7a-bd50-1f0282e76045-3
+01:16:52.426 --> 01:16:54.719
+going to be no way around that.
+
+3a5ebf1a-90a6-48bc-a309-edad557f460e-0
+01:16:58.720 --> 01:17:01.140
+Yeah,
+I think just kind of been being being in
+
+3a5ebf1a-90a6-48bc-a309-edad557f460e-1
+01:17:01.140 --> 01:17:02.840
+this for a while after my injury.
+
+b5c20c02-6120-41c4-a889-a51cd3a59ed1-0
+01:17:03.760 --> 01:17:06.941
+You know, the question was, would it,
+you know,
+
+b5c20c02-6120-41c4-a889-a51cd3a59ed1-1
+01:17:06.941 --> 01:17:11.846
+could we actually create change and,
+and make it so that there, you know,
+
+b5c20c02-6120-41c4-a889-a51cd3a59ed1-2
+01:17:11.846 --> 01:17:15.160
+there is a passion for it because we're
+all busy.
+
+2b49351e-0d0b-4296-bcb3-a2b35b60675b-0
+01:17:15.160 --> 01:17:16.400
+I mean, I think that's the thing.
+
+2a9f5513-be95-449d-adeb-23d8e04b4cae-0
+01:17:16.400 --> 01:17:20.243
+And that was one of the issues that a lot
+of us have is we just get busy to to
+
+2a9f5513-be95-449d-adeb-23d8e04b4cae-1
+01:17:20.243 --> 01:17:22.920
+fight for something that we know we need
+to fight for.
+
+9a9e231e-1880-49f7-b726-1f5d48d9ae96-0
+01:17:22.920 --> 01:17:25.320
+But we'd really like to just get through
+our work and go home.
+
+34a8f8d0-182a-45ec-bfdc-81bede5ac77a-0
+01:17:25.800 --> 01:17:30.002
+And and so, you know, you know,
+thank the Lord for for people like,
+
+34a8f8d0-182a-45ec-bfdc-81bede5ac77a-1
+01:17:30.002 --> 01:17:32.783
+you know,
+people on this call who are really
+
+34a8f8d0-182a-45ec-bfdc-81bede5ac77a-2
+01:17:32.783 --> 01:17:37.357
+becoming the voice of, you know,
+our profession and taking the time to do
+
+34a8f8d0-182a-45ec-bfdc-81bede5ac77a-3
+01:17:37.357 --> 01:17:41.250
+it because I know it's,
+it's extra work on time of your normal
+
+34a8f8d0-182a-45ec-bfdc-81bede5ac77a-4
+01:17:41.250 --> 01:17:41.560
+work.
+
+ce99d315-2c04-4483-88aa-9c9872b0141c-0
+01:17:41.560 --> 01:17:43.840
+And it's, you know, it's a lot.
+
+03118110-3cc7-46e1-8092-1ae46e7d92e2-0
+01:17:45.120 --> 01:17:50.200
+It's easier doing things as a team,
+even if not within in house team.
+
+cc86c8a2-fc9b-4525-82c5-f472dfb4cf54-0
+01:17:50.200 --> 01:17:54.476
+But like when I was asking for a lead
+shield years back,
+
+cc86c8a2-fc9b-4525-82c5-f472dfb4cf54-1
+01:17:54.476 --> 01:17:58.904
+I was almost seen as a Nutter and
+probably was very close,
+
+cc86c8a2-fc9b-4525-82c5-f472dfb4cf54-2
+01:17:58.904 --> 01:18:01.080
+not getting a consultant job.
+
+a896d198-ee3d-4a1d-9736-f19e47063337-0
+01:18:01.600 --> 01:18:05.968
+Whereas now if I'd asked for it,
+I don't think anybody would be looking at
+
+a896d198-ee3d-4a1d-9736-f19e47063337-1
+01:18:05.968 --> 01:18:07.600
+me as some sort of a weirdo.
+
+87cbe7db-b7dd-41c2-a653-6a0eb96ad73e-0
+01:18:07.760 --> 01:18:08.920
+It would be the norm.
+
+46ffef50-180f-4c9b-afd9-fa52305aa96c-0
+01:18:09.280 --> 01:18:13.320
+But that's a huge step that's we've come
+through.
+
+151b93e8-553c-4800-80b7-65c65b35ca89-0
+01:18:13.320 --> 01:18:15.520
+So progress is happening.
+
+5dba88dc-05c4-4f13-a406-ccbaa9d6af4e-0
+01:18:15.520 --> 01:18:18.402
+But I think unity,
+having multiple colleagues,
+
+5dba88dc-05c4-4f13-a406-ccbaa9d6af4e-1
+01:18:18.402 --> 01:18:22.880
+not even necessarily within the same
+trust, but even other trusts helps.
+
+96cea840-14b4-4295-9364-8350e6cde44a-0
+01:18:23.000 --> 01:18:24.760
+It pushes this momentum through.
+
+4bbd1c9e-da44-40fb-8f47-b5949a0b224b-0
+01:18:24.760 --> 01:18:28.229
+So if your hospital's doing it,
+the other hospital will be forced to do
+
+4bbd1c9e-da44-40fb-8f47-b5949a0b224b-1
+01:18:28.229 --> 01:18:29.000
+it and so forth.
+
+60fa0441-15f7-4edf-8041-fbbf7d1a0619-0
+01:18:29.280 --> 01:18:33.784
+Whereas if it's just one site on its own
+or one doctor by himself, it,
+
+60fa0441-15f7-4edf-8041-fbbf7d1a0619-1
+01:18:33.784 --> 01:18:34.800
+it doesn't work.
+
+1a4c4bb1-966c-4c86-b4ef-ce6399f24264-0
+01:18:34.800 --> 01:18:39.640
+Momentum works through movement and
+motion and multiple people voicing.
+
+e9ea41eb-aa5a-44df-8403-f734917c8e85-0
+01:18:39.640 --> 01:18:42.217
+Even if your hospital doesn't quite get
+it yet, it,
+
+e9ea41eb-aa5a-44df-8403-f734917c8e85-1
+01:18:42.217 --> 01:18:46.232
+it doesn't mean that you stopped talking
+about it because maybe another hospital
+
+e9ea41eb-aa5a-44df-8403-f734917c8e85-2
+01:18:46.232 --> 01:18:47.720
+will then get it and so forth.
+
+7e122747-9a85-4090-883a-36e6cfb842fd-0
+01:18:47.720 --> 01:18:55.361
+And that will help your 'cause I know on
+this call a lot of you have, you know,
+
+7e122747-9a85-4090-883a-36e6cfb842fd-1
+01:18:55.361 --> 01:19:01.664
+the passion for this space,
+but do you have partners who are just
+
+7e122747-9a85-4090-883a-36e6cfb842fd-2
+01:19:01.664 --> 01:19:09.401
+like, it's not for me And what is their,
+what is their reasoning for that within
+
+7e122747-9a85-4090-883a-36e6cfb842fd-3
+01:19:09.401 --> 01:19:12.839
+the site to me and other colleagues?
+
+9e719c18-dbf9-45b9-82f5-f459dbffff85-0
+01:19:13.600 --> 01:19:18.720
+Yeah, Like, yeah, within your practice,
+if you, you have the passion for it.
+
+02320b2b-4faa-4480-a85e-5409afe91445-0
+01:19:18.720 --> 01:19:20.880
+But I guess they don't have the passion
+for it.
+
+185024b8-4602-4eea-8b83-52602ec25047-0
+01:19:20.960 --> 01:19:23.400
+They, they're not really looking to,
+to change.
+
+82bda709-f4d0-409d-be19-9882e07263af-0
+01:19:23.400 --> 01:19:27.240
+Is it because they're just busy or
+because they just don't care?
+
+edcf025d-0732-4267-991e-8d19d9b3f726-0
+01:19:27.240 --> 01:19:30.240
+They think they're bulletproof or lack of
+knowledge?
+
+e18553d2-23e8-415b-b7e7-bcc80b9112d9-0
+01:19:30.520 --> 01:19:36.380
+It started off so when I was a junior,
+so I got the consultant or the staff job
+
+e18553d2-23e8-415b-b7e7-bcc80b9112d9-1
+01:19:36.380 --> 01:19:42.168
+in the same hospital I trained and when I
+was a trainee I I was very psychotic
+
+e18553d2-23e8-415b-b7e7-bcc80b9112d9-2
+01:19:42.168 --> 01:19:43.560
+about these things.
+
+7a1f36f6-674f-46fc-91c9-88ed719c85c6-0
+01:19:43.560 --> 01:19:46.840
+But I love numbers and I love data and I
+love my dose.
+
+284f4c1d-cf9a-4d05-938a-47b94cb5c280-0
+01:19:48.680 --> 01:19:52.360
+So they were like, OK,
+there's something wrong with her.
+
+25d6051d-8a24-4317-998e-438e57fe92e8-0
+01:19:52.680 --> 01:19:55.920
+Plus I was the only female around,
+so that didn't help matters.
+
+165c954e-7a60-4119-9410-db0b836586f1-0
+01:19:57.280 --> 01:20:00.680
+So asking for things, everyone's like,
+oh for God's sake, it's not a big deal,
+
+165c954e-7a60-4119-9410-db0b836586f1-1
+01:20:00.680 --> 01:20:01.800
+nothing's going to happen.
+
+425a27a8-f737-453f-92d8-8769e7cc8c0c-0
+01:20:02.200 --> 01:20:06.713
+But then slowly what actually changed
+things wasn't me going on about it is
+
+425a27a8-f737-453f-92d8-8769e7cc8c0c-1
+01:20:06.713 --> 01:20:10.040
+because one colleague got cataracts and
+he was only 42.
+
+c570b50a-1dfb-415d-93c7-ccfc4264c78c-0
+01:20:10.920 --> 01:20:15.000
+And then few years later another
+colleague started getting blood.
+
+aeb5e901-78ba-49f6-8e90-1a0ed375e3ee-0
+01:20:15.160 --> 01:20:19.320
+Funny vision and Lord behold cataracts
+again.
+
+7c39ac2a-f28c-4fe4-ad5f-100c60229f42-0
+01:20:19.840 --> 01:20:23.480
+And that's one kind of like, oh God,
+she's actually telling the truth.
+
+1d28d4e5-7c31-42db-a52d-cbc1266434be-0
+01:20:24.600 --> 01:20:26.440
+She was just saying this is right.
+
+6a8f521e-970c-436d-9d89-9ec2b316d6d1-0
+01:20:26.440 --> 01:20:27.000
+I'm God.
+
+28a6dc68-f486-4bd6-84ba-85147e2582ad-0
+01:20:27.640 --> 01:20:28.480
+And I was like, don't worry.
+
+473a7408-3a92-416f-a24c-f7ed30016cdd-0
+01:20:28.480 --> 01:20:30.640
+You don't need to say I told you so don't
+worry.
+
+601d1b7b-800a-457a-b923-62116b114921-0
+01:20:30.640 --> 01:20:33.560
+I'm not going to say it,
+but I think that's what it is.
+
+1dc79aea-854b-40a4-9f15-4f9e2d39e025-0
+01:20:33.560 --> 01:20:35.880
+It's lack of knowledge and awareness.
+
+1aeaf3d2-58ff-4b9c-98ac-6cbe11e7a418-0
+01:20:35.880 --> 01:20:39.631
+And because you haven't seen it,
+you haven't heard of anybody having a
+
+1aeaf3d2-58ff-4b9c-98ac-6cbe11e7a418-1
+01:20:39.631 --> 01:20:41.640
+problem, you assume no problems exist.
+
+f79d3a0e-c8cb-44be-bd79-2908a8a6d46c-0
+01:20:41.640 --> 01:20:45.517
+But then the moment we had, you know,
+these two colleagues and then another
+
+f79d3a0e-c8cb-44be-bd79-2908a8a6d46c-1
+01:20:45.517 --> 01:20:49.293
+person had some another problem and then
+it becomes reality actually, oh,
+
+f79d3a0e-c8cb-44be-bd79-2908a8a6d46c-2
+01:20:49.293 --> 01:20:51.640
+people amongst my generation having
+problems.
+
+42ad42d7-5357-4c51-b04d-883b8661cd43-0
+01:20:52.200 --> 01:20:52.840
+It's real.
+
+7537b297-94e7-4448-812c-062fc8b69258-0
+01:20:56.440 --> 01:21:00.760
+I think it has to be a combination of
+education and regulation.
+
+1a649ff1-fdf1-4cd7-9b49-0ba38ecd1175-0
+01:21:01.520 --> 01:21:07.240
+And as people involved in the process,
+we have to push it.
+
+f4f577c1-74e3-4fe0-91e8-8856c13ed2b3-0
+01:21:07.840 --> 01:21:11.931
+I mean at least at least the across the
+pond here,
+
+f4f577c1-74e3-4fe0-91e8-8856c13ed2b3-1
+01:21:11.931 --> 01:21:18.269
+regulation will then push hospitals in
+order to provide what is expected to be
+
+f4f577c1-74e3-4fe0-91e8-8856c13ed2b3-2
+01:21:18.269 --> 01:21:21.879
+provided and and that's not easy to come
+in.
+
+23ff9e86-4444-44b6-b076-c231db9a1949-0
+01:21:21.880 --> 01:21:25.515
+So if they go hand in hand,
+education and regulation,
+
+23ff9e86-4444-44b6-b076-c231db9a1949-1
+01:21:25.515 --> 01:21:28.680
+then that that will lead us to the end
+result.
+
+7b1c4db3-1551-45f7-a12a-e7b59648f2d8-0
+01:21:28.680 --> 01:21:35.520
+I feel who who regulate in over there?
+
+6cf65af7-f479-4726-a3e5-5377482be3d1-0
+01:21:35.520 --> 01:21:41.448
+Who is the regulator of your So the
+regular every, every,
+
+6cf65af7-f479-4726-a3e5-5377482be3d1-1
+01:21:41.448 --> 01:21:49.320
+every hospital has a medical physics
+department to look at individual doses.
+
+b82a15ec-ffcf-402f-bbb6-69c7eaf769cd-0
+01:21:49.320 --> 01:21:53.145
+As I said before,
+they are emailed to the people who have
+
+b82a15ec-ffcf-402f-bbb6-69c7eaf769cd-1
+01:21:53.145 --> 01:21:55.520
+the dosage badges and they regulate.
+
+5b1f0938-98cf-436b-bd0f-276762584acc-0
+01:21:55.520 --> 01:22:00.802
+So there has to be all the aprons will
+have to be checked or cracks and stuff
+
+5b1f0938-98cf-436b-bd0f-276762584acc-1
+01:22:00.802 --> 01:22:01.480
+like that.
+
+165f8077-4298-45df-abc6-6aae887bb3a5-0
+01:22:02.080 --> 01:22:07.280
+And they make sure that that that is done
+in a, in a constant manner.
+
+7365534e-e735-4480-a714-0470ad17b229-0
+01:22:07.560 --> 01:22:13.209
+And every year the machines are checked
+to to see that the amount of radiation
+
+7365534e-e735-4480-a714-0470ad17b229-1
+01:22:13.209 --> 01:22:17.000
+that they are spitting out is,
+is OK and acceptable.
+
+3a046cbb-83c7-4aac-af2d-1a0d6083efc6-0
+01:22:17.000 --> 01:22:21.042
+So you have those step wedge filters
+through which you're passing the
+
+3a046cbb-83c7-4aac-af2d-1a0d6083efc6-1
+01:22:21.042 --> 01:22:25.200
+radiation to see how it's worth working
+and models and stuff like that.
+
+c1ef644c-0454-4324-8250-bde3fbb8bde7-0
+01:22:25.200 --> 01:22:30.682
+So it's a combination of that and, and,
+and then the education that us as
+
+c1ef644c-0454-4324-8250-bde3fbb8bde7-1
+01:22:30.682 --> 01:22:35.276
+societies and, and,
+and the royal colleges and others try and
+
+c1ef644c-0454-4324-8250-bde3fbb8bde7-2
+01:22:35.276 --> 01:22:36.240
+push through.
+
+25f2d47d-70b0-4953-be0f-b98739a3e3e6-0
+01:22:36.680 --> 01:22:39.294
+I think that's,
+that's the only way to make inroads,
+
+25f2d47d-70b0-4953-be0f-b98739a3e3e6-1
+01:22:39.294 --> 01:22:39.640
+I feel.
+
+7d6d808a-d4f6-44fa-b919-0ab3df680415-0
+01:22:39.760 --> 01:22:41.738
+Yeah,
+I feel like we can learn a lot from you
+
+7d6d808a-d4f6-44fa-b919-0ab3df680415-1
+01:22:41.738 --> 01:22:43.200
+because ours is very fractionated.
+
+90be2d1e-251f-4bab-a58f-216ab73d7515-0
+01:22:43.200 --> 01:22:47.378
+We have some extremely involved radiation
+safety officers and,
+
+90be2d1e-251f-4bab-a58f-216ab73d7515-1
+01:22:47.378 --> 01:22:51.291
+and involved hospitals,
+and then we have others that just,
+
+90be2d1e-251f-4bab-a58f-216ab73d7515-2
+01:22:51.291 --> 01:22:54.673
+you know,
+that just aren't and there's not really,
+
+90be2d1e-251f-4bab-a58f-216ab73d7515-3
+01:22:54.673 --> 01:22:59.581
+again, kind of as Doctor Sedo said,
+I think you have to put some teeth in
+
+90be2d1e-251f-4bab-a58f-216ab73d7515-4
+01:22:59.581 --> 01:23:04.290
+some of these things to say that if
+you're going to do this, you know,
+
+90be2d1e-251f-4bab-a58f-216ab73d7515-5
+01:23:04.290 --> 01:23:08.800
+you've got to check these boxes or else
+that hospital, you know, X.
+
+4f90a6a0-78b9-4c75-9b00-6a2a5b47c8e7-0
+01:23:09.200 --> 01:23:12.479
+And so, you know, I think it's,
+I think that's what one of the things
+
+4f90a6a0-78b9-4c75-9b00-6a2a5b47c8e7-1
+01:23:12.479 --> 01:23:16.040
+that's important to you if you work in
+our hospital that I used to work in.
+
+bd653627-201e-4d9b-b735-ec0e196d4268-0
+01:23:16.040 --> 01:23:18.951
+And you look at the under table shielding,
+you know,
+
+bd653627-201e-4d9b-b735-ec0e196d4268-1
+01:23:18.951 --> 01:23:23.290
+it was the original shielding of what's
+left of it used to go all the way down
+
+bd653627-201e-4d9b-b735-ec0e196d4268-2
+01:23:23.290 --> 01:23:23.840
+the table.
+
+e5668b57-05f4-4d74-a7fb-6da1359b6e39-0
+01:23:23.840 --> 01:23:27.960
+And now there's like 3 little strands and,
+you know, all torn up.
+
+389e1f4c-66f6-4a9e-a6a1-15a393367da9-0
+01:23:27.960 --> 01:23:30.203
+And,
+and so they hadn't been replaced in the
+
+389e1f4c-66f6-4a9e-a6a1-15a393367da9-1
+01:23:30.203 --> 01:23:31.200
+abdominal shielding.
+
+b5751f7d-f3f8-4ac8-96a5-d0fbba625ff5-0
+01:23:31.200 --> 01:23:32.520
+You know, who knows where it is?
+
+1c926313-d0d4-440b-ae87-3292de333cc2-0
+01:23:32.840 --> 01:23:35.560
+You know, you got lost years ago and,
+and nobody ever put it on.
+
+6466b901-b252-4dac-8ed2-05ea2437439a-0
+01:23:35.560 --> 01:23:39.525
+You have Cath lab changes and personnel
+that never knew that there used to be
+
+6466b901-b252-4dac-8ed2-05ea2437439a-1
+01:23:39.525 --> 01:23:41.000
+abdominal shielding on there.
+
+f32937dc-6723-4749-a496-e9fa15fa3132-0
+01:23:41.360 --> 01:23:46.823
+But but again, it's, you know, there's no,
+there's no forcing education to say,
+
+f32937dc-6723-4749-a496-e9fa15fa3132-1
+01:23:46.823 --> 01:23:50.238
+you know,
+this is what's proper in these labs and
+
+f32937dc-6723-4749-a496-e9fa15fa3132-2
+01:23:50.238 --> 01:23:52.559
+this is what has to be maintained.
+
+8d3079e9-1bbb-49fd-986b-bb17f8fb953e-0
+01:23:52.880 --> 01:23:56.720
+And, and maybe it goes back to that,
+that kind of time out.
+
+3d30daf6-adb2-46f8-a952-30d330528ca3-0
+01:23:57.240 --> 01:23:59.382
+But, you know,
+do we have everything in the proper
+
+3d30daf6-adb2-46f8-a952-30d330528ca3-1
+01:23:59.382 --> 01:23:59.760
+position?
+
+1f956ddb-37ac-4666-9521-e92604f248ce-0
+01:24:00.520 --> 01:24:01.960
+Trainees do have a power.
+
+552a7ad7-f661-4389-be35-7d44a4b99209-0
+01:24:01.960 --> 01:24:04.870
+So for this is not about radiation
+protection,
+
+552a7ad7-f661-4389-be35-7d44a4b99209-1
+01:24:04.870 --> 01:24:09.761
+but trainees have the power to demand if
+some center is not adequate for their
+
+552a7ad7-f661-4389-be35-7d44a4b99209-2
+01:24:09.761 --> 01:24:12.299
+needs,
+they can actually get removed and
+
+552a7ad7-f661-4389-be35-7d44a4b99209-3
+01:24:12.299 --> 01:24:13.600
+hospitals lose funds.
+
+2995daa3-3c16-4c95-838b-a5422734b47f-0
+01:24:13.600 --> 01:24:18.045
+If they lose trainees or you lose status
+because you do not provide adequate
+
+2995daa3-3c16-4c95-838b-a5422734b47f-1
+01:24:18.045 --> 01:24:20.873
+teaching,
+you don't provide one of them would be
+
+2995daa3-3c16-4c95-838b-a5422734b47f-2
+01:24:20.873 --> 01:24:24.280
+should be you don't provide adequate
+radiation protection.
+
+494803a6-ab99-4a14-b73f-2a7a99a9084b-0
+01:24:24.280 --> 01:24:27.858
+So why should we send you trainees and
+pay for these trainees to be trained by
+
+494803a6-ab99-4a14-b73f-2a7a99a9084b-1
+01:24:27.858 --> 01:24:28.040
+you?
+
+bf8f69b7-b023-4130-9a94-84b6a4b3bfc3-0
+01:24:28.400 --> 01:24:29.800
+So trainees have the power.
+
+021a03f7-9553-4efa-b276-867b98715cb3-0
+01:24:29.800 --> 01:24:33.199
+There's few sites that lost trainees
+because of other stuff,
+
+021a03f7-9553-4efa-b276-867b98715cb3-1
+01:24:33.199 --> 01:24:37.880
+because the trainees spoke to the Deanery
+and said this is not we're not having it.
+
+af00852b-e5c3-4a36-9eed-d30836af873d-0
+01:24:37.880 --> 01:24:39.360
+And therefore trainees didn't go.
+
+e7687c07-fda8-43a9-9d7b-da4e38019c99-0
+01:24:39.360 --> 01:24:43.240
+And then the hospitals were forced to
+make those changes so they can get
+
+e7687c07-fda8-43a9-9d7b-da4e38019c99-1
+01:24:43.240 --> 01:24:46.695
+trainees back because they lost their
+status as a training site,
+
+e7687c07-fda8-43a9-9d7b-da4e38019c99-2
+01:24:46.695 --> 01:24:50.682
+which is a big deal in the UK for
+university teacher hospital and you lose
+
+e7687c07-fda8-43a9-9d7b-da4e38019c99-3
+01:24:50.682 --> 01:24:51.320
+your status.
+
+48bb9207-13bc-4f75-9512-056f3402edf9-0
+01:24:52.000 --> 01:24:53.080
+That's a lot of money.
+
+7179c093-12fe-4ecf-a37f-88e235527bbd-0
+01:24:53.080 --> 01:24:53.160
+Wow.
+
+e4ff9d90-ec1c-4843-9f8b-361da622a330-0
+01:24:54.520 --> 01:24:55.280
+Yeah, that's teeth.
+
+32f19852-1fb2-4515-bcbf-85402bb4ad29-0
+01:24:56.120 --> 01:24:58.920
+We don't know,
+you know which which that may be.
+
+a6be097a-e54c-44c5-abd1-aa6d087a57c8-0
+01:24:58.960 --> 01:25:00.680
+You know, again,
+that's maybe what it takes.
+
+9cffdf71-fb98-46ab-9c37-64726923e870-0
+01:25:01.280 --> 01:25:03.440
+Well, that's the end of our time everyone,
+thank you.
+
+6d85468c-4247-4298-b65e-d96b5b45776d-0
+01:25:03.440 --> 01:25:04.320
+It was fantastic.
+
+d3acfafb-73df-4de6-b31e-5cfa1074ff89-0
+01:25:04.320 --> 01:25:05.800
+Hopefully I'll see some of you tomorrow.
+
+f172e91e-f645-4455-b8d7-0804cc28d8bb-0
+01:25:07.040 --> 01:25:07.520
+You know that.
+
+608c78f7-87e8-4952-bdc7-240c3e237eed-0
+01:25:07.520 --> 01:25:13.113
+I think it just winds up a great day of
+the first CERT 2025 tomorrow will start
+
+608c78f7-87e8-4952-bdc7-240c3e237eed-1
+01:25:13.113 --> 01:25:15.840
+tomorrow at 9:00 Eastern for session 5.
+
+2aa6fcaf-bf9e-4322-a158-84d5975482bc-0
+01:25:16.080 --> 01:25:19.920
+It's I think Bella's going to lead,
+lead data protecting women in practice.
+
+9402b18f-afde-4613-b933-e97e1164f569-0
+01:25:19.920 --> 01:25:23.040
+So looking forward to that and then
+another round table tomorrow.
+
+6670d5aa-82a7-4797-a686-8342163ceafe-0
+01:25:23.040 --> 01:25:24.200
+So I hope you'll join us then.
+
+2de5eb86-95e8-42b3-a39f-f2f2b2ac6dd3-0
+01:25:24.200 --> 01:25:24.960
+But thank you all.
+
+45947e66-0fa8-41d4-9dd1-f5dcb5812517-0
+01:25:26.200 --> 01:25:26.760
+Thank you.
+
+e32e0ba6-057f-4c2a-b0ea-642e4c8c2feb-0
+01:25:27.040 --> 01:25:27.760
+Thanks so much.

@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Image bank (source files, not needed for deployment)
+image-bank/
+
+# Large transcript files (source files)
+quotes/*.json
+
+# Keep VTT transcripts for reference
