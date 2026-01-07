@@ -24,6 +24,9 @@ This is the **ORSIF Homepage Redesign** - a conversion-optimized landing page fo
 - [x] Updated hero logo to horizontal white version with tagline
 - [x] Split hero headline onto two lines for better visual impact
 
+### Completed (January 7, 2026):
+- [x] Swapped section order: "Two Threats. One Mission." now appears before "The Evidence Is Clear"
+
 ### Pending (Future Sessions):
 - [ ] Team review and feedback incorporation
 - [ ] Custom domain configuration (www.orsif.org or similar)
@@ -87,8 +90,8 @@ ORSIF-website/
 | Section | Content | CTA |
 |---------|---------|-----|
 | 1. Hero | "Protect Your Career. Protect Your Life." | Join Free + Learn About Risks |
-| 2. Statistics | 24M+ / 6.1% / 85% / 59.8% + expert quote | Read the Research |
-| 3. Dual Hazard | Radiation + Musculoskeletal differentiator | — |
+| 2. Dual Hazard | Radiation + Musculoskeletal differentiator | — |
+| 3. Statistics | 24M+ / 6.1% / 85% / 59.8% + expert quote | Read the Research |
 | 4. Audience Paths | Clinicians / RSOs / Institutions | Resources for each |
 | 5. Membership Value | 6-item grid: Education, Guidelines, Research, Tools, Events, Advocacy | Get Free Access Now |
 | 6. Resources Preview | 3 cards: FAQs, US Guidelines, International | Browse All Resources |
@@ -217,6 +220,6 @@ This homepage links to existing ORSIF properties:
 
 ---
 
-*Last Updated: January 5, 2026*
+*Last Updated: January 7, 2026*
 *Live Site: https://orsif-homepage.vercel.app*
 *Created with Claude Code (Opus 4.5)*
